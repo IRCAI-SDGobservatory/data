@@ -7,3 +7,9 @@ The references to this work are as follows:
 Phadke H. and DeMates L. (2022) Investing with the Sustainable Development Goals. TruValue Labs
 Salvatori A. and Ho C. (2022) Measuring Corporate SDG Alignment. TruValue Labs
 
+
+
+
+#### Country Codes
+
+Taken from https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes/tree/master

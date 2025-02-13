@@ -1,0 +1,561 @@
+indicators,SDG,Not_Show,Short_Name
+Number of slave ships departed,0,0,Number of slave ships departed
+There is legislation on sexual harassment in employment (1=yes; 0=no),0,0,There is legislation on sexual harassment in employment (1=yes; 0=no)
+Classification of past colonial powers,0,0,Classification of past colonial powers
+Number of slave ships arrived,0,,Number of slave ships arrived
+output_quantity,0,0,output_quantity
+Population: female (% of total population),0,0,Population: female (% of total population)
+Top 1% - Share-pretax,0,0,Top 1% - Share-pretax
+GPI Score,1,,GPI Score
+World Bank's income classification,1,,World Bank's income classification
+Gini coefficient of lifespan inequality - Sex: male,1,,Gini coefficient of lifespan inequality - Sex: male
+GDP per person employed (constant 2017 PPP $),1,,GDP per person employed (constant 2017 PPP $)
+Poverty headcount ratio at national poverty lines (% of population),1,,Poverty headcount ratio at national poverty lines (% of population)
+Gini coefficient of lifespan inequality - Sex: female,1,,Gini coefficient of lifespan inequality - Sex: female
+Gini coefficient,1,,Gini coefficient
+All fertilizers use per area of cropland,1,,All fertilizers use per area of cropland
+8.2.1 - Annual growth rate of real GDP per employed person (%) - SL_EMP_PCAP,1,,Annual growth rate of real GDP per employed person (%)
+Openness of executive recruitment,1,0,Openness of executive recruitment
+Electoral democracy (best estimate) (re-estimate),1,,Electoral democracy (best estimate) (re-estimate)
+Prevalence of anemia among children (% of children ages 6-59 months),1,,Prevalence of anemia among children (% of children ages 6-59 months)
+Tomatoes | 00000388 || Production | 005510 || tonnes,2,,Tomatoes Production (tonnes)
+Fruit | 00002919 || Food available for consumption | 0645pc || kilograms per year per capita,2,,Fruit available for consumption (kg year capita)
+Sorghum yield,2,,Sorghum yield
+Wheat | 00000015 || Production | 005510 || tonnes,2,,Wheat Production (tonnes)
+Capture fisheries production (metric tons),2,,Capture fisheries production (metric tons)
+Milk | 00001780 || Yield | 005420 || kilograms per animal,2,,Milk Yield (kg animal)
+Food exports (% of merchandise exports),2,,Food exports (% of merchandise exports)
+Share of global food emissions,2,0,Share of global food emissions
+Share of cereals that are allocated to human food,2,,Share of cereals that are allocated to human food
+Share of cereals that are allocated to animal feed,2,,Share of cereals that are allocated to animal feed
+Meat: poultry | 00001808 || Yield | 005424 || kilograms per animal,2,,Meat: poultry Yield (kg per animal)
+Meat of cattle with the bone: fresh or chilled | 00000867 || Yield | 005417 || kilograms per animal,2,,Meat of cattle with the bone: fresh or chilled (kg)
+Meat: chicken | 00001058 || Production | 005510 || tonnes,2,,Meat: chicken Production (tonnes)
+2.1.1 Prevalence of undernourishment | 000000000024000 || Value | 006121 || Percent,2,,Prevalence of undernourishment (Percent)
+Share of employment in agriculture (Herrendorf et al. and GGDC-10 data),2,,Share of employment in agriculture (Herrendorf et al. and GGDC-10 data)
+Eggs | 00002949 || Food available for consumption | 0645pc || kilograms per year per capita,2,,Eggs available for consumption (kg/capita)
+Potatoes yield,2,,Potatoes yield
+Meat: total | 00002943 || Food available for consumption | 0645pc || kilograms per year per capita,2,,Meat available for consumption (kg/capita)
+Barley yield,2,0,Barley yield
+Rye yield,2,,Rye yield
+Nutrient phosphate P2O5 (total) | 00003103 || Use per area of cropland | 005159 || Kilograms per hectare,2,0,Nutrient phosphate P2O5 (total)
+Vegetables | 00002918 || Food available for consumption | 0645pc || kilograms per year per capita,2,,Vegetables available for consumption
+Oats yield,2,,Oats yield
+Potatoes yield split,2,,Potatoes yield split
+fertilizer_per_capita,2,,fertilizer_per_capita
+Food's share of total emissions (incl. LULUFC),2,,Food's share of total emissions (incl. LULUFC)
+Milk - Excluding Butter | 00002848 || Food available for consumption | 0645pc || kilograms per year per capita,2,,Milk - Excluding Butter available for consumption
+Pesticides (total) | 00001357 || Use per area of cropland | 005159 || Kilograms per hectare,2,,Pesticides (total) use per area of cropland
+Meat: pig | 00001035 || Yield | 005417 || kilograms per animal,2,0,Meat: pig | 00001035 || Yield | 005417 || kilograms per animal
+Eggs | 00001783 || Yield | 005410 || kilograms per animal,2,0,Eggs | 00001783 || Yield | 005410 || kilograms per animal
+Land use (per capita): Agriculture,2,,Land use (per capita): Agriculture
+Wheat yield split,2,0,Wheat yield split
+Cereals | 00001717 || Yield | 005419 || tonnes per hectare,2,,Cereals Yield (tonnes per hectare)
+share_employed_agri,2,0,share_employed_agri
+Fish and seafood | 00002960 || Food available for consumption | 0645pc || kilograms per year per capita,2,0,Fish and seafood | 00002960 || Food available for consumption | 0645pc || kilograms per year per capita
+Agriculture: forestry: and fishing: value added (% of GDP),2,,Agriculture: forestry: and fishing: value added (% of GDP)
+Meat: chicken | 00001058 || Yield | 005424 || kilograms per animal,2,,Meat: chicken Yield (kilograms per animal)
+Agriculture: forestry: and fishing: value added per worker (constant 2015 US$),2,,Agriculture: forestry: and fishing: value added per worker (constant 2015 US$)
+Maize yield,2,,Maize yield
+Meat: kilograms per year per capita,2,,Meat: kilograms per year per capita
+Wheat yield,2,,Wheat yield
+Arable land (% of land area),2,,Arable land (% of land area)
+Fish and seafood | 00002960 || Production | 005511 || tonnes,2,,Fish and seafood Production (tonnes)
+Maize yield split,2,,Maize yield split
+Total | 00002901 || Food available for consumption | 0684pc || grams of fat per day per capita,2,,Total Food available for consumption (grams of fat per day per capita)
+fertilizer_quantity,2,0,fertilizer_quantity
+Nutrient nitrogen N (total) | 00003102 || Use per area of cropland | 005159 || Kilograms per hectare,2,,Nutrient nitrogen N (total) use per area of cropland (Kilograms per hectare)
+Agricultural land (% of land area),2,,Agricultural land (% of land area)
+Fertilizer consumption (kilograms per hectare of arable land),2,,Fertilizer consumption (kilograms per hectare of arable land)
+Rice yield,2,,Rice yield
+Total | 00002901 || Food available for consumption | 0674pc || grams of protein per day per capita,2,,Total Food available for consumption (grams of protein per day per capita)
+Cropland | 00006620 || Area | 005110 || hectares,2,,Cropland Area (hectares)
+Life expectancy difference (f-m) - Type: period - Sex: both - Age: 0,3,0,Life expectancy difference (f-m)
+Current health expenditure (CHE) as percentage of gross domestic product (GDP) (%),3,,Current health expenditure (%)
+Rate of Fire: heat: and hot substances deaths,3,0,Heat and hot substances deaths
+Death rate from mental and substance use disorders among both sexes,3,0,Death rate from mental and substance use disorders among both sexes
+Prevalence of anemia among women of reproductive age (% of women ages 15-49),3,,Anemia among women of reproductive age (%)
+Percent of Total burden related to hepatitis C deaths,3,,Percent of hepatitis C deaths
+Death rate from falls among both sexes,3,0,Death rate from falls among both sexes
+Percent of Diarrheal diseases deaths,3,,Percent of Diarrheal diseases deaths
+Percent of Rabies deaths,3,,Percent of Rabies deaths
+Percent of Falls deaths,3,0,Percent of Falls deaths
+Percent of Kidney cancer deaths,3,0,Percent of Kidney cancer deaths
+Births attended by skilled health staff (% of total),3,,Births attended by skilled health staff (% of total)
+Percent of Maternal disorders deaths,3,,Percent of Maternal disorders deaths
+Rate of Uterine cancer deaths,3,0,Rate of Uterine cancer deaths
+Case fatality ratio (percentage),3,0,Case fatality ratio (percentage)
+Percent of Foreign body deaths,3,0,Percent of Foreign body deaths
+Percent of Meningitis deaths,3,,Percent of Meningitis deaths
+Observation value - Unit of measure: Deaths per 100 live births - Indicator: Infant mortality rate - Sex: Both sexes - Wealth quintile: All wealth quintiles,3,,Infant mortality rate
+Rate of Adverse effects of medical treatment deaths,3,0,Rate of Adverse effects of medical treatment deaths
+Raised fasting blood glucose (>=7.0 mmol/L) (age-standardized estimate) - Sex: both sexes - Age group: 18+  years,3,0,Raised fasting blood glucose
+Rate of Total burden related to hepatitis C deaths,3,0,Rate of Total burden related to hepatitis C deaths
+Vaccination schedule for Inactivated Polio Vaccine (IPV),3,0,Vaccination schedule for Inactivated Polio Vaccine (IPV)
+Percent of Testicular cancer deaths,3,0,Percent of Testicular cancer deaths
+Percent of Total cancers deaths,3,,Percent of Total cancers deaths
+Estimated maternal mortality ratio,3,,Estimated maternal mortality ratio
+Rate of Alcohol use disorders deaths,3,,Rate of Alcohol use disorders deaths
+Rate of Self-harm deaths,3,0,Rate of Self-harm deaths
+Death rate from diarrhoeal diseases among both sexes,3,,Death rate from diarrhoeal diseases among both sexes
+Percent of Chronic kidney disease deaths,3,,Percent of Chronic kidney disease deaths
+Overweight prevalence among children under 5 years of age (% weight-for-height >+2 SD): model-based estimates,3,,Overweight prevalence among children under 5 years of age (%)
+Percent of Stroke deaths,3,,Percent of Stroke deaths
+Percent of Total burden related to hepatitis B deaths,3,0,Percent of Total burden related to hepatitis B deaths
+Rate of Rabies deaths,3,,Rate of Rabies deaths
+Prevalence of obesity among adults: BMI >= 30 (age-standardized estimate) (%) - Sex: male - Age group: 18+  years,3,,Prevalence of obesity among adults (%)
+Birth rate - Sex: all - Age: all - Variant: estimates,3,,Birth rate (estimates)
+Neonatal tetanus - number of reported cases per million,3,0,Neonatal tetanus - number of reported cases per million
+Percent of Prostate cancer deaths,3,,Percent of Prostate cancer deaths
+Percent of Other unintentional injuries deaths,3,0,Percent of Other unintentional injuries deaths
+Death rate - Sex: all - Age: all - Variant: estimates,3,0,Death rate - Sex: all - Age: all - Variant: estimates
+Rate of Malaria deaths,3,,Rate of Malaria deaths
+Percent of Cervical cancer deaths,3,0,Percent of Cervical cancer deaths
+Percent of Asthma deaths,3,,Percent of Asthma deaths
+Prevalence of obesity among adults: BMI >= 30 (age-standardized estimate) (%) - Sex: both sexes - Age group: 18+  years,3,,Prevalence of obesity among adults
+Rate of Multiple sclerosis deaths,3,0,Rate of Multiple sclerosis deaths
+Death rate from natural disasters among both sexes,3,0,Death rate from natural disasters among both sexes
+Percent of Eating disorders deaths,3,,Percent of Eating disorders deaths
+Share of adults who are overweight (age-standardized) - Sex: female - Age group: 18+  years,3,,Share of adults who are overweight (age-standardized)
+Percent of Road injuries deaths,3,0,Percent of Road injuries deaths
+Death rate from meningitis among both sexes,3,,Death rate from meningitis
+Rate of Ovarian cancer deaths,3,,Rate of Ovarian cancer deaths
+Percent of Bladder cancer deaths,3,0,Percent of Bladder cancer deaths
+DTP3 (% of one-year-olds immunized),3,0,DTP3 (% of one-year-olds immunized)
+Age-standardized death rate from hypertensive heart disease among both sexes,3,0,Age-standardized death rate from hypertensive heart disease among both sexes
+Measles - number of reported cases,3,,Measles - number of reported cases
+Percent of Brain and central nervous system cancer deaths,3,0,Percent of Brain and central nervous system cancer deaths
+Rate of HIV/AIDS deaths,3,,Rate of HIV/AIDS deaths
+Physicians (per 1:000 people),3,,Physicians (per 1:000 people)
+Rate of Measles deaths,3,,Rate of Measles deaths
+Alcohol: recorded per capita (15+) consumption (in litres of pure alcohol) - Beverage types: Beer,3,0,Alcohol: recorded per capita (15+) consumption (in litres of pure alcohol): Beer
+Mean BMI (male),3,0,Mean BMI (male)
+Percent of Measles deaths,3,0,Percent of Measles deaths
+Rate of Brain and central nervous system cancer deaths,3,0,Rate of Brain and central nervous system cancer deaths
+Age-standardized death rate from rheumatic heart disease among both sexes,3,0,Age-standardized death rate from rheumatic heart disease among both sexes
+Vaccination schedule for rubella vaccine,3,0,Vaccination schedule for rubella vaccine
+Total deaths from meningitis among both sexes,3,0,Total deaths from meningitis among both sexes
+Percent of Breast cancer deaths,3,0,Percent of Breast cancer deaths
+Percent of Malaria deaths,3,,Percent of Malaria deaths
+Rate of Asthma deaths,3,,Rate of Asthma deaths
+Percent of Zika virus deaths,3,,Percent of Zika virus deaths
+Percent of Tetanus deaths,3,,Percent of Tetanus deaths
+Percent of Fire: heat: and hot substances deaths,3,0,Percent of Fire: heat: and hot substances deaths
+Life expectancy at birth UNDP,3,0,Life expectancy at birth UNDP
+Rate of Animal contact deaths,3,0,Rate of Animal contact deaths
+Rate of Foreign body deaths,3,0,Rate of Foreign body deaths
+Rate of Kidney cancer deaths,3,0,Rate of Kidney cancer deaths
+Prevalence of overweight among children and adolescents: BMI > +1 standard deviations above the median (crude estimate) (%) - Sex: both sexes - Age group: 5-19  years,3,0,Prevalence of overweight among children and adolescents
+Life expectancy at birth,3,,Life expectancy at birth
+Ten year age-group with the highest population,3,0,Ten year age-group with the highest population
+Share of adults who are overweight (age-standardized) - Sex: both sexes - Age group: 18+  years,3,0,Share of adults who are overweight (age-standardized)
+Percent of Leukemia deaths,3,,Percent of Leukemia deaths
+Share of adults who are overweight (age-standardized) - Sex: male - Age group: 18+  years,3,0,Share of adults who are overweight (age-standardized)
+Percent of Total burden related to Non-alcoholic fatty liver disease (NAFLD) deaths,3,0,Percent of Total burden related to Non-alcoholic fatty liver disease (NAFLD) deaths
+Death rate from alcohol use disorders among both sexes,3,0,Death rate from alcohol use disorders among both sexes
+Estimated HIV in incident tuberculosis,3,0,Estimated HIV in incident tuberculosis
+Rate of Total Cancers excluding Non-melanoma skin cancer deaths,3,0,Rate of Total Cancers excluding Non-melanoma skin cancer deaths
+Death rate from tuberculosis among both sexes,3,0,Death rate from tuberculosis among both sexes
+Percent of Parkinson's disease deaths,3,0,Percent of Parkinson's disease deaths
+Percent of Uterine cancer deaths,3,0,Percent of Uterine cancer deaths
+MCV1 (% of one-year-olds immunized),3,0,MCV1 (% of one-year-olds immunized)
+Domestic general government health expenditure (% of current health expenditure),3,,Domestic general government health expenditure (% of current health expenditure)
+Percent of Poisonings deaths,3,0,Percent of Poisonings deaths
+Rate of Total burden related to hepatitis B deaths,3,0,Rate of Total burden related to hepatitis B deaths
+Rate of Maternal disorders deaths,3,0,Rate of Maternal disorders deaths
+Sex ratio - Sex: all - Age: 5 - Variant: estimates,3,0,Sex ratio - Sex: all - Age: 5 - Variant: estimates
+Case detection rate (all forms),3,0,Case detection rate (all forms)
+Rate of Zika virus deaths,3,0,Rate of Zika virus deaths
+Rate of Falls deaths,3,0,Rate of Falls deaths
+Percent of Alzheimer's disease and other dementias deaths,3,0,Percent of Alzheimer's disease and other dementias deaths
+Top 1% - Share (Pretax) (Estimated),3,0,Top 1% - Share (Pretax) (Estimated)
+Death rate from interpersonal violence among both sexes,3,0,Death rate from interpersonal violence among both sexes
+Total deaths from dengue among both sexes,3,,Total deaths from dengue among both sexes
+Age-standardized death rate from cardiomyopathy: myocarditis: endocarditis among both sexes,3,0,Age-standardized death rate from cardiomyopathy: myocarditis: endocarditis among both sexes
+Estimated mortality from all forms of tuberculosis per 100:000 population,3,0,Estimated mortality from all forms of tuberculosis per 100:000 population
+Alcohol: recorded per capita (15+) consumption (in litres of pure alcohol) - Beverage types: Wine,3,,Alcohol: recorded per capita (15+) consumption (in litres/alcohol): Wine
+Death rate from drug use disorders among both sexes,3,,Death rate from drug use disorders among both sexes
+Mean HDL cholesterol: age-standardized - Sex: both sexes,3,0,Mean HDL cholesterol: age-standardized - Sex: both sexes
+Rate of Alzheimer's disease and other dementias deaths,3,0,Rate of Alzheimer's disease and other dementias deaths
+Rate of Testicular cancer deaths,3,0,Rate of Testicular cancer deaths
+Death rate from substance use disorders among both sexes,3,0,Death rate from substance use disorders among both sexes
+Percent of Dengue deaths,3,0,Percent of Dengue deaths
+Rate of Neonatal disorders deaths,3,0,Rate of Neonatal disorders deaths
+Mean Non-HDL cholesterol: age-standardized - Sex: both sexes,3,0,Mean Non-HDL cholesterol: age-standardized - Sex: both sexes
+Rate of Prostate cancer deaths,3,0,Rate of Prostate cancer deaths
+Rate of Breast cancer deaths,3,0,Rate of Breast cancer deaths
+Death rate from parkinson disease among both sexes,3,,Death rate from parkinson disease among both sexes
+Life expectancy - Sex: female - Age: 0 - Variant: estimates,3,0,Life expectancy - Sex: female - Age: 0 - Variant: estimates
+Rate of Poisonings deaths,3,0,Rate of Poisonings deaths
+Women's share of population ages 15+ living with HIV (%),3,0,Women's share of population ages 15+ living with HIV (%)
+Reported cases of guinea worm disease in humans,3,0,Reported cases of guinea worm disease in humans
+Age-standardized death rate from stroke among both sexes,3,0,Age-standardized death rate from stroke among both sexes
+Death rate from poisonings among both sexes,3,0,Death rate from poisonings among both sexes
+Vaccination schedule for mumps vaccine,3,0,Vaccination schedule for mumps vaccine
+Rate of Tetanus deaths,3,0,Rate of Tetanus deaths
+Rate of Eating disorders deaths,3,0,Rate of Eating disorders deaths
+Rate of Dengue deaths,3,0,Rate of Dengue deaths
+Rate of Total burden related to Non-alcoholic fatty liver disease (NAFLD) deaths,3,0,Rate of Total burden related to Non-alcoholic fatty liver disease (NAFLD) deaths
+Daily smoking prevalence - both (IHME: GHDx (2012)),3,0,Daily smoking prevalence - both (IHME: GHDx (2012))
+Rate of Meningitis deaths,3,0,Rate of Meningitis deaths
+Estimated maternal mortality ratio SDG,3,0,Estimated maternal mortality ratio SDG
+Death rate from malignant neoplasms among both sexes,3,0,Death rate from malignant neoplasms among both sexes
+Daily calorie supply per person,3,0,Daily calorie supply per person
+Death rate from drowning among both sexes,3,0,Death rate from drowning among both sexes
+Percent of Drowning deaths,3,0,Percent of Drowning deaths
+Percent of Adverse effects of medical treatment deaths,3,0,Percent of Adverse effects of medical treatment deaths
+Sex ratio - Sex: all - Age: 0 - Variant: estimates,3,0,Sex ratio - Sex: all - Age: 0 - Variant: estimates
+Rate of Exposure to forces of nature deaths,3,0,Rate of Exposure to forces of nature deaths
+Period life expectancy (with projections) - Sex: all - Age: 15,3,0,Period life expectancy (with projections) - Sex: all - Age: 15
+Percent of Neonatal disorders deaths,3,0,Percent of Neonatal disorders deaths
+Rate of Diabetes mellitus deaths,3,0,Rate of Diabetes mellitus deaths
+Percent of Drug use disorders deaths,3,0,Percent of Drug use disorders deaths
+Rate of Total cancers deaths,3,0,Rate of Total cancers deaths
+Life expectancy ratio (f/m) - Type: period - Sex: both - Age: 0,3,0,Life expectancy ratio (f/m) - Type: period - Sex: both - Age: 0
+Rate of Drowning deaths,3,0,Rate of Drowning deaths
+Age-standardized death rate from cardiovascular diseases among both sexes,3,0,Age-standardized death rate from cardiovascular diseases among both sexes
+Survival to age 65: male (% of cohort),3,0,Survival to age 65: male (% of cohort)
+Alcohol: recorded per capita (15+) consumption (in litres of pure alcohol) - Beverage types: Spirits,3,0,Alcohol: recorded per capita (15+) consumption (in litres of pure alcohol) - Beverage types: Spirits
+Millet yield,3,0,Millet yield
+Death rate from alzheimer disease and other dementias among both sexes,3,0,Death rate from alzheimer disease and other dementias among both sexes
+Period life expectancy at birth - Sex: all - Age: 0,3,0,Period life expectancy at birth - Sex: all - Age: 0
+Percent of HIV/AIDS deaths,3,0,Percent of HIV/AIDS deaths
+Rate of Bladder cancer deaths,3,0,Rate of Bladder cancer deaths
+Percent of Self-harm deaths,3,0,Percent of Self-harm deaths
+Rate of Leukemia deaths,3,0,Rate of Leukemia deaths
+Rate of Cervical cancer deaths,3,0,Rate of Cervical cancer deaths
+Death rate from cardiovascular diseases among both sexes,3,0,Death rate from cardiovascular diseases among both sexes
+Death rate from protein-energy malnutrition among both sexes,3,0,Death rate from protein-energy malnutrition among both sexes
+UHC Service Coverage Index (SDG 3.8.1),3,0,UHC Service Coverage Index (SDG 3.8.1)
+Fertility rate - Sex: all - Age: all - Variant: estimates,3,0,Fertility rate - Sex: all - Age: all - Variant: estimates
+Percent of Multiple sclerosis deaths,3,0,Percent of Multiple sclerosis deaths
+Maternal mortality ratio,3,,Maternal mortality ratio
+Rate of Yellow fever deaths,3,0,Rate of Yellow fever deaths
+Percent of Total Cancers excluding Non-melanoma skin cancer deaths,3,0,Percent of Total Cancers excluding Non-melanoma skin cancer deaths
+Death rate from road injury among both sexes,3,0,Death rate from road injury among both sexes
+Age-standardized death rate from ischaemic heart disease among both sexes,3,0,Age-standardized death rate from ischaemic heart disease among both sexes
+Neonatal mortality rate (0 to 27 days) per 1000 live births) (SDG 3.2.2) - Sex: both sexes,3,0,Neonatal mortality rate (0 to 27 days) per 1000 live births) (SDG 3.2.2) - Sex: both sexes
+Current health expenditure per capita: PPP (current international $),3,,Current health expenditure per capita: PPP (current international $)
+Death rate from malaria among both sexes,3,0,Death rate from malaria among both sexes
+Total deaths from fire: heat and hot substances among both sexes,3,0,Total deaths from fire: heat and hot substances among both sexes
+Rate of Chronic kidney disease deaths,3,0,Rate of Chronic kidney disease deaths
+Outsurvival statistic at birth,3,0,Outsurvival statistic at birth
+Domestic general government health expenditure (% of GDP),3,,Domestic general government health expenditure (% of GDP)
+Survival to age 65: female (% of cohort),3,0,Survival to age 65: female (% of cohort)
+Rate of Drug use disorders deaths,3,0,Rate of Drug use disorders deaths
+Under fifteen mortality - Unit of measure: Deaths per 100 live births - Indicator: Under-fifteen mortality rate - Sex: Both sexes - Wealth quintile: All wealth quintiles,3,0,Under fifteen mortality
+Pol3 (% of one-year-olds immunized),3,0,Pol3 (% of one-year-olds immunized)
+Polio-free status,3,0,Polio-free status
+Prevalence of obesity among adults: BMI >= 30 (age-standardized estimate) (%) - Sex: female - Age group: 18+  years,3,,Prevalence of obesity among adults
+Rate of Stroke deaths,3,,Rate of Stroke deaths
+3.7.2 - Adolescent birth rate (per 1:000 women aged 15-19 and 10-14 years) - SP_DYN_ADKL - 15 to 19 years old,3,,Adolescent birth rate
+Death rate from fire: heat and hot substances among both sexes,3,0,Death rate from fire
+Fertility rate - Sex: all - Age: all - Variant: estimates UN,3,0,Fertility rate - Sex: all - Age: all - Variant: estimates UN
+Death rate from diabetes mellitus among both sexes,3,,Death rate from diabetes mellitus among both sexes
+Observation value - Unit of measure: Deaths per 100 live births - Indicator: Under-five mortality rate - Sex: Both sexes - Wealth quintile: All wealth quintiles,3,,Observation value - Unit of measure: Deaths per 100 live births - Indicator: Under-five mortality rate - Sex: Both sexes - Wealth quintile: All wealth quintiles
+Percent of Alcohol use disorders deaths,3,,Percent of Alcohol use disorders deaths
+Old-age dependency ratio - Sex: all - Variant: estimates,3,,Old-age dependency ratio - Sex: all - Variant: estimates
+Cigarette consumption per smoker per day (IHME: GHDx (2012)),3,0,Cigarette consumption per smoker per day
+Rate of Parkinson's disease deaths,3,0,Rate of Parkinson's disease deaths
+Death rate from lower respiratory infections among both sexes,3,,Death rate from lower respiratory infections among both sexes
+Percent of Diabetes mellitus deaths,3,,Percent of Diabetes mellitus deaths
+Death rate from opioid use disorders among both sexes,3,0,Death rate from opioid use disorders among both sexes
+Death rate from amphetamine use disorders among both sexes,3,0,Death rate from amphetamine use disorders among both sexes
+Percent of Ovarian cancer deaths,3,0,Percent of Ovarian cancer deaths
+2.2.2 - Proportion of children moderately or severely overweight (%) - SN_STA_OVWGT,3,0,Proportion of children moderately or severely overweight (%)
+Death rate from hiv/aids among both sexes,3,,Death rate from hiv/aids among both sexes
+Rate of Diarrheal diseases deaths,3,,Rate of Diarrheal diseases deaths
+Percent of Yellow fever deaths,3,,Percent of Yellow fever deaths
+Rate of Other unintentional injuries deaths,3,0,Rate of Other unintentional injuries deaths
+Total polio cases per million,3,,Total polio cases per million
+DALYs from all causes: among both sexes per 100.000 people,3,0,DALYs from all causes: among both sexes per 100.000 people
+Observation value - Unit of measure: Stillbirths per 100 births - Indicator: Stillbirth rate - Sex: Both sexes - Wealth quintile: All wealth quintiles,3,0,Stillbirths per 100 births
+Prevalence of anemia among pregnant women (%),3,,Prevalence of anemia among pregnant women (%)
+Percent of Animal contact deaths,3,,Percent of Animal contact deaths
+Vaccination schedule for measles-containing-vaccine second-dose (MCV2) vaccine,3,,Vaccination schedule for measles-containing-vaccine second-dose (MCV2) vaccine
+Gross enrolment ratio: secondary: both sexes (%),4,,Gross school enrolment ratio: secondary: both sexes (%)
+School enrollment: preprimary (% gross),4,,School enrollment: preprimary (% gross)
+Expected years of schooling,4,,Expected years of schooling
+Average years of schooling,4,,Average years of schooling
+Completion rate: upper secondary education: both sexes (%): CR.3,4,,Completion rate: upper secondary education: both sexes (%): CR.3
+Completion rate: primary education: both sexes (%): CR.1,4,,Completion rate: primary education: both sexes (%): CR.1
+ Spending on education (% of GDP),4,,Spending on education (% of GDP)
+Gross enrolment ratio for tertiary education: both sexes (%): GER.5T8,4,0,Gross enrolment ratio for tertiary education: both sexes (%): GER.5T8
+Theoretical duration of pre-primary education (years),4,0,Theoretical duration of pre-primary education (years)
+Government expenditure on education: total (% of government expenditure),4,,Government expenditure on education: total (% of government expenditure)
+Completion rate: lower secondary education: both sexes (%): CR.2,4,,Completion rate: lower secondary education: both sexes (%): CR.2
+Official entrance age to compulsory education (years),4,,Official entrance age to compulsory education (years)
+Official entrance age to pre-primary education (years),4,,Official entrance age to pre-primary education (years)
+Women's political empowerment index (best estimate: aggregate: average),5,5,Women's political empowerment index (best estimate: aggregate: average)
+Contraceptive prevalence: any modern method (% of married women ages 15-49),5,,Contraceptive prevalence (% married women)
+Physical violence index (best estimate: aggregate: average),5,,Physical violence index (best estimate)
+Access to justice for women (best estimate) (re-estimate),5,,Access to justice for women (best estimate) (re-estimate)
+Gender Inequality Index,5,,Gender Inequality Index
+A woman can open a bank account in the same way as a man (1=yes; 0=no),5,0,A woman can open a bank account in the same way as a man (1=yes; 0=no)
+Equal rights protection index (best estimate),5,,Equal rights protection index (best estimate)
+Woman head of government,5,0,Woman head of government
+Total days of leave available for the mother,5,,Total days of leave available for the mother
+Gender Development Index,5,,Gender Development Index
+Access to electricity (% of population),5,,Access to electricity (% of population)
+Women's civil society participation index (best estimate: aggregate: average),5,,Women's civil society participation index (best estimate)
+Women Business and the Law Index Score (scale 1-100),5,,Women Business and the Law Index Score (scale 1-100)
+Women and men have equal ownership rights to immovable property (1=yes; 0=no),5,0,Women and men have equal ownership rights to immovable property (1=yes; 0=no)
+Total days of leave available for the father,5,,Total days of leave available for the father
+There is paid parental leave (1=yes; 0=no),5,0,There is paid parental leave (1=yes; 0=no)
+The law is free of legal provisions that require a married woman to obey her husband  (1=yes; 0=no),5,,The law is free of legal provisions that require a married woman to obey her husband  (1=yes; 0=no)
+A woman can choose where to live in the same way as a man (1=yes; 0=no),5,0,A woman can choose where to live in the same way as a man (1=yes; 0=no)
+A woman can register a business in the same way as a man (1=yes; 0=no),5,0,A woman can register a business in the same way as a man (1=yes; 0=no)
+Labor force: female (% of total labor force),5,,Labor force: female (% of total labor force)
+A woman can obtain a judgment of divorce in the same way as a man (1=yes; 0=no),5,0,A woman can obtain a judgment of divorce in the same way as a man (1=yes; 0=no)
+Equality before the law and individual liberty index (best estimate),5,0,Equality before the law and individual liberty index (best estimate)
+A woman can get a job in the same way as a man (1=yes; 0=no),5,0,A woman can get a job in the same way as a man (1=yes; 0=no)
+Women's political participation index (best estimate: aggregate: average),5,,Women's political participation index (best estimate)
+Women's civil rights index (best estimate: aggregate: average),5,,Women's civil rights index (best estimate)
+Proportion of seats held by women in national parliaments (%),5,,Proportion of seats held by women in national parliaments (%)
+There is legislation specifically addressing domestic violence (1=yes; 0=no),5,,There is legislation specifically addressing domestic violence (1=yes; 0=no)
+Average precipitation in depth (mm per year),6,,Average precipitation in depth (mm per year)
+Share of the population using at least basic drinking water services,6,,Share of the population using at least basic drinking water services
+Annual freshwater withdrawals: industry (% of total freshwater withdrawal),6,,Annual freshwater withdrawals: industry (% of total freshwater withdrawal)
+Share of the population not using improved sanitation facilities,6,,Share of the population not using improved sanitation facilities
+Share of the rural population using at least basic drinking water services,6,,Share of the rural population using at least basic drinking water services
+Share of the population using at least basic sanitation services: improved sanitation facilities which are not shared,6,,Share of the population using at least basic sanitation services
+6.4.2 - Level of water stress: freshwater withdrawal as a proportion of available freshwater resources (%) - ER_H2O_STRESS - No breakdown,6,,Level of water stress: freshwater withdrawal
+6.6.1 - Lakes and rivers permanent water area (% of total land area) - EN_LKRV_PWAP,6,,Lakes and rivers permanent water area
+Share of the rural population using at least basic sanitation services: improved sanitation facilities which are not shared,6,0,Share of the rural population using at least basic sanitation services
+Share of the population using improved water sources,6,,Share of the population using improved water sources
+Annual freshwater withdrawals: agriculture (% of total freshwater withdrawal),6,,Annual freshwater withdrawals: agriculture 
+Share of the population practicing open defecation,6,,Share of the population practicing open defecation
+Share of the population using improved sanitation facilities,6,,Share of the population using improved sanitation facilities
+Renewable internal freshwater resources per capita (cubic meters),6,,Renewable internal freshwater resources per capita (cubic meters)
+Share of the urban population using at least basic drinking water services,6,,Share of the urban population using at least basic drinking water services
+Share of the population not using improved water sources,6,,Share of the population not using improved water sources
+Solar - % electricity,7,,Solar - % electricity
+Low-carbon electricity - % electricity,7,,Low-carbon electricity (%)
+Gas electricity per capita - kWh,7,,Gas electricity per capita (kWh)
+Access to electricity (% of population) SDG,7,,Access to electricity (% of population)
+Annual change in primary energy consumption (%),7,,Annual change in primary energy consumption (%)
+Renewables - % electricity,7,,Renewables - % electricity
+Hydro electricity per capita - kWh,7,,Hydro electricity per capita - kWh
+The law grants spouses equal administrative authority over assets during marriage (1=yes; 0=no),7,0,The law grants spouses equal administrative authority over assets during marriage (1=yes; 0=no)
+Wind - % electricity,7,,Wind - % electricity
+Nuclear - % electricity,7,,Nuclear - % electricity
+Solar and wind electricity per capita - kWh,7,,Solar and wind electricity per capita - kWh
+Fossil fuels - % electricity,7,,Fossil fuels - % electricity
+Carbon intensity of electricity - gCO2/kWh,7,,Carbon intensity of electricity - gCO2/kWh
+Energy intensity level of primary energy (MJ/$2017 PPP GDP),7,,Energy intensity level of primary energy (MJ/$2017 PPP GDP)
+7.2.1 - Renewable energy share in the total final energy consumption (%) - EG_FEC_RNEW,7,,Renewable energy share in the total final energy consumption (%) 
+Fossil fuel electricity per capita - kWh,7,,Fossil fuel electricity per capita - kWh
+Renewable electricity per capita - kWh,7,,Renewable electricity per capita - kWh
+Solar and wind - % electricity,7,,Solar and wind - % electricity
+Solar electricity per capita - kWh,7,,Solar electricity per capita - kWh
+Nuclear electricity per capita - kWh,7,,Nuclear electricity per capita - kWh
+Wind electricity per capita - kWh,7,,Wind electricity per capita - kWh
+lead_petrol_banned,7,0,lead_petrol_banned
+Oil electricity per capita - kWh,7,,Oil electricity per capita - kWh
+Per capita electricity - kWh,7,,Per capita electricity - kWh
+Hydro - % electricity,7,,Hydro - % electricity
+Primary energy consumption per capita (kWh/person),7,,Primary energy consumption per capita (kWh/person)
+Proportion of population with primary reliance on clean fuels and technologies for cooking (%) - Residence area type: Total,7,0,Proportion of population with primary reliance on clean fuels and technologies for cooking (%) 
+Domestic private health expenditure per capita: PPP (current international $),7,,Domestic private health expenditure per capita: PPP (current international $)
+Coal electricity per capita - kWh,7,,Coal electricity per capita - kWh
+Foreign Direct Investmen in millions of 2015 dollars inflow,8,0,Foreign Direct Investmen in millions of 2015 dollars inflow
+Paid leave of at least 14 weeks available to mothers (1=yes; 0=no),8,,Paid leave of at least 14 weeks available to mothers (1=yes; 0=no)
+Unemployment: total (% of total labor force) (modeled ILO estimate),8,,Unemployment: total (% of total labor force) (modeled ILO estimate)
+Equal resource distribution index (best estimate),8,,Equal resource distribution index (best estimate)
+Woman chief executive,8,,Woman chief executive
+Inflation: consumer prices (annual %),8,,Inflation: consumer prices (annual %)
+17.13.1 - Annual GDP growth (%) - NY_GDP_MKTP_KD_ZG,8,,Annual GDP growth (%)
+Trade (% of GDP),8,,Trade (% of GDP)
+Labor force participation rate: female (% of female population ages 15+) (modeled ILO estimate),8,,Labor force participation rate: female (%)
+Commercial bank branches (per 100:000 adults),8,,Commercial bank branches (per 100:000 adults)
+GDP per capita: PPP (constant 2017 international $),8,,GDP per capita: PPP (constant 2017 international $)
+Between 90th and 99th percentiles - Share-pretax,8,0,Between 90th and 99th percentiles - Share-pretax
+Bottom 50% - Share-pretax,8,0,Bottom 50% - Share-pretax
+Unemployment: female (% of female labor force) (modeled ILO estimate),8,,Unemployment: female (% of female labor force)
+Gross enrolment ratio: primary: both sexes (%),8,,Gross enrolment ratio: primary: both sexes (%)
+Richest decile - Share (Net national wealth) (Estimated),8,0,Richest decile - Share (Net national wealth) (Estimated)
+Global merchandise exports (% of GDP),8,,Global merchandise exports (% of GDP)
+Palma ratio (Pretax) (Estimated),8,0,Palma ratio (Pretax) (Estimated)
+Competitiveness of executive recruitment,8,0,Competitiveness of executive recruitment
+The law prohibits discrimination in employment based on gender (1=yes; 0=no),8,0,The law prohibits discrimination in employment based on gender (1=yes; 0=no)
+Foreign Direct Investmen in millions of 2015 dollars outflow,8,,Foreign Direct Investmen in millions of 2015 dollars outflow
+Mean BMI (female),8,0,Mean BMI (female)
+Elite consultation (best estimate),8,0,Elite consultation (best estimate)
+Percent of Exposure to mechanical forces deaths,8,0,Percent of Exposure to mechanical forces deaths
+Employment to population ratio: 15+: female (%) (modeled ILO estimate),8,,Employment to population ratio: 15+: female (%)
+ Labour share of GDP (%),8,, Labour share of GDP (%)
+GDP per capita growth (annual %),8,,GDP per capita growth (annual %)
+GDP per capita,8,,GDP per capita
+Manufacturing: value added (% of GDP),8,,Manufacturing: value added (% of GDP)
+Top 1% - Share (Net national wealth) (Estimated),8,,Top 1% - Share (Net national wealth) (Estimated)
+Fixed broadband subscriptions (per 100 people),9,,Fixed broadband subscriptions (per 100 people)
+9.2.2 - Manufacturing employment as a proportion of total employment - 13th ICLS (%) - SL_TLF_MANF,9,,Manufacturing employment as a proportion of total employment
+Rate of Exposure to mechanical forces deaths,9,0,Rate of Exposure to mechanical forces deaths
+Legislative constraints on the executive index (best estimate),9,,Legislative constraints on the executive index (best estimate)
+Scientific and technical journal articles per million people,9,,Scientific and technical journal articles per million people
+Mobile cellular subscriptions (per 100 people),9,0,Mobile cellular subscriptions (per 100 people)
+Out-of-pocket expenditure (% of current health expenditure),9,,Out-of-pocket expenditure (% of current health expenditure)
+Value of global merchandise exports as a share of GDP (Fouquin and Hugot; CEPII 2016; National data),9,,Value of global merchandise exports as a share of GDP
+machinery_per_ag_land,9,0,machinery_per_ag_land
+Equal access to power index (best estimate),10,,Equal access to power index (best estimate)
+The law prohibits discrimination in access to credit based on gender (1=yes; 0=no),10,0,The law prohibits discrimination in access to credit based on gender (1=yes; 0=no)
+Augmented Human Development Index (AHDI),10,,Augmented Human Development Index (AHDI)
+Gross national income per capita,10,,Gross national income per capita
+Sons and daughters have equal rights to inherit assets from their parents (1=yes; 0=no),10,,Sons and daughters have equal rights to inherit assets from their parents (1=yes; 0=no)
+Elected officials index,10,0,Elected officials index
+A woman can apply for a passport in the same way as a man (1=yes; 0=no),10,0,A woman can apply for a passport in the same way as a man (1=yes; 0=no)
+Egalitarian democracy index (best estimate: aggregate: average),10,0,Egalitarian democracy index (best estimate)
+Human Development Index,10,,Human Development Index
+Egalitarian political institutions index (best estimate),10,,Egalitarian political institutions index (best estimate)
+Richest decile - Share (Pretax) (Estimated),10,,Richest decile - Share (Pretax) (Estimated)
+Rate of Road injuries deaths,11,,Rate of Road injuries deaths
+Population in the largest city (% of urban population),11,,Population in the largest city (% of urban population)
+Taxes including social contributions (as a share of GDP),11,,Taxes including social contributions (as a share of GDP)
+Child dependency ratio - Sex: all - Variant: estimates,11,0,Child dependency ratio - Sex: all - Variant: estimates
+Urban population (% of total population),11,,Urban population (% of total population)
+Fixed telephone subscriptions (per 100 people),11,0,Fixed telephone subscriptions (per 100 people)
+Population density,11,,Population density
+Proportion of population without primary reliance on clean fuels and technologies for cooking (%) - Residence area type: Total,11,,Population without primary reliance on clean fuels and technologies for cooking (%)
+Civil society participation index (best estimate),11,,Civil society participation index (best estimate)
+Population - Sex: all - Age: all - Variant: estimates,11,,Population (estimates)
+Individuals using the Internet (% of population),11,,Individuals using the Internet (% of population)
+Rural population (% of total population),11,,Rural population (% of total population)
+Value of global merchandise imports as a share of GDP (Fouquin and Hugot; CEPII 2016; National data),12,,Value of global merchandise imports (share of GDP)
+Consumer price index (2010 = 100),12,,Consumer price index (2010 = 100)
+Total greenhouse gas emissions per capita excluding land-use change and forestry,13,0,Total greenhouse gas emissions per capita excluding land-use change and forestry
+Per-capita methane emissions in CO₂ equivalents,13,,Per-capita methane emissions in CO₂ equivalents
+Share of global cumulative CO₂ emissions,13,,Share of global cumulative CO₂ emissions
+Per-capita greenhouse gas emissions in CO₂ equivalents,13,,Per-capita greenhouse gas emissions in CO₂ equivalents
+Share of global annual CO₂ emissions from flaring,13,,Share of global annual CO₂ emissions from flaring
+Share of global cumulative CO₂ emissions from land-use change,13,,Share of global cumulative CO₂ emissions from land-use change
+Share of global cumulative CO₂ emissions including land-use change,13,,Share of global cumulative CO₂ emissions including land-use change
+Temperature,13,0,Temperature
+Cumulative CO₂ emissions from flaring,13,,Cumulative CO₂ emissions from flaring
+Share of global cumulative CO₂ emissions from cement,13,,Share of global cumulative CO₂ emissions from cement
+Share of global annual CO₂ emissions from land-use change,13,,Share of global annual CO₂ emissions from land-use change
+Percent of Environmental heat and cold exposure deaths,13,,Percent of Environmental heat and cold exposure deaths
+Rate of Environmental heat and cold exposure deaths,13,,Rate of Environmental heat and cold exposure deaths
+Annual CO₂ emissions from gas (per capita),13,,Annual CO₂ emissions from gas (per capita)
+Share of global cumulative CO₂ emissions from gas,13,,Share of global cumulative CO₂ emissions from gas
+Share of global nitrous oxide emissions,13,,Share of global nitrous oxide emissions
+Cumulative CO₂ emissions from land-use change,13,0,Cumulative CO₂ emissions from land-use change
+Decadal average surface temperature,13,,Decadal average surface temperature
+Share of global annual CO₂ emissions from oil,13,,Share of global annual CO₂ emissions from oil
+Share of global greenhouse gas emissions,13,,Share of global greenhouse gas emissions
+CO₂ emissions covered by an ETS as a share of the country's CO₂ emissions,13,0,CO₂ emissions covered by an ETS as a share of the country's CO₂ emissions
+Annual CO₂ emissions (per capita),13,0,Annual CO₂ emissions (per capita)
+Death rate from cocaine use disorders among both sexes,13,0,Death rate from cocaine use disorders among both sexes
+Per-capita nitrous oxide emissions in CO₂ equivalents,13,0,Per-capita nitrous oxide emissions in CO₂ equivalents
+Annual CO₂ emissions including land-use change per capita,13,0,Annual CO₂ emissions including land-use change per capita
+Cumulative CO₂ emissions from cement,13,,Cumulative CO₂ emissions from cement
+nitrogen_efficiency,13,0,nitrogen_efficiency
+Per capita carbon dioxide emissions from transport,13,,Per capita carbon dioxide emissions from transport
+Annual CO₂ emissions from flaring (per capita),13,,Annual CO₂ emissions from flaring (per capita)
+Change in global mean surface temperature caused by greenhouse gas emissions from fossil fuels and industry,13,0,Change in global mean surface temperature
+Share of global annual CO₂ emissions from gas,13,0,Share of global annual CO₂ emissions from gas
+Share of global annual CO₂ emissions from cement,13,0,Share of global annual CO₂ emissions from cement
+Share of global annual CO₂ emissions from coal,13,0,Share of global annual CO₂ emissions from coal
+Total greenhouse gas emissions per capita including land-use change and forestry,13,0,Total greenhouse gas emissions per capita including land-use change and forestry
+Annual CO₂ emissions growth (%),13,,Annual CO₂ emissions growth (%)
+Annual CO₂ emissions from coal (per capita),13,,Annual CO₂ emissions from coal (per capita)
+Methane emissions from agriculture,13,,Methane emissions from agriculture
+Share of global annual CO₂ emissions,13,,Share of global annual CO₂ emissions
+Average price on emissions covered by a carbon tax: weighted by the share of the country's CO₂ emissions,13,0,Average price on emissions covered by a carbon tax
+Annual CO₂ emissions from oil (per capita),13,0,Annual CO₂ emissions from oil (per capita)
+Annual CO₂ emissions from cement (per capita),13,,Annual CO₂ emissions from cement (per capita)
+Nitrous oxide emissions from agriculture,13,0,Nitrous oxide emissions from agriculture
+Annual CO2 emissions per unit energy (kg per kilowatt-hour),13,,Annual CO2 emissions per unit energy (kg per kilowatt-hour)
+Per capita nitrous oxide emissions from agriculture,13,,Per capita nitrous oxide emissions from agriculture
+Percent of Exposure to forces of nature deaths,13,,Percent of Exposure to forces of nature deaths
+Share of global methane emissions,13,,Share of global methane emissions
+Share of global cumulative CO₂ emissions from flaring,13,,Share of global cumulative CO₂ emissions from flaring
+Share of global annual CO₂ emissions including land-use change,13,,Share of global annual CO₂ emissions including land-use change
+Share of global cumulative CO₂ emissions from coal,13,,Share of global cumulative CO₂ emissions from coal
+Aquaculture production (metric tons),14,,Aquaculture production (metric tons)
+Forest cover,15,,Forest cover
+Terrain Ruggedness Index 100m (Nunn and Puga 2012),15,,Terrain Ruggedness Index 100m (Nunn and Puga 2012)
+Share of global forest area,15,,Share of global forest area
+Permanent meadows and pastures | 00006655 || Share in Land area | 007209 || Percent,15,,Permanent meadows and pastures share in Land area
+Agricultural land | 00006610 || Area | 5110pc || hectares per capita,15,,Agricultural land (hectares per capita)
+15.1.2 - Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas (%) - ER_PTD_FRHWTR,15,,15.1.2 - Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas (%) - ER_PTD_FRHWTR
+15.5.1 - Red List Index - ER_RSK_LST,15,,15.5.1 - Red List Index - ER_RSK_LST
+Democracy,16,0,Democracy
+Civil liberties rating FH,16,,Civil liberties rating FH
+Civil liberties index (best estimate: aggregate: average),16,,Civil liberties index (best estimate)
+Elected local governments (best estimate),16,,Elected local governments (best estimate)
+Human rights protection,16,,Human rights protection
+Engaged society (best estimate),16,,Engaged society (best estimate)
+Extent of direct popular votes (best estimate: aggregate: average),16,,Extent of direct popular votes (best estimate)
+Military expenditure per armed forces personnel (constant US$),16,,Military expenditure per armed forces personnel (constant US$)
+Percent of Police conflict and executions deaths,16,,Percent of Police conflict and executions deaths
+State involved in conflict - Conflict type: state-based,16,,State involved in conflict - Conflict type: state-based
+Judicial constraints on the executive index (best estimate),16,,Judicial constraints on the executive index (best estimate)
+Legislative elections,16,0,Legislative elections
+Justified political positions (best estimate),16,,Justified political positions (best estimate)
+Political civil liberties index (best estimate: aggregate: average),16,,Political civil liberties index (best estimate: aggregate: average)
+Liberal component index (best estimate),16,0,Liberal component index (best estimate)
+Terrorism deaths per 100:000 people,16,,Terrorism deaths per 100:000 people
+Competitiveness of political participation,16,,Competitiveness of political participation
+Direct popular vote index,16,,Direct popular vote index
+State involved in war - Conflict type: all,16,,State involved in war
+Country where war took place - Conflict type: state-based,16,0,Country where war took place - Conflict type: state-based
+Country where conflict took place - Conflict type: all,16,0,Country where conflict took place - Conflict type: all
+Rate of Conflict and terrorism deaths,16,,Rate of Conflict and terrorism deaths
+Rate of Interpersonal violence deaths,16,,Rate of Interpersonal violence deaths
+Multi-party elections for government's chief executive (best estimate),16,,Multi-party elections for government's chief executive (best estimate)
+Participatory political institutions (best estimate),16,,Participatory political institutions (best estimate)
+State involved in conflict - Hostlev: all,16,0,State involved in conflict - Hostlev: all
+Military expenditure (% of GDP) GMSD,16,,Military expenditure (% of GDP) GMSD
+Territory under state control (best estimate: aggregate: average),16,0,Territory under state control
+Liberal political institutions (best estimate) (re-estimate),16,0,Liberal political institutions (best estimate) (re-estimate)
+Political regime (liberal democracy),16,0,Political regime (liberal democracy)
+Refugees by country of origin per 100:000 people,16,,Refugees by country of origin per 100:000 people
+Military personnel as a share of total population,16,,Military personnel as a share of total population
+Political regime lexical,16,,Political regime lexical
+Woman head of state,16,0,Woman head of state
+Percent of Conflict and terrorism deaths,16,0,Percent of Conflict and terrorism deaths
+Free political regime,16,0,Free political regime
+Vienna Convention and Montreal Protocol (Parties Subscribing each Year),16,0,Vienna Convention and Montreal Protocol (Parties Subscribing each Year)
+Nuclear weapons status,16,0,Nuclear weapons status
+Competitive elections,16,0,Competitive elections
+Political corruption index (best estimate: aggregate: average),16,,Political corruption index (best estimate)
+Electoral democracy index (best estimate: aggregate: average),16,,Electoral democracy index (best estimate)
+Armed forces personnel (% of total population),16,,Armed forces personnel (% of total population)
+Freedom of Expression and Alternative Sources of Information index (best estimate),16,,Freedom of Expression and Alternative Sources of Information index (best estimate)
+Respect for counterarguments (best estimate),16,,Respect for counterarguments (best estimate)
+Clean elections index (best estimate),16,,Clean elections index (best estimate)
+Rigorous and impartial public administration (best estimate: aggregate: average),16,,Rigorous and impartial public administration (best estimate)
+Transparent laws with predictable enforcement (best estimate) (re-estimate),16,0,Transparent laws with predictable enforcement (best estimate)
+Military spending (% of GDP),16,,Military spending (% of GDP)
+Percent of Interpersonal violence deaths,16,,Percent of Interpersonal violence deaths
+Death rate in ongoing conflicts in a country (best estimate) - Conflict type: all,16,0,Death rate in ongoing conflicts in a country (best estimate)
+Political opposition,16,0,Political opposition
+Terrorism deaths,16,,Terrorism deaths
+Domestic general government health expenditure (GGHE-D) as percentage of general government expenditure (GGE) (%),16,0,Domestic general government health expenditure (GGHE-D)
+Age of democracy (with women's suffrage),16,0,Age of democracy (with women's suffrage)
+Equality of political power across social groups (best estimate: aggregate: average),16,,Equality of political power across social groups (best estimate)
+Share of deaths from terrorism,16,,Share of deaths from terrorism
+Deliberative political institutions index (best estimate),16,0,Deliberative political institutions index (best estimate)
+Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),16,0,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)
+Military expenditure (% of GDP),16,,Military expenditure (% of GDP)
+Liberal democracy index (best estimate: aggregate: average),16,,Liberal democracy index (best estimate)
+Political regime (inc. ambiguous categories),16,0,Political regime (inc. ambiguous categories)
+Presidentialism index (best estimate: aggregate: average),16,,Presidentialism index (best estimate: aggregate)
+Electoral democracy,16,,Electoral democracy
+Political liberties,16,0,Political liberties
+State capacity estimate,16,0,State capacity estimate
+gov_transparency_lower,16,0,gov_transparency_lower
+Private civil liberties index (best estimate: aggregate: average),16,,Private civil liberties index (best estimate: aggregate: average)
+Rule of Law index (best estimate: aggregate: average),16,,Rule of Law index (best estimate)
+Age of democracy (with women's suffrage) BMR,16,,Age of democracy (with women's suffrage) BMR
+Regulation of political participation,16,,Regulation of political participation
+Rate of Police conflict and executions deaths,16,,Rate of Police conflict and executions deaths
+Political regime,16,0,Political regime
+Freedom of association thick index (best estimate),16,0,Freedom of association thick index (best estimate)
+Years colonized,16,0,Years colonized
+Access to justice for men (best estimate) (re-estimate),16,,Access to justice for men (best estimate) (re-estimate)
+Common good justifications (best estimate),16,,Common good justifications (best estimate)
+Political rights rating,16,,Political rights rating
+Refugees by destination,16,,Refugees by destination
+Domestic policymaking free from foreign influence (best estimate: aggregate: average),16,,Domestic policymaking free from foreign influence (best estimate)
+Middle 40% - Share-pretax,16,0,Middle 40% - Share-pretax

@@ -73,43 +73,43 @@ SDGt070,7,Energy transition, "Energy transition, Energy security, Sustainable en
 SDGt071,7,Energy Efficiency,"Energy efficiency, Energy efficiency implementation, Energy efficiency gap","Thermal efficiency,Luminous efficacy, Data Centre efficency", "Thermal efficiency,Luminous efficacy,Power usage effectiveness"
 SDGt072,7,Energy Conservation,"Energy conservation, Energy storage, Electric potential energy, Thermal energy storage","Energy storage, Electric potential energy, Thermal energy storage","Energy storage, Electric potential energy, Thermal energy storage"
 SDGt073,7,Energy Recycling,"Energy recycling, Energy recovery, Waste-to-energy, Waste heat,Cogeneration","Energy recovery, Waste-to-energy, Cogeneration","Energy recovery, Waste-to-energy, Cogeneration"
-SDGt074,7,Sustainable Energy,"Sustainable energy, Carbon capture and storage, Energy transition",,
+SDGt074,7,Sustainable Energy,"Sustainable energy, Carbon capture and storage, Energy transition,Sustainable city,Sustainable refurbishment,Sustainable biofuel","Sustainable city,Sustainable refurbishment,Sustainable biofuel","Sustainable city,Sustainable refurbishment,Sustainable biofuel"
 SDGt075,7,Energy Infrastructure,"Energy development, Energy demand management, Electric energy consumption","Energy development, Energy demand, Energy consumption","Energy development, Energy demand management, Electric energy consumption"
 SDGt076,7,Energy Policy,"World energy resources, World energy supply and consumption, Energy policy,Energy planning,Energy intensity,Nuclear energy policy","Energy planning,Energy intensity,Nuclear energy policy",
 SDGt077,7,Nuclear Energy,"Nuclear power, Potential energy, Nuclear reactor, Nuclear energy policy","Nuclear power, Potential energy,Energy economics","Nuclear power, Potential energy,Energy economics"
 SDGt078,8,SDG 8,"Unemployment, Self-employment, Workforce, Economic Growth, Informal Economy, Globalization, Sustainability, Sustainable tourism, Ecotourism, Financial models, Business model, Innovation, Financial support, Worker Rights, Labor Right, Labour law, Decent Work, Fundamental rights, Dignity of labour, Inclusive Development Index, Inclusive growth, Sustainable development, Resource efficiency, Resource intensity, Sustainability measurement, Youth Unemployment, Unemployment, Capacity building, Corporate Social Responsibility, Conscious business, Corporate governance, Sustainable Development Goal 8",,
 SDGt079,8,Unemployment,"Unemployment, Self-employment, Workforce,Unemployment benefits,Technological unemployment","Self-employment, Unemployment benefits,Technological unemployment","Self-employment, Unemployment benefits,Technological unemployment"
 SDGt080,8,Economic Development,"Economic Growth, Informal Economy, Globalization","Economic Growth, Informal Economy, Globalization","Economic Growth, Informal Economy, Globalization"
-SDGt081,8,Sustainable Tourism,"Sustainability, Sustainable tourism, Ecotourism",,
-SDGt082,8,Entrepreneurship,"Financial models, Business model, Innovation, Financial support",,
-SDGt083,8,Labor Rights,"Worker Rights, Labor Right, Labour law",,
-SDGt084,8,Decent Work,"Decent Work, Fundamental rights, Dignity of labour",,
-SDGt085,8,Economic inclusivity,"Inclusive Development Index, Inclusive growth, Sustainable development",,
-SDGt086,8,Resource Efficiency,"Resource efficiency, Resource intensity, Sustainability measurement",,
-SDGt087,8,Youth Employment,"Youth Unemployment, Unemployment, Capacity building",,
-SDGt088,8,Corporate Social Responsibility,"Corporate Social Responsibility, Conscious business, Corporate governance",,
+SDGt081,8,Sustainable Tourism,"Sustainability, Sustainable tourism, Ecotourism","Nature-positive Tourism,Responsible Tourism,Ecotourism", "Nature-positive, Leave No Trace,Ecotourism"
+SDGt082,8,Entrepreneurship,"Financial models, Business model, Innovation, Financial support","Financial, Business, Innovation","Financial models, Business model, Innovation"
+SDGt083,8,Labor Rights,"Worker Rights, Labor rights, Labour law,Right to work","Worker Rights, Freedom of association, Labour law","Worker Rights, Freedom of association, Labour law"
+SDGt084,8,Decent Work,"Decent Work, Fundamental rights, Dignity of labour,Decent work","Decent Work, Decent work, Dignity of labour","Decent Work, Decent work, Dignity of labour"
+SDGt085,8,Economic inclusivity,"Inclusive Development Index, Inclusive growth, Sustainable development","Inclusive Development, Inclusive growth, Sustainable development","Inclusive Development Index, Inclusive growth, Sustainable development"
+SDGt086,8,Resource Efficiency,"Resource efficiency, Resource intensity, Sustainability measurement,Resource productivity,Environmental degradation","Resource productivity,Resource intensity,Environmental degradation","Resource productivity,Resource intensity,Environmental degradation"
+SDGt087,8,Youth Employment,"Youth Unemployment, Unemployment, Capacity building,Social entrepreneurship","Capacity building,Social entrepreneurship,Youth intervention","Capacity building,Social entrepreneurship,Youth intervention"
+SDGt088,8,Corporate Social Responsibility,"Corporate Social Responsibility, Conscious business, Corporate governance","Responsible Research and Innovation,Conscious business, Corporate governance","Responsible Research and Innovation,Conscious business, Corporate governance"
 SDGt089,9,SDG 9,"Infrastructure, IT infrastructure, Data center, Business continuity planning, Industrialisation, Manufacturing, Technology life cycle, Research and development, Technology demonstration, Prototype, Innovation, Lean project management, Intellectual property, Sustainable industries, Green infrastructure, Sustainable energy, Cyber Resilience Act, Computer security, Cyber resilience, Software standard, Industrial Policy, Communication protocol, Domino effect accident, Process safety, Transdisciplinarity, Green economy, Ecological economics, Environmental economics, Artificial Intelligence, Digital transformation, Discovery-driven planning, Sustainable Development Goal 9",,
-SDGt090,9,Infrastructure,"Infrastructure, IT infrastructure, Data center, Business continuity planning",,
-SDGt091,9,Industrialization,"Industrialisation, Manufacturing, Technology life cycle",,
-SDGt092,9,Research & Development,"Research and development, Technology demonstration, Prototype",,
-SDGt093,9,Open Innovation,"Innovation, Lean project management, Intellectual property, Open innovation",,
-SDGt094,9,Sustainable industries,"Sustainable industries, Green infrastructure, Sustainable energy",,
-SDGt095,9,Technology Resilience,"Cyber Resilience Act, Computer security, Cyber resilience",,
-SDGt096,9,Industrial Policy,"Software standard, Industrial Policy, Communication protocol",,
-SDGt097,9,NaTech Accidents,"Domino effect accident, Process safety, Transdisciplinarity",,
-SDGt098,9,Green Economy,"Green economy, Ecological economics, Environmental economics",,
-SDGt099,9,Digital Transformation,"Artificial Intelligence, Digital transformation, Discovery-driven planning",,
+SDGt090,9,Infrastructure,"Infrastructure, IT infrastructure, Data center, Business continuity planning,Critical infrastructure","Cloud infrastructure, Data infrastructure, Critical infrastructure","Cloud computing, Data infrastructure, Critical infrastructure"
+SDGt091,9,Industrialization,"Industrialisation, Manufacturing, Technology life cycle", "Human-Machine Interaction, Human-Robot Collaboration,Industry 5.0", "Human–computer interaction, Human–robot interaction, Fourth Industrial Revolution"
+SDGt092,9,Research & Development,"Research and development, Technology demonstration, Prototype","Open science,Technology demonstration, Technology transfer","Open science,Technology demonstration, Technology transfer"
+SDGt093,9,Innovation,"Innovation, Lean project management, Intellectual property, Open innovation","Lean development, Intellectual property, Open innovation","Lean software development, Intellectual property, Open innovation"
+SDGt094,9,Sustainable industries,"Sustainable industries, Green infrastructure, Sustainable energy","Environmental impact assessment, Green infrastructure, ESG","Environmental impact assessment, Green infrastructure, Environmental,_social,_and_governance"
+SDGt095,9,Technology Resilience,"Cyber Resilience Act, Computer security, Cyber resilience","Cybercrime,Computer security, Cyber resilience","Cybercrime,Computer security, Cyber resilience"
+SDGt096,9,Industrial Policy,"Software standard, Industrial Policy, Communication protocol","Software standard, Commercial policy, Communication protocol","Software standard, Commercial policy, Communication protocol"
+SDGt097,9,NaTech Accidents,"Domino effect accident, Process safety, Transdisciplinarity","Domino effect accident, Process safety, Disaster risk reduction","Domino effect accident, Process safety, Disaster risk reduction"
+SDGt098,9,Green Economy,"Green economy, Ecological economics, Environmental economics","Sustainability certification,Green accounting, Environmental economics", "Sustainability standards and certification,Green accounting, Environmental economics"
+SDGt099,9,Digital Transformation,"Artificial Intelligence, Digital transformation, Discovery-driven planning","Artificial Intelligence, Digital transformation, Discovery-driven planning","Artificial Intelligence, Digital transformation, Discovery-driven planning"
 SDGt100,10,SDG 10,"Inclusive growth, Smart growth, Social exclusion, Discrimination, Antisemitism, Anti-Catholicism, Anti-Arabism, Income distribution, Economic inequality, Distribution of wealth, Social mobility, Social stigma, Spatial inequality, Social equity, Social justice, Social privilege, Migrant, Refugee, Diaspora, Asylum seeker, Disability, Assistive technology, Parents with disabilities, Global citizenship, Transnationality, Transnationalism, Globalization, Fair trade, Fairtrade International, Alter-globalization, Social inequality, Gini coefficient, Distribution of wealth, Sustainable Development Goal 10",,
-SDGt101,10,Social exclusion,"Inclusive growth, Smart growth, Social exclusion",,
-SDGt102,10,Discrimination,"Discrimination, Antisemitism, Anti-Catholicism, Anti-Arabism",,
-SDGt103,10,Income Inequality,"Income distribution, Economic inequality, Distribution of wealth",,
-SDGt104,10,Social Mobility,"Social mobility, Social stigma, Spatial inequality",,
-SDGt105,10,Equitable Opportunities,"Social equity, Social justice, Social privilege",,
-SDGt106,10,Migrants & Refugees,"Migrant, Refugee, Diaspora, Asylum seeker",,
-SDGt107,10,Developmental disability,"Disability, Assistive technology, Parents with disabilities, Developmental disability",,
-SDGt108,10,Global Citizenship,"Global citizenship, Transnationality, Transnationalism, Globalization",,
-SDGt109,10,Fair Trade,"Fair trade, Fairtrade International, Alter-globalization",,
-SDGt110,10,Distribution of wealth,"Social inequality, Gini coefficient, Distribution of wealth",,
+SDGt101,10,Social exclusion,"Inclusive growth, Smart growth, Social exclusion","Inclusive growth, Smart growth, Social alienation","Inclusive growth, Smart growth, Social alienation"
+SDGt102,10,Discrimination,"Discrimination, Antisemitism, Anti-Catholicism, Anti-Arabism","Antisemitism, Anti-Catholicism, Anti-Arabism","Antisemitism, Anti-Catholicism, Anti-Arabism"
+SDGt103,10,Income Inequality,"Income distribution, Economic inequality, Distribution of wealth","Economic security,Economic inequality, wealth Distribution","Economic security,Economic inequality, wealth Distribution"
+SDGt104,10,Social stigma,"Stereotype, Social stigma, Spatial inequality,Attribution bias", "Stereotype, Attribution bias, Epistemic injustice","Stereotype,Attribution bias, Epistemic injustice"
+SDGt105,10,Equitable Opportunities,"Social equity, Social justice, Social privilege","Social equity, Social justice, Social privilege","Social equity, Social justice, Social privilege"
+SDGt106,10,Migrants and Refugees,"Migrant, Refugee, Diaspora, Asylum seeker","Refugees, Diaspora, Asylum seeker","Refugee, Diaspora, Asylum seeker"
+SDGt107,10,Developmental disability,"Disability, Assistive technology, Parents with disabilities, Developmental disability","Disability welfare, Assistive technology, Parents with disabilities","Disability welfare, Assistive technology, Parents with disabilities"
+SDGt108,10,Global Citizenship,"Global citizenship, Transnationality, Transnationalism, Globalization","Global justice,Transnationalism, Globalization","Global justice,Transnationalism, Globalization"
+SDGt109,10,Fair Trade,"Fair trade, Fairtrade International, Alter-globalization","Fair trade certification, Ethical consumerism, Alter-globalization","Fair trade certification, Ethical consumerism, Alter-globalization"
+SDGt110,10,Distribution of wealth,"Social inequality, Gini coefficient, Distribution of wealth","Social inequality, Gini coefficient,conomic heterogeneity","Social inequality, Gini coefficient,Heterogeneity in economics"
 SDGt111,11,SDG 11,"Urbanization, Smart Cities, Urban Planning, Affordable Housing, Household income, Housing affordability index, Sustainable transport, Cyclability, Environmental impact of shipping, Sustainable urban infrastructure, Climate Resilient Infrastructure Development Facility, Critical infrastructure, Green infrastructure, Green belt, Greenway (landscape), Waste management, Biomedical waste, Sanitary engineering, Air pollution, Air quality index, Air Pollution Index, Public Transport, Shared transport, Journey planner, Flood management, Emergency management, Flood risk assessment, Sustainable city, Smart city, Eco-cities, Sustainable Development Goal 11",,
 SDGt112,11,Green Urban Planning,"Urbanization, Smart Cities, Urban Planning, Green infrastructure, Green belt, Greenway (landscape)",,
 SDGt113,11,Affordable Housing,"Affordable Housing, Household income, Housing affordability index",,

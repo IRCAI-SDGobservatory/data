@@ -111,63 +111,63 @@ SDGt108,10,Global Citizenship,"Global citizenship, Transnationality, Transnation
 SDGt109,10,Fair Trade,"Fair trade, Fairtrade International, Alter-globalization","Fair trade certification, Ethical consumerism, Alter-globalization","Fair trade certification, Ethical consumerism, Alter-globalization"
 SDGt110,10,Distribution of wealth,"Social inequality, Gini coefficient, Distribution of wealth","Social inequality, Gini coefficient,conomic heterogeneity","Social inequality, Gini coefficient,Heterogeneity in economics"
 SDGt111,11,SDG 11,"Urbanization, Smart Cities, Urban Planning, Affordable Housing, Household income, Housing affordability index, Sustainable transport, Cyclability, Environmental impact of shipping, Sustainable urban infrastructure, Climate Resilient Infrastructure Development Facility, Critical infrastructure, Green infrastructure, Green belt, Greenway (landscape), Waste management, Biomedical waste, Sanitary engineering, Air pollution, Air quality index, Air Pollution Index, Public Transport, Shared transport, Journey planner, Flood management, Emergency management, Flood risk assessment, Sustainable city, Smart city, Eco-cities, Sustainable Development Goal 11",,
-SDGt112,11,Green Urban Planning,"Urbanization, Smart Cities, Urban Planning, Green infrastructure, Green belt, Greenway (landscape)",,
-SDGt113,11,Affordable Housing,"Affordable Housing, Household income, Housing affordability index",,
-SDGt114,11,Sustainable Transport,"Sustainable transport, Cyclability, Environmental impact of shipping, Public Transport, Shared transport, Journey planner",,
-SDGt115,11,Resilient Infrastructure,"Sustainable urban infrastructure, Climate Resilient Infrastructure Development Facility, Critical infrastructure",,
-SDGt116,11,Smart Cities,"Smart city, Internet of things, Community-driven development, Community organization",,
-SDGt117,11,Waste Management,"Waste management, Biomedical waste, Sanitary engineering",,
-SDGt118,11,Air Quality,"Air pollution, Air quality index, Air Pollution Index",,
-SDGt119,11,Sustainable Communities,"Sustainable community, Sustainable living, Sustainable Communities Plan, Green affordable housing",,
-SDGt120,11,Disaster Preparedness,"Flood management, Emergency management, Flood risk assessment",,
-SDGt121,11,Sustainable Cities,"Sustainable city, Smart city, Eco-cities",,
+SDGt112,11,Green Urban Planning,"Urbanization, Smart Cities, Urban Planning, Green infrastructure, Green belt, Greenway (landscape)","Green infrastructure, Green belt, Greenway","Green infrastructure, Green belt, Greenway (landscape)"
+SDGt113,11,Affordable Housing,"Affordable Housing, Household income, Housing affordability index","Public housing,Housing inequality,Housing policy","Public housing,Housing inequality,Housing authority"
+SDGt114,11,Sustainable Transport,"Sustainable transport, Cyclability, Environmental impact of shipping, Public Transport, Shared transport, Journey planner","Cyclability, Public Transport, Shared transport","Cyclability, Public Transport, Shared transport"
+SDGt115,11,Resilient Infrastructure,"Sustainable urban infrastructure, Climate Resilient Infrastructure Development Facility, Critical infrastructure","Sustainable urban infrastructure, Climate Resilient Infrastructure, Infrastructure security","Sustainable urban infrastructure, Climate Resilient Infrastructure, Infrastructure security"
+SDGt116,11,Smart Cities,"Smart city, Internet of things, Community-driven development, Community organization","Ecodistrict, Urban informatics, Zero-carbon city","Ecodistrict, Urban informatics, Zero-carbon city"
+SDGt117,11,Waste Management,"Waste management, Biomedical waste, Sanitary engineering","Recycling, Landfarming, Sanitary engineering","Recycling, Landfarming, Sanitary engineering"
+SDGt118,11,Air Quality,"Air pollution, Air quality index, Air Pollution Index","Air pollution, Particulate matter,Emission standard","Air pollution, Particulate matter,Emission standard"
+SDGt119,11,Sustainable Communities,"Sustainable community, Sustainable living, Sustainable Communities Plan, Green affordable housing,Urban resilience,Participatory planning,Environmental gentrification","Urban resilience,Participatory planning,Environmental gentrification","Urban resilience,Participatory planning,Environmental gentrification"
+SDGt120,11,Disaster Preparedness,"Flood management, Emergency management, Flood risk assessment,Early warning system,Disaster response","Early warning system, Emergency management,Disaster response","Early warning system, Emergency management,Disaster response"
+SDGt121,11,Sustainable Cities,"Sustainable city, Smart city, Eco-cities","Sustainable urbanism,Green infrastructure, Walkability","Sustainable urbanism,Green infrastructure, Walkability"
 SDGt122,12,SDG 12,"Food loss and waste, Waste minimisation, Recycling, Reuse, Recycling bin, Materials recovery facility, Production Patterns, Responsible Business, Sustainable consumption, Anti-consumerism, Collaborative consumption, Overconsumption (economics), Circular Economy, Circular procurement, Durable good, Sustainable products, Resource efficiency, Ecological efficiency, Efficient energy use, Consumer behaviour, Advertising management, Predictive buying, Supply chain, Logistics, Supply chain management, Supply chain attack, Ecological design, European Ecodesign Directive, Eco-innovation, Environmental design, Environmental impact assessment, Environmental issues, Strategic environmental assessment, Sustainable Development Goal 12",,
-SDGt123,12,Waste Reduction,"Food loss and waste, Waste minimisation",,
-SDGt124,12,Recycling,"Recycling, Reuse, Recycling bin, Materials recovery facility",,
-SDGt125,12,Sustainable Production,"Production Patterns, Responsible Business",,
-SDGt126,12,Sustainable Consumption,"Sustainable consumption, Anti-consumerism, Collaborative consumption, Overconsumption (economics)",,
-SDGt127,12,Circular Economy,"Circular Economy, Circular procurement, Durable good, Sustainable products",,
-SDGt128,12,Resource Efficiency,"Resource efficiency, Ecological efficiency, Efficient energy use",,
-SDGt129,12,Consumer Awareness,"Consumer behaviour, Advertising management, Predictive buying",,
-SDGt130,12,Supply Chains,"Supply chain, Logistics, Supply chain management, Supply chain attack",,
-SDGt131,12,Eco-friendly Products,"Ecological design, European Ecodesign Directive, Eco-innovation, Environmental design",,
-SDGt132,12,Environmental Impact Assessment,"Environmental impact assessment, Environmental issues, Strategic environmental assessment",,
+SDGt123,12,Waste Reduction,"Food loss and waste, Waste minimisation,Source reduction,Zero waste","Precycling,Source reduction,Zero waste","Precycling,Source reduction,Zero waste"
+SDGt124,12,Recycling,"Recycling, Reuse, Recycling bin, Materials recovery facility,E-waste recycling,Appliance recycling","E-waste recycling,Appliance recycling,Materials recovery facility","Electronic waste recycling,Appliance recycling,Materials recovery facility"
+SDGt125,12,Sustainable Production,"Production Patterns, Responsible Business","Green manfactoring,Production Patterns, Responsible Business","Green factory,Production Patterns, Responsible Business"
+SDGt126,12,Sustainable Consumption,"Sustainable consumption, Anti-consumerism, Collaborative consumption, Overconsumption (economics)","Anti-consumerism, Collaborative consumption, Overconsumption","Anti-consumerism, Collaborative consumption, Overconsumption (economics)"
+SDGt127,12,Circular Economy,"Circular Economy, Circular procurement, Durable good, Sustainable products","Circular procurement,Sustainable product,Product stewardship","Circular procurement,Sustainable products,Product stewardship"
+SDGt128,12,Resource Efficiency,"Resource efficiency, Ecological efficiency, Efficient energy use,Industrial ecology","Ecological efficiency,Industrial ecology,Environmental design","Ecological efficiency,Industrial ecology,Environmental design"
+SDGt129,12,Consumer Awareness,"Consumer behaviour, Advertising management, Predictive buying","Consumer behaviour, Advertising management, Predictive buying","Consumer behaviour, Advertising management, Predictive buying"
+SDGt130,12,Supply Chains,"Supply chain, Logistics, Supply chain management, Supply chain attack","Supply chain sustainability,Supply chain management, Supply chain attack","Supply chain sustainability,Supply chain management, Supply chain attack"
+SDGt131,12,Eco-friendly Products,"Ecological design, European Ecodesign Directive, Eco-innovation, Environmental design,Ecomodernism","Ecological design,Eco-innovation,Ecomodernism","Ecological design,Eco-innovation,Ecomodernism"
+SDGt132,12,Life cycle assessment,"Environmental impact assessment, Life cycle assessment, Strategic environmental assessment,True cost accounting","End-of-life product,True cost accounting, Strategic environmental assessment","End-of-life product,True cost accounting, Strategic environmental assessment"
 SDGt133,13,SDG 13,"Climate Change, Climate variability and change, United Nations Framework Convention on Climate Change, Carbon Footprint, Greenhouse gas emissions, Carbon dioxide in Earth's atmosphere, Climate justice, Environmental justice, Environmental degradation, Climate change adaptation, Effects of climate change, Environmental issues, Renewable Energy, Climate change mitigation, Climate resilience, Environmental protection, Ecological resilience, Global warming, Global surface temperature, Temperature anomaly, Climate risk, Effects of climate change, Climate crisis, Climate movement, Climate action, European Green Deal, Paris Agreement, Conference of the parties, Drought,  Disaster risk reduction, Flood, Extreme weather, Sustainable Development Goal 13",,
-SDGt134,13,Climate Change,"Climate Change, Climate variability and change, United Nations Framework Convention on Climate Change",,
-SDGt135,13,Carbon Footprint,"Carbon Footprint, Greenhouse gas emissions, Carbon dioxide in Earth's atmosphere",,
-SDGt136,13,Climate Justice,"Climate justice, Environmental justice, Environmental degradation",,
-SDGt137,13,Mitigation & Adaptation,"Climate change adaptation, Effects of climate change, Environmental issues, Renewable Energy, Climate change mitigation",,
-SDGt138,13,Climate Resilience,"Climate resilience, Environmental protection, Ecological resilience",,
-SDGt139,13,Global Warming,"Global warming, Global surface temperature, Temperature anomaly",,
-SDGt140,13,Climate Risk,"Climate risk, Effects of climate change,",,
-SDGt141,13,Climate Crisis,"Climate crisis, Climate movement, Climate action",,
-SDGt142,13,Climate Policy,"European Green Deal, Paris Agreement, Conference of the parties",,
-SDGt143,13,Disaster Risk Reduction,"Drought, Disaster risk reduction, Flood, Extreme weather",,
+SDGt134,13,Climate Change,"Climate Change, Climate variability and change, United Nations Framework Convention on Climate Change,Polar amplification","Global warming,Weather extremes,Polar amplification","Climate Change,Extreme weather,Polar amplification"
+SDGt135,13,Carbon Footprint,"Carbon Footprint, Greenhouse gas emissions, Carbon dioxide in Earth's atmosphere","Embedded emissions,Emission intensity, Greenhouse gas emissions","Embedded emissions,Emission intensity, Greenhouse gas emissions"
+SDGt136,13,Climate Justice,"Climate justice, Environmental justice, Environmental degradation","Environmental crime, Environmental justice, Earth rights","Environmental crime, Environmental justice, Rights of nature"
+SDGt137,13,Climate Change Mitigation,"Climate change adaptation, Effects of climate change, Environmental issues, Renewable Energy, Climate change mitigation","Afforestation,Climate change adaptation, Climate change scenario","Afforestation,Climate change adaptation, Climate change scenario"
+SDGt138,13,Climate Change Resilience,"Climate resilience, Environmental protection, Ecological resilience,Climate change mitigation","Environmental protection,Ecological resilience,Climate action","Environmental protection,Ecological resilience,Climate action"
+SDGt139,13,Global Warming,"Global warming, Global surface temperature, Temperature anomaly","Greenhouse effect,Global surface temperature, Temperature anomaly","Greenhouse effect,Global surface temperature, Temperature anomaly"
+SDGt140,13,Climate Risk,"Climate risk, Effects of climate change,Climate change vulnerability","Climate change vulnerability,Effects of climate change,Sea level rise","Climate change vulnerability,Effects of climate change,Sea level rise"
+SDGt141,13,Climate Crisis,"Climate crisis, Climate movement, Climate action","Climate emergency,Environmental disaster,Ecocide","Climate emergency declaration,Environmental disaster,Ecocide"
+SDGt142,13,Climate Policy,"European Green Deal, Paris Agreement, Conference of the parties","Carbon pricing,Emissions trading,Climate finance","Carbon price,Emissions trading,Climate finance"
+SDGt143,13,Natural Emergency,"Emergency management,Drought, Disaster risk reduction, Flood, Extreme weather","Emergency communication,Emergency Alert,Emergency Broadcast","Emergency communication system,Emergency Alert System,Emergency Broadcast System"
 SDGt144,14,SDG 14,"Marine Life, Freshwater ecosystem, Marine ecosystem, Oceans, Marine conservation, Marine resources, Fishery, Aquaculture, Overfishing, Marine pollution, Invasive species, Plasticosis, Marine Biodiversity, Ocean AND Biodiversity, Marine habitat, Sustainable fishery, Population dynamics of fisheries, Sustainable yield in fisheries, Ocean acidification, Marine biogenic calcification, Estuarine acidification, Coral reef, Coral, Deep-water coral, Sponge reef, Marine resources, Marine energy, Human impact on marine life, Effects of climate change on oceans, Marine coastal ecosystem, Coastal management, Coastal erosion, Sustainable Development Goal 14",,
-SDGt145,14,Marine Ecosystems,"Marine Life, Freshwater ecosystem, Marine ecosystem",,
-SDGt146,14,Ocean Conservation,"Oceans, Marine conservation, Marine resources",,
-SDGt147,14,Fisheries,"Fishery, Aquaculture, Overfishing",,
-SDGt148,14,Marine Pollution,"Marine pollution, Invasive species, Plasticosis",,
-SDGt149,14,Marine Biodiversity,"Marine Biodiversity, Ocean AND Biodiversity, Marine habitat",,
-SDGt150,14,Sustainable Fishing,"Sustainable fishery, Population dynamics of fisheries, Sustainable yield in fisheries",,
-SDGt151,14,Ocean Acidification,"Ocean acidification, Marine biogenic calcification, Estuarine acidification",,
-SDGt152,14,Coral Reefs,"Coral reef, Coral, Deep-water coral, Sponge reef",,
-SDGt153,14,Marine Resources,"Marine resources, Marine energy, Human impact on marine life, Effects of climate change on oceans",,
-SDGt154,14,Coastal Protection,"Marine coastal ecosystem, Coastal management, Coastal erosion",,
+SDGt145,14,Marine Ecosystems,"Marine Life, Freshwater ecosystem, Marine ecosystem","Marine Life, Freshwater ecosystem,Marine habitat","Marine Life, Freshwater ecosystem,Marine habitat"
+SDGt146,14,Ocean Conservation,"Oceans, Marine conservation, Marine resources,Marine protected area","Marine Legislation,Marine protected area, Marine resources","Law of the sea,Marine protected area, Marine resources"
+SDGt147,14,Fisheries,"Fishery, Aquaculture, Overfishing","Fishery,Aquaculture, Overfishing","Fishery,Aquaculture, Overfishing"
+SDGt148,14,Marine Pollution,"Marine pollution, Invasive species, Plasticosis,Oil spill","Oil spill,Invasive species, Plasticosis","Oil spill,Invasive species, Plasticosis"
+SDGt149,14,Marine Biodiversity,"Marine Biodiversity, Ocean AND Biodiversity, Marine habitat","Marine food web,Kelp forest,Marine sediment","Marine food web,Kelp forest,Marine sediment"
+SDGt150,14,Sustainable Fishing,"Sustainable fishery, Population dynamics of fisheries, Sustainable yield in fisheries","Bycatch reduction,Population dynamics, Marine stewardship","Bycatch,Population dynamics of fisheries,Marine stewardship Council"
+SDGt151,14,Ocean Acidification,"Ocean acidification, Marine biogenic calcification, Estuarine acidification","Ocean deoxygenation,Estuarine acidification,Marine biogenic calcification","Ocean deoxygenation,Estuarine acidification,Marine biogenic calcification"
+SDGt152,14,Coral Reefs,"Coral reef, Coral, Deep-water coral, Sponge reef","Coral reef conservation,Coral bleaching,Reef restoration","Coral reef conservation,Coral bleaching,Great Barrier Reef"
+SDGt153,14,Marine Resources,"Marine resources, Marine energy, Human impact on marine life, Effects of climate change on oceans","Marine energy, Human impact, Effects of climate change","Marine energy, Human impact on marine life, Effects of climate change on oceans"
+SDGt154,14,Coastal Protection,"Marine coastal ecosystem, Coastal management, Coastal erosion","Marine coastal ecosystem, Coastal management, Coastal erosion","Marine coastal ecosystem, Coastal management, Coastal erosion"
 SDGt155,15,SDG 15,"Deforestation, Clearcutting, Defaunation, Biodiversity, Life, Ecosystem diversity, Land Degradation, Land management, Surface runoff, Forest management, Reforestation, Forest, Ecological restoration, Ecosystem service, Carbon sequestration, Wildlife conservation, Wildlife, Habitat destruction, Desertification, Land degradation, Biodiversity loss, Protected Areas, Nature reserve, Nature conservation, Sustainable Forestry, Forestry, Woodland, Soil health, Soil resilience, Soil fertility, Sustainable Development Goal 15",,
-SDGt156,15,Deforestation,"Deforestation, Clearcutting, Defaunation",,
-SDGt157,15,Biodiversity conservation,"Biodiversity, Life, Ecosystem diversity",,
-SDGt158,15,Land Degradation,"Land Degradation, Land management, Surface runoff",,
-SDGt159,15,Reforestation,"Forest management, Reforestation, Forest",,
-SDGt160,15,Ecosystem Restoration,"Ecological restoration, Ecosystem service, Carbon sequestration",,
-SDGt161,15,Wildlife Conservation,"Wildlife conservation, Wildlife, Habitat destruction",,
-SDGt162,15,Desertification,"Desertification, Land degradation, Biodiversity loss",,
-SDGt163,15,Protected Areas,"Protected Areas, Nature reserve, Nature conservation, Forest reserve",,
-SDGt164,15,Sustainable Forestry,"Sustainable Forestry, Forestry, Woodland",,
-SDGt165,15,Soil Health,"Soil health, Soil resilience, Soil fertility",,
+SDGt156,15,Deforestation,"Deforestation, Clearcutting, Defaunation","Forest transitionClearcutting, Defaunation","Forest transitionClearcutting, Defaunation"
+SDGt157,15,Biodiversity conservation,"Biodiversity, Life, Ecosystem diversity","Endangered species,Protected area,Ecosystem diversity","Endangered species,Protected area,Ecosystem diversity"
+SDGt158,15,Land Degradation,"Land Degradation, Land management, Surface runoff","Land reclamation,Land management, Surface runoff","Land reclamation,Land management, Surface runoff"
+SDGt159,15,Reforestation,"Forest management, Reforestation, Forest","Forest restoration,Forest management,Revegetation","Forest restoration,Forest management,Revegetation"
+SDGt160,15,Ecosystem Restoration,"Ecological restoration, Ecosystem service, Carbon sequestration","Habitat restoration,Ecosystem service, Carbon sequestration","Habitat restoration,Ecosystem service, Carbon sequestration"
+SDGt161,15,Wildlife Conservation,"Wildlife conservation, Wildlife, Habitat destruction",,"Poaching, Wildlife corridor, Habitat destruction"
+SDGt162,15,Desertification,"Desertification, Land degradation, Biodiversity loss","Aridification,Land degradation, Biodiversity loss","Aridification,Land degradation, Biodiversity loss"
+SDGt163,15,Protected Areas,"Protected Areas, Nature reserve, Nature conservation, Forest reserve","Nature reserve, Nature conservation, Forest reserve","Nature reserve, Nature conservation, Forest reserve"
+SDGt164,15,Sustainable Forestry,"Sustainable Forestry, Forestry, Woodland","Forest management,Forest certification,Agroforestry","Forest management,Certified wood,Agroforestry"
+SDGt165,15,Soil Sustainability,"Soil health, Soil resilience, Soil fertility","Soil health, Soil resilience, Soil fertility","Soil health, Soil resilience, Soil fertility"
 SDGt166,16,SDG 16,"Rule of Law, Legal certainty, Public interest law, Human Rights, Right to life, Freedom of speech, Right to education, Justice, Court, Social contract, Transparency (behavior), Openness, Open standard, Anti-Corruption, Regulatory compliance, Professional ethics, Bribery, Strong AND Institution, Cultural reproduction, Value (ethics), Accountability, Legal liability, Strict liability, Peace, Conflict Resolution, Freedom, Liberty, Autonomy, Social exclusion, Ostracism, Social rejection, Social vulnerability, Sustainable Development Goal 16",,
-SDGt167,16,Rule of Law,"Rule of Law, Legal certainty, Public interest law",,
-SDGt168,16,Human Rights,"Human Rights, Right to life, Freedom of speech, Right to education",,
+SDGt167,16,Rule of Law,"Rule of Law, Legal certainty, Public interest law","Legal certainty, Public interest,Consumer protection",Legal certainty, Public interest law,Consumer protection"
+SDGt168,16,Human Rights,"Human Rights, Right to life, Freedom of speech, Right to education","Right to life, Freedom of speech, Right to education","Right to life, Freedom of speech, Right to education"
 SDGt169,16,Justice,"Justice, Court, Social contract",,
 SDGt170,16,Transparency,"Transparency (behavior), Openness, Open standard",,
 SDGt171,16,Anti-Corruption,"Anti-Corruption, Regulatory compliance, Professional ethics, Bribery",,
@@ -177,13 +177,14 @@ SDGt174,16,Conflict Resolution,"Peace, Conflict Resolution",,
 SDGt175,16,Autonomy,"Freedom, Liberty, Autonomy",,
 SDGt176,16,Inclusivity,"Social exclusion, Ostracism, Social rejection, Social vulnerability",,
 SDGt177,17,SDG 17,"International cooperation, Translational cooperation, Multilateral agreements, International agreements, Multilingual, Multicultural, Knowledge sharing, Public–private partnership, Strategic partnership, Foreign Aid, Financial assistance (share purchase), Funding of science, Development Cooperation, Capacity Building, Community capacity building,Technology Transfer, Knowledge transfer, Transfer of learning, Stakeholder engagement, Stakeholder engagement software, Stakeholder management, Commercial policy, Common commercial policy, Common Commercial Policy (EU), Free trade agreement, Global Partnerships, International development, International Partnership for Human Rights, Policy coherence for development, Global governance, Resource mobilization, Mass mobilization, Social movement organization, Partnerships for Goals, Multilateralism, Multilateral treaty, Sustainable Development Goal 17",,
-SDGt178,17,Global Cooperation,"International cooperation, Translational cooperation, Multilateral agreements, International agreements, Multilingual, Multicultural, Knowledge sharing, Public–private partnership, Strategic partnership",,
+SDGt178,17,Global Cooperation,"International cooperation, Translational cooperation, Multilateral agreements, International agreements, Multilingual, Multicultural, Knowledge sharing, Public–private partnership, Strategic partnership","Global governance,International law,Global public good","Global governance,International law,Global public good"
 SDGt179,17,Financial Aid,"Foreign Aid, Financial assistance (share purchase), Funding of science",,
 SDGt180,17,Capacity Building,"Development Cooperation, Capacity Building, Community capacity building",,
 SDGt181,17,Technology Transfer,"Technology Transfer, Knowledge transfer, Transfer of learning",,
 SDGt182,17,Stakeholder Engagement,"Stakeholder engagement, Stakeholder engagement software, Stakeholder management",,
 SDGt183,17,Trade Policies,"Commercial policy, Common commercial policy, Common Commercial Policy (EU), Free trade agreement",,
 SDGt184,17,International Partnerships,"Global Partnerships, International development, International Partnership for Human Rights",,
-SDGt185,17,Policy Coherence,"Policy coherence for development, Global governance,",,
-SDGt186,17,Resource Mobilization,"Resource mobilization, Mass mobilization, Social movement organization",,
-SDGt187,17,Multilateral Agreements,"Partnerships for Goals, Multilateralism, Multilateral treaty",,
+SDGt185,17,Policy Coherence,"Policy coherence for development, Global governance,International law",,"Intergovernmentalism"
+SDGt186,17,Resource Mobilization,"Resource mobilization, Mass mobilization, Social movement organization","Social constructionism,Mass mobilization, Social movement organization","Social constructionism,Mass mobilization, Social movement organization"
+SDGt187,17,Multilateral Agreements,"Partnerships for Goals, Multilateralism, Multilateral treaty","Partnerships for Goals, Cross-border cooperation, Multilateral treaty"
+,"Partnerships for Goals, Cross-border cooperation, Multilateral treaty"

@@ -34,52 +34,52 @@ SDGt031,3,Mental Health,"Mental health, Mental disorder, Mental environment, Emo
 SDGt032,3,Public Health,"Public health, Air contamination, Air pollution, Global health,Health promotion","Health promotion, Global health, Universal health care", "Health promotion, Global health, Universal health care"
 SDGt033,3,Tropical Disease,"Tropical disease, Tropical medicine, Lassa fever, Marburg virus, Dengue fever, Malaria","Lassa fever, Marburg virus, Dengue fever, Malaria","Lassa fever, Marburg virus, Dengue fever, Malaria"
 SDGt034,4,SDG 4,"Continuing education, adult education, Community education, Lifelong learning, Part-time student, Professional learning community, Education policy, Early Childhood Education Act, Education AND Legislation, Board of education, Universal Primary Education, Quality Education, Gender Equality in Education, Youth empowerment, Digital literacy, Data literacy, Education AND Accessibility, Education AND Equity, Education AND Inclusion, Education AND Immigrants, Education AND Migrants, Education AND Open file format, Equal Education, Student financial aid, Early Childhood Development, Teacher education, European Teacher Education Network, Teaching method, Vocational Training, Educational technology, Education AND Innovation, Nonformal learning, Open education, Open educational resources, Free education, Education AND Open access, Nonformal learning, Global Citizenship, functional literacy, Professional development, Capacity building, Coursework, Competency building, Special Education, Disability studies, Early childhood intervention, special needs, learning disabilities, Sustainable Development Goal 4",,
-SDGt035,4,Lifelong Learning,"Continuing education, adult education, Community education, Lifelong learning, Part-time student, Professional learning community",,
-SDGt036,4,Education Policy,"Education policy, Early Childhood Education Act, Education AND Legislation, Board of education, Universal Primary Education, Quality Education, Gender Equality in Education",,
-SDGt037,4,Digital Literacy,"Youth empowerment, Digital literacy, Data literacy",,
-SDGt038,4,Inclusive Education,"Education AND Accessibility, Education AND Equity, Education AND Inclusion, Education AND Immigrants, Education AND Migrants, Education AND Open file format, Equal Education, Student financial aid, Early Childhood Development",,
-SDGt039,4,Teacher Training,"Teacher education, European Teacher Education Network, Teaching method, Vocational Training",,
-SDGt040,4,Educational Technology,"Educational technology, Education AND Innovation,",,
-SDGt041,4,Open Education,"Nonformal learning, Open education, Open educational resources, Free education, Education AND Open access",,
-SDGt042,4,Distance education,"Nonformal learning, Global Citizenship, Distance education",,
-SDGt043,4,Capacity Building,"Professional development, Capacity building, Coursework, Competency building",,
-SDGt044,4,Special Education,"Special Education, Disability studies, Early childhood intervention, special needs, learning disabilities",,
+SDGt035,4,Lifelong Learning,"Continuing education, adult education, Community education, Lifelong learning, Part-time student, Professional learning community","Continuing education, Adult education, Community education", "Continuing education, Adult education, Community education"
+SDGt036,4,Education Policy,"Education policy, Early Childhood Education Act, Education AND Legislation, Board of education, Universal Primary Education, Quality Education, Gender Equality in Education","Early Childhood Education, Quality Education, Gender Equality in Education","Early Childhood Education Act, Quality Education, Gender Equality in Education"
+SDGt037,4,Digital Literacy,"Youth empowerment, Digital literacy, Data literacy,Media literacy,Web literacy","Web literacy, Media literacy, Data literacy","Web literacy, Media literacy, Data literacy"
+SDGt038,4,Inclusive Education,"Education AND Accessibility, Education AND Equity, Education AND Inclusion, Education AND Immigrants, Education AND Migrants, Education AND Open file format, Equal Education, Student financial aid, Early Childhood Development","Equal Education, Student financial aid,Open file format","Equal Education, Student financial aid,Open file format"
+SDGt039,4,Teacher Training,"Teacher education, European Teacher Education Network, Teaching method, Vocational Training","Teacher education,Teaching method, Vocational Training","Teacher education,Teaching method, Vocational Training"
+SDGt040,4,Educational Technology,"Educational technology, Education AND Innovation, Computer-supported collaborative learning","Computer-supported collaborative learning,Virtual Collaborative Learning, Distance education","Computer-supported collaborative learning,Virtual Collaborative Learning, Distance education"
+SDGt041,4,Open Education,"Nonformal learning, Open education, Open educational resources, Free education, Education AND Open access","Open educational resources, Free education, Open access","Open educational resources, Free education, Education AND Open access"
+SDGt042,4,Distance education,"Nonformal learning, Global Citizenship, Distance education","Nonformal learning, Global Citizenship, Digital divide","Nonformal learning, Global Citizenship, Digital divide"
+SDGt043,4,Capacity Building,"Professional development, Capacity building, Coursework, Competency building","Professional development, Coursework, Competency building","Professional development, Coursework, Competency building"
+SDGt044,4,Special Education,"Special Education, Disability studies, Early childhood intervention, special needs, learning disabilities","Early childhood intervention, special needs, learning disabilities","Early childhood intervention, special needs, learning disabilities"
 SDGt045,5,SDG 5,"Women's empowerment, Feminism, Gender Equality, Equal opportunity, Gender and education, Gender parity, Gender parity index, Gender inequality, Gender Mainstreaming, Gender-related violence, Sexual violence, Domestic Violence, Child marriage, Forced marriage, Human rights, Women's rights, Sexual Abuse, Sex Offense, Social inequality, Equal opportunity, Equal pay for equal work, Equal Pay, Disadvantaged, Discrimination, Discrimination based on skin tone, Discrimination against atheists, Sexual minority, Minority group, Minority influence, Social vulnerability, Social stratification, Transgender, Transgender inequality, LGBTQ, Lesbian, Gay, Sustainable Development Goal 5",,
-SDGt046,5,Women's Empowerment,"Women's empowerment, Feminism, Gender Equality",,
-SDGt047,5,Equal Opportunities,"Equal opportunity, Gender and education",,
-SDGt048,5,Gender Parity,"Gender parity, Gender parity index, Gender inequality, Gender Mainstreaming",,
-SDGt049,5,Gender-based Violence,"Gender-related violence, Sexual violence, Domestic Violence",,
-SDGt050,5,Women's Rights,"Child marriage, Forced marriage, Human rights, Women's rights",,
-SDGt051,5,Sex Offense,"Sexual Abuse, Sex Offense,",,
-SDGt052,5,Pay Equity,"Social inequality, Equal opportunity, Equal pay for equal work, Equal Pay",,
-SDGt053,5,Discrimination,"Disadvantaged, Discrimination, Discrimination based on skin tone, Discrimination against atheists, Ableism",,
-SDGt054,5,Minorities,"Sexual minority, Minority group, Minority influence, Social vulnerability, Social stratification",,
-SDGt055,5,Representation,"Transgender, Transgender inequality, LGBTQ, Lesbian, Gay",,
+SDGt046,5,Gender empowerment,"Gender empowerment,Women's empowerment, Feminism, Gender Equality","Women's empowerment, Feminism, Gender Equality","Women's empowerment, Feminism, Gender Equality"
+SDGt047,5,Equal Opportunities,"Equal opportunity, Prejudice, Gender and education","Prejudice,Oppression,Substantive equality","Prejudice,Oppression,Substantive equality"
+SDGt048,5,Gender Parity,"Gender parity, Gender parity index, Gender inequality, Gender Mainstreaming","Gender identity, Gender inequality, Gender Mainstreaming","Gender identity, Gender inequality, Gender Mainstreaming"
+SDGt049,5,Gender-based Violence,"Gender-related violence, Sexual violence, Domestic Violence, Violence against women","Violence against women,Sexual violence, Domestic Violence",
+SDGt050,5,Women's Rights,"Child marriage, Forced marriage, Human rights, Women's rights","Female education, Forced marriage, Misogyny","Female education, Forced marriage, Misogyny"
+SDGt051,5,Sex Offense,"Sexual Abuse, Sex Offense,Age of consent,Child sexual abuse, Stalking","Sexual Abuse, Stalking, Child sexual abuse","Sexual Abuse, Stalking, Child sexual abuse"
+SDGt052,5,Pay Equity,"Social inequality, Equal opportunity, Equal pay for equal work, Equal Pay,Labor rights","Social inequality, Equal opportunity,Labor rights","Social inequality, Equal opportunity,Labor rights"
+SDGt053,5,Discrimination,"Disadvantaged, Discrimination, Discrimination based on skin tone, RacismDiscrimination against atheists, Ableism","Disadvantaged,Racism,Ableism","Disadvantaged,Racism,Ableism"
+SDGt054,5,Minorities,"Sexual minority, Minority group, Minority influence, Social vulnerability, Social stratification,Minority religion","Sexual minority,Religious minority,Ethnic minority","Sexual minority,Religious minority,Ethnic penalty"
+SDGt055,5,Representation,"Transgender, Transgender inequality, LGBTQ, Lesbian, Gay","Transgender,Lesbian, Gay","Transgender,Lesbian, Gay"
 SDGt056,6,SDG 6,"Water supply, Water-use efficiency, Groundwater, Sanitation, Water AND Hygiene, Water Sanitation, Waterborne disease, Escherichia coli, Salmonella enterica, Polyomavirus infection, Desmodesmus, Reclaimed water, Desalination, Wastewater treatment, Drinking water, Drinking water quality standards, Safe Drinking Water, Drought, Water scarcity,  Water security, Water storage, Water resources, Water Resource Management, Integrated Water Resources Management, Water quality, Water quality law, Water quality modelling, Water rights, Water politics, Water Regulations Advisory Scheme, Water Pollution, Water AND Contamination, Aquatic toxicology, Sustainable Development Goal 6",,
-SDGt057,6,Water Access,"Water supply, Water-use efficiency, Groundwater",,
-SDGt058,6,Sanitation & Hygiene,"Sanitation, Water AND Hygiene, Water Sanitation",,
-SDGt059,6,Water-borne Disease,"Waterborne disease, Escherichia coli, Salmonella enterica, Polyomavirus infection, Desmodesmus",,
-SDGt060,6,Wastewater Management,"Reclaimed water, Desalination, Wastewater treatment",,
-SDGt061,6,Clean Drinking Water,"Drinking water, Drinking water quality standards, Safe Drinking Water",,
-SDGt062,6,Water Scarcity,"Drought, Water scarcity, Water security",,
-SDGt063,6,Water Resource Management,"Water storage, Water resources, Water Resource Management, Integrated Water Resources Management",,
-SDGt064,6,Water Quality,"Water quality, Water quality law, Water quality modelling",,
-SDGt065,6,Water Policy,"Water rights, Water politics, Water Regulations Advisory Scheme",,
-SDGt066,6,Water Pollution,"Water Pollution, Water AND Contamination, Aquatic toxicology",,
+SDGt057,6,Water Access,"Water supply, Water-use efficiency, Groundwater","Water supply, Water-use efficiency, Groundwater","Water supply, Water-use efficiency, Groundwater"
+SDGt058,6,Sanitation & Hygiene,"Sanitation, Water AND Hygiene, Water AND Sanitation","Ecological sanitation, Emergency sanitation, Sustainable sanitation","Ecological sanitation, Emergency sanitation, Sustainable sanitation"
+SDGt059,6,Water-borne Disease,"Waterborne disease, Escherichia coli, Salmonella enterica, Polyomavirus infection, Desmodesmus","Escherichia coli, Salmonella enterica, Polyomavirus infection, Desmodesmus","Escherichia coli, Salmonella enterica, Polyomavirus infection, Desmodesmus"
+SDGt060,6,Wastewater Management,"Reclaimed water, Desalination, Wastewater treatment","Reclaimed water, Desalination,Sewage treatment","Reclaimed water, Desalination,Sewage treatment"
+SDGt061,6,Clean Drinking Water,"Drinking water, Drinking water quality standards, Safe Drinking Water,Tap water","Tap water,Drinking water quality, Safe Drinking Water","Tap water,Drinking water quality standards, Safe Drinking Water"
+SDGt062,6,Water Scarcity,"Drought, Water scarcity, Water security,Peak water","Drought, Peak water, Water security","Drought, Peak water, Water security"
+SDGt063,6,Water Resource Management,"Water storage, Water resources, Water Resource Management, Integrated Water Resources Management,Water resource policy","Water storage, Water resources, Water resource policy","Water storage, Water resources, Water resource policy"
+SDGt064,6,Water Quality,"Water quality, Water quality law, Water quality modelling", "Water quality law,Water quality modelling,Drinking water quality","Water quality law,Water quality modelling,Drinking water quality,Drinking water quality standards"
+SDGt065,6,Water Policy,"Water rights, Water politics, Water Regulations Advisory Scheme","Water rights, Water politics, Water Regulations","Water rights, Water politics, Water Regulations Advisory Scheme"
+SDGt066,6,Water Pollution,"Water Pollution, Water AND Contamination, Aquatic toxicology","Turbidity,Salinity,Pesticide","Turbidity,Salinity,Pesticide AND Water"
 SDGt067,7,SDG 7,"Renewable energy, Solar power, Wind energy, Energy poverty, Energy for All, SolarAid, Sustainable Energy for All, Household energy insecurity, Sustainable energy, Energy poverty and cooking, Clean Energy Regulator, Energy efficiency, Energy efficiency implementation, Energy efficiency gap, Energy conservation, Energy storage, Electric potential energy, Thermal energy storage, Energy recycling, Energy recovery, Waste-to-energy, Waste heat, Sustainable energy, Carbon capture and storage, Energy transition, Energy development, Energy demand management, Electric energy consumption, World energy resources, World energy supply and consumption, Nuclear power, Potential energy, Nuclear reactor, Sustainable Development Goal 7",,
-SDGt068,7,Renewable Energy,"Renewable energy, Solar power, Wind energy",,
-SDGt069,7,Energy Access,"Energy poverty, Energy for All, SolarAid, Sustainable Energy for All, Household energy insecurity",,
-SDGt070,7,Clean Energy,"Sustainable energy, Energy poverty and cooking, Clean Energy Regulator",,
-SDGt071,7,Energy Efficiency,"Energy efficiency, Energy efficiency implementation, Energy efficiency gap",,
-SDGt072,7,Energy Conservation,"Energy conservation, Energy storage, Electric potential energy, Thermal energy storage",,
-SDGt073,7,Energy Recycling,"Energy recycling, Energy recovery, Waste-to-energy, Waste heat",,
+SDGt068,7,Renewable Energy,"Renewable energy, Solar power, Wind energy","Solar power, Wind energy, Hidro energy","Solar power, Wind energy, Hydropower"
+SDGt069,7,Energy Access,"Energy poverty, Energy for All, Energy poverty and cooking, SolarAid, Sustainable Energy for All, Household energy insecurity","Energy poverty,Energy aid, Household energy insecurity","Energy poverty,Energy for All, Household energy insecurity"
+SDGt070,7,Energy transition, "Energy transition, Energy security, Sustainable energy, Clean Energy Regulator","Energy security,Variable renewable energy,Grid balancing", "Energy security,Variable renewable energy,Grid balancing",
+SDGt071,7,Energy Efficiency,"Energy efficiency, Energy efficiency implementation, Energy efficiency gap","Thermal efficiency,Luminous efficacy, Data Centre efficency", "Thermal efficiency,Luminous efficacy,Power usage effectiveness"
+SDGt072,7,Energy Conservation,"Energy conservation, Energy storage, Electric potential energy, Thermal energy storage","Energy storage, Electric potential energy, Thermal energy storage","Energy storage, Electric potential energy, Thermal energy storage"
+SDGt073,7,Energy Recycling,"Energy recycling, Energy recovery, Waste-to-energy, Waste heat,Cogeneration","Energy recovery, Waste-to-energy, Cogeneration","Energy recovery, Waste-to-energy, Cogeneration"
 SDGt074,7,Sustainable Energy,"Sustainable energy, Carbon capture and storage, Energy transition",,
-SDGt075,7,Energy Infrastructure,"Energy development, Energy demand management, Electric energy consumption",,
-SDGt076,7,Energy Policy,"World energy resources, World energy supply and consumption, Energy policy",,
-SDGt077,7,Nuclear Energy,"Nuclear power, Potential energy, Nuclear reactor, Nuclear energy policy",,
+SDGt075,7,Energy Infrastructure,"Energy development, Energy demand management, Electric energy consumption","Energy development, Energy demand, Energy consumption","Energy development, Energy demand management, Electric energy consumption"
+SDGt076,7,Energy Policy,"World energy resources, World energy supply and consumption, Energy policy,Energy planning,Energy intensity,Nuclear energy policy","Energy planning,Energy intensity,Nuclear energy policy",
+SDGt077,7,Nuclear Energy,"Nuclear power, Potential energy, Nuclear reactor, Nuclear energy policy","Nuclear power, Potential energy,Energy economics","Nuclear power, Potential energy,Energy economics"
 SDGt078,8,SDG 8,"Unemployment, Self-employment, Workforce, Economic Growth, Informal Economy, Globalization, Sustainability, Sustainable tourism, Ecotourism, Financial models, Business model, Innovation, Financial support, Worker Rights, Labor Right, Labour law, Decent Work, Fundamental rights, Dignity of labour, Inclusive Development Index, Inclusive growth, Sustainable development, Resource efficiency, Resource intensity, Sustainability measurement, Youth Unemployment, Unemployment, Capacity building, Corporate Social Responsibility, Conscious business, Corporate governance, Sustainable Development Goal 8",,
-SDGt079,8,Unemployment,"Unemployment, Self-employment, Workforce",,
-SDGt080,8,Economic Development,"Economic Growth, Informal Economy, Globalization",,
+SDGt079,8,Unemployment,"Unemployment, Self-employment, Workforce,Unemployment benefits,Technological unemployment","Self-employment, Unemployment benefits,Technological unemployment","Self-employment, Unemployment benefits,Technological unemployment"
+SDGt080,8,Economic Development,"Economic Growth, Informal Economy, Globalization","Economic Growth, Informal Economy, Globalization","Economic Growth, Informal Economy, Globalization"
 SDGt081,8,Sustainable Tourism,"Sustainability, Sustainable tourism, Ecotourism",,
 SDGt082,8,Entrepreneurship,"Financial models, Business model, Innovation, Financial support",,
 SDGt083,8,Labor Rights,"Worker Rights, Labor Right, Labour law",,

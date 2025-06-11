@@ -498,65 +498,65 @@ Index,Long Name,Short Name,SDG
 497,Observation value - Unit of measure: Deaths per 100 live births - Indicator: Under-five mortality rate - Sex: Both sexes - Wealth quintile: All wealth quintiles,Under-five mortality rate,3
 498,Percent of Alcohol use disorders deaths,Percent of Alcohol use disorders deaths,3
 499,Private civil liberties index (best estimate: aggregate: average),Private Civil Liberties,16
-500,Official entrance age to compulsory education (years),Official Entrance Age,
-501,Old-age dependency ratio - Sex: all - Variant: estimates,Oldage Dependency Ratio,
-502,Cigarette consumption per smoker per day (IHME: GHDx (2012)),Cigarette Consumption Per,
-503,GDP per capita,Gdp Per Capita 2,
-504,Fertilizer consumption (kilograms per hectare of arable land),Fertilizer Consumption,
-505,Proportion of population with primary reliance on clean fuels and technologies for cooking (%) - Residence area type: Total,Proportion Population With,
-506,Rate of Parkinson's disease deaths,Rate Parkinsons Disease,
-507,Domestic private health expenditure per capita: PPP (current international $),Domestic Private Health,
-508,Official entrance age to pre-primary education (years),Official Entrance Age 1,
-509,Rice yield,Rice Yield,
-510,Annual CO2 emissions per unit energy (kg per kilowatt-hour),CO2 emissions,
-511,Manufacturing: value added (% of GDP),Manufacturing Value Added,
-512,Rule of Law index (best estimate: aggregate: average),Rule Law Index,
-513,Women's civil rights index (best estimate: aggregate: average),Womens Civil Rights,
-514,Death rate from lower respiratory infections among both sexes,Death Rate From 19,
-515,Age of democracy (with women's suffrage) BMR,Democracy 7,
-516,Per capita nitrous oxide emissions from agriculture,Per Capita Nitrous,
-517,Prevalence of anemia among children (% of children ages 6-59 months),Prevalence Anemia Among,
-518,Rate of Road injuries deaths,Rate Road Injuries,
-519,15.1.2 - Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas (%) - ER_PTD_FRHWTR,Average Proportion Freshwater,
-520,Percent of Exposure to forces of nature deaths,Percent Exposure Forces,
-521,Individuals using the Internet (% of population),Individuals Using The,
-522,Proportion of seats held by women in national parliaments (%),Proportion Seats Held,
-523,Total | 00002901 || Food available for consumption | 0674pc || grams of protein per day per capita,Total consumption 1,
-524,Percent of Diabetes mellitus deaths,Percent Diabetes Mellitus,
-525,There is legislation specifically addressing domestic violence (1=yes; 0=no),There Legislation Specifically,
-526,Death rate from opioid use disorders among both sexes,Death Rate From 20,
-527,Regulation of political participation,Regulation Political Participation,
-528,Death rate from amphetamine use disorders among both sexes,Death Rate From 21,
-529,Refugees by destination,Refugees Destination,
-530,Rate of Police conflict and executions deaths,Rate Police Conflict,
-531,Political regime,Political Regime 1,
-532,Freedom of association thick index (best estimate),Freedom Association Thick,
-533,Percent of Ovarian cancer deaths,Percent Ovarian Cancer,
-534,machinery_per_ag_land,Machineryperagland,
+500,Official entrance age to compulsory education (years),Official entrance age to compulsory education,4
+501,Old-age dependency ratio - Sex: all - Variant: estimates,Old-age Dependency Ratio,3
+502,Cigarette consumption per smoker per day (IHME: GHDx (2012)),Cigarette Consumption Per Capita,3
+503,GDP per capita,GDP per capita,8
+504,Fertilizer consumption (kilograms per hectare of arable land),Fertilizer Consumption,2
+505,Proportion of population with primary reliance on clean fuels and technologies for cooking (%) - Residence area type: Total,Reliance on clean fuels and technologies for cooking,7
+506,Rate of Parkinson's disease deaths,Rate of Parkinsons Disease Deaths,3
+507,Domestic private health expenditure per capita: PPP (current international $),Domestic Private Health Expenditure,3
+508,Official entrance age to pre-primary education (years),Official entrance age to pre-primary education,4
+509,Rice yield,Rice Yield,2
+510,Annual CO2 emissions per unit energy (kg per kilowatt-hour),CO2 emissions per unit energy,13
+511,Manufacturing: value added (% of GDP),Manufacturing Value Added,9
+512,Rule of Law index (best estimate: aggregate: average),Rule of Law Index,16
+513,Women's civil rights index (best estimate: aggregate: average),Womens Civil Rights,5
+514,Death rate from lower respiratory infections among both sexes,Death from lower respiratory infections,3
+515,Age of democracy (with women's suffrage) BMR,Age of democracy (with women's suffrage) BMR,5
+516,Per capita nitrous oxide emissions from agriculture,Nitrous oxide emissions from agriculture,2
+517,Prevalence of anemia among children (% of children ages 6-59 months),Prevalence Anemia Among Children,3
+518,Rate of Road injuries deaths,Rate of Road injuries deaths,3
+519,15.1.2 - Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas (%) - ER_PTD_FRHWTR,Average Proportion of Freshwater,6
+520,Percent of Exposure to forces of nature deaths,Percent of Exposure to forces of nature deaths,3
+521,Individuals using the Internet (% of population),Individuals using the Internet ,9
+522,Proportion of seats held by women in national parliaments (%),Seats held by women in national parliaments,5
+523,Total | 00002901 || Food available for consumption | 0674pc || grams of protein per day per capita,Food available for consumption per capita,2
+524,Percent of Diabetes mellitus deaths,Percent of Diabetes mellitus deaths,3
+525,There is legislation specifically addressing domestic violence (1=yes; 0=no),Legislation Specific for Domestic Violence,5
+526,Death rate from opioid use disorders among both sexes,Death rate from opioid use disorders,3
+527,Regulation of political participation,Regulation of Political Participation,16
+528,Death rate from amphetamine use disorders among both sexes,Death rate from amphetamine use disorders,3
+529,Refugees by destination,Refugees by Destination,16
+530,Rate of Police conflict and executions deaths,Rate of Police conflict and executions deaths,16
+531,Political regime,Political Regime,16
+532,Freedom of association thick index (best estimate),Freedom of Association Thick,16
+533,Percent of Ovarian cancer deaths,Percent of Ovarian cancer deaths,3
+534,machinery_per_ag_land,Machinery per ag land,9
 535,Years colonized,Years Colonized,
-536,Top 1% - Share (Net national wealth) (Estimated),Top Share 1,
-537,Coal electricity per capita - kWh,Coal Electricity Per,
-538,2.2.2 - Proportion of children moderately or severely overweight (%) - SN_STA_OVWGT,Proportion Children Moderately,
-539,15.5.1 - Red List Index - ER_RSK_LST,Red List Index,
-540,Access to justice for men (best estimate) (re-estimate),Access Justice For 1,
-541,Death rate from hiv/aids among both sexes,Death Rate From 22,
-542,Cropland | 00006620 || Area | 005110 || hectares,Cropland indicator,
-543,Share of global methane emissions,Share Global Methane,
-544,Rate of Diarrheal diseases deaths,Rate Diarrheal Diseases,
+536,Top 1% - Share (Net national wealth) (Estimated),Net national wealth,8
+537,Coal electricity per capita - kWh,Coal electricity per capita,7
+538,2.2.2 - Proportion of children moderately or severely overweight (%) - SN_STA_OVWGT,Proportion Children moderately or severely overweight,3
+539,15.5.1 - Red List Index - ER_RSK_LST,Red List Index,15
+540,Access to justice for men (best estimate) (re-estimate),Access Justice For Men,16
+541,Death rate from hiv/aids among both sexes,Death rate from hiv/aids,3
+542,Cropland | 00006620 || Area | 005110 || hectares,Cropland indicator,2
+543,Share of global methane emissions,Share of global methane emissions,13
+544,Rate of Diarrheal diseases deaths,Rate of Diarrheal diseases deaths,3
 545,Common good justifications (best estimate),Common Good Justifications,
-546,Share of global cumulative CO₂ emissions from flaring,Share Global Cumulative 5,
-547,Domestic policymaking free from foreign influence (best estimate: aggregate: average),Domestic Policymaking Free,
-548,Share of global annual CO₂ emissions including land-use change,Share Global Annual 7,
-549,Percent of Yellow fever deaths,Percent Yellow Fever,
-550,Rate of Other unintentional injuries deaths,Rate Other Unintentional,
-551,Share of global cumulative CO₂ emissions from coal,Share Global Cumulative 6,
-552,Total polio cases per million,Total Polio Cases,
-553,Egalitarian political institutions index (best estimate),Egalitarian Political Institutions,
-554,Political rights rating,Political Rights Rating,
-555,Richest decile - Share (Pretax) (Estimated),Health spending 9,
+546,Share of global cumulative CO₂ emissions from flaring,CO₂ emissions from flaring,13
+547,Domestic policymaking free from foreign influence (best estimate: aggregate: average),Domestic Policymaking Free from foreign influence,16
+548,Share of global annual CO₂ emissions including land-use change,CO₂ emissions including land-use change,13
+549,Percent of Yellow fever deaths,Percent of Yellow fever deaths,3
+550,Rate of Other unintentional injuries deaths,Other unintentional injuries deaths,3
+551,Share of global cumulative CO₂ emissions from coal,Cumulative CO₂ emissions from coal,7
+552,Total polio cases per million,Total Polio Cases,3
+553,Egalitarian political institutions index (best estimate),Egalitarian Political Institutions,16
+554,Political rights rating,Political Rights Rating,16
+555,Richest decile - Share (Pretax) (Estimated),Richest decile - Share (Pretax) ,1
 556,Rural population (% of total population),Rural Population,
-557,Electoral democracy (best estimate) (re-estimate),Democracy 8,
-558,DALYs from all causes: among both sexes per 100.000 people,Dalys From All,
+557,Electoral democracy (best estimate) (re-estimate),Electoral democracy,16
+558,DALYs from all causes: among both sexes per 100.000 people,Dalys From All Causes,
 559,Observation value - Unit of measure: Stillbirths per 100 births - Indicator: Stillbirth rate - Sex: Both sexes - Wealth quintile: All wealth quintiles,Observation Value Unit 2,
 560,Prevalence of anemia among pregnant women (%),Anemia in women 1,
 561,Percent of Animal contact deaths,Percent Animal Contact,

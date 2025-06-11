@@ -56,73 +56,73 @@ Index,Long Name,Short Name,SDG
 55,Case fatality ratio (percentage),Case Fatality Ratio,3
 56,Average precipitation in depth (mm per year),Average Precipitation Depth,6
 57,Percent of Foreign body deaths,Foreign Body Deaths,16
-58,Share of global cumulative CO₂ emissions including land-use change,Global CO2 Emmissions,
-59,State involved in conflict - Conflict type: state-based,State Involved Conflict,
-60,Percent of Meningitis deaths,Percent Meningitis Deaths,
-61,Observation value - Unit of measure: Deaths per 100 live births - Indicator: Infant mortality rate - Sex: Both sexes - Wealth quintile: All wealth quintiles,Observation Value Unit,
-62,Milk | 00001780 || Yield | 005420 || kilograms per animal,Milk yield,
-63,Judicial constraints on the executive index (best estimate),Executive Judicial Constraints,
-64,Rate of Adverse effects of medical treatment deaths,Effects of medical treatment deaths,
-65,Food exports (% of merchandise exports),Food Exports,
-66,Raised fasting blood glucose (>=7.0 mmol/L) (age-standardized estimate) - Sex: both sexes - Age group: 18+  years,Raised Fasting Blood,
-67,Share of global food emissions,Global Food Emissions,
-68,Rate of Total burden related to hepatitis C deaths,Hepatitis C deaths burden,
-69,Value of global merchandise imports as a share of GDP (Fouquin and Hugot; CEPII 2016; National data),Value Global Merchandise Imports,
-70,The law grants spouses equal administrative authority over assets during marriage (1=yes; 0=no),The Law Grants,
-71,Legislative elections,Legislative Elections,
-72,Vaccination schedule for Inactivated Polio Vaccine (IPV),Inactivated Polio Vaccine,
-73,Percent of Testicular cancer deaths,Percent Testicular Cancer,
-74,Gross enrolment ratio: secondary: both sexes (%),Gross Enrolment Ratio,
-75,Share of cereals that are allocated to human food,Share Cereals in Human Food,
-76,Justified political positions (best estimate),Justified Political Positions,
-77,Temperature,Temperature,
-78,Share of cereals that are allocated to animal feed,Share Cereals in Animal Food,
-79,Percent of Total cancers deaths,% Total Cancer Deaths,
-80,Estimated maternal mortality ratio,Estimated Maternal Mortality,
-81,Rate of Alcohol use disorders deaths,Alcohol Use Deaths,
-82,Taxes including social contributions (as a share of GDP),Taxes and Social Contributions,
-83,Political civil liberties index (best estimate: aggregate: average),Political Civil Liberties,
-84,Middle 40% - Share-pretax,Middle Sharepretax,
-85,Cumulative CO₂ emissions from flaring,CO₂ emissions from flaring,
-86,School enrollment: preprimary (% gross),School Enrollment Preprimary,
-87,Rate of Self-harm deaths,Rate Selfharm Deaths,
-88,GDP per person employed (constant 2017 PPP $),Gdp Per Person,
-89,Death rate from diarrhoeal diseases among both sexes,Death Rate From,
-90,Share of global cumulative CO₂ emissions from cement,CO₂ emissions from cement,
-91,Percent of Chronic kidney disease deaths,CO₂ emissions from cement,
-92,Meat: poultry | 00001808 || Yield | 005424 || kilograms per animal,Meat: poultry yield,
-93,Number of slave ships departed,Number Slave Ships,
-94,Overweight prevalence among children under 5 years of age (% weight-for-height >+2 SD): model-based estimates,Overweight children under 5 years,
-95,Share of global annual CO₂ emissions from land-use change,CO₂ emissions from land-use change,
-96,Percent of Stroke deaths,Percent Stroke Deaths,
-97,Percent of Total burden related to hepatitis B deaths, Hepatitis B deaths burden,
-98,Wind - % electricity,Wind Electricity,
-99,Liberal component index (best estimate),Liberal Component Index,
-100,Rate of Rabies deaths,Rate Rabies Deaths,
-101,There is legislation on sexual harassment in employment (1=yes; 0=no),Law on sex harassment in employment ,
-102,Percent of Environmental heat and cold exposure deaths,Env heat and cold exposure deaths,
-103,Meat of cattle with the bone: fresh or chilled | 00000867 || Yield | 005417 || kilograms per animal,Meat of cattle with the bone: fresh or chilled yield,
-104,Prevalence of obesity among adults: BMI >= 30 (age-standardized estimate) (%) - Sex: male - Age group: 18+  years,Obesity among adults: BMI >= 30,
-105,Meat: chicken | 00001058 || Production | 005510 || tonnes,Meat: chicken production,
-106,Birth rate - Sex: all - Age: all - Variant: estimates,Birth Rate Sex,
-107,Access to justice for women (best estimate) (re-estimate),Access Justice ForWomen,
-108,Solar - % electricity,Solar Electricity,
-109,Neonatal tetanus - number of reported cases per million,Neonatal Tetanus ,
-110,Percent of Prostate cancer deaths,Prostate Cancer Deaths,
-111,Percent of Other unintentional injuries deaths,Other unintentional injuries deaths,
-112,Gender Inequality Index,Gender Inequality Index,
-113,2.1.1 Prevalence of undernourishment | 000000000024000 || Value | 006121 || Percent,Prevalence of undernourishment,
-114,Rate of Environmental heat and cold exposure deaths,Env heat and cold exposure deaths,
-115,Share of the population using at least basic drinking water services,Population basic drinking water services,
-116,Terrorism deaths per 100:000 people,Terrorism Deaths ,
-117,Death rate - Sex: all - Age: all - Variant: estimates,Death Rate  ,
-118,Rate of Malaria deaths,Malaria Deaths,
-119,Percent of Cervical cancer deaths,Cervical Cancer Deaths,
-120,Percent of Asthma deaths,Asthma Deaths,
-121,Terrain Ruggedness Index 100m (Nunn and Puga 2012),Terrain Ruggedness Index,
-122,A woman can open a bank account in the same way as a man (1=yes; 0=no),Woman Can Open Bank Account,
-123,9.2.2 - Manufacturing employment as a proportion of total employment - 13th ICLS (%) - SL_TLF_MANF,Manufacturing Employment Proportion,
-124,Annual freshwater withdrawals: industry (% of total freshwater withdrawal),Freshwater Withdrawals by industry,
+58,Share of global cumulative CO₂ emissions including land-use change,Global CO2 Emmissions,13
+59,State involved in conflict - Conflict type: state-based,State Involved Conflict,16
+60,Percent of Meningitis deaths,Percent Meningitis Deaths,3
+61,Observation value - Unit of measure: Deaths per 100 live births - Indicator: Infant mortality rate - Sex: Both sexes - Wealth quintile: All wealth quintiles,Infant mortality rate,3
+62,Milk | 00001780 || Yield | 005420 || kilograms per animal,Milk yield,2
+63,Judicial constraints on the executive index (best estimate),Executive Judicial Constraints,16
+64,Rate of Adverse effects of medical treatment deaths,Effects of medical treatment deaths,3
+65,Food exports (% of merchandise exports),Food Exports,2
+66,Raised fasting blood glucose (>=7.0 mmol/L) (age-standardized estimate) - Sex: both sexes - Age group: 18+  years,Raised Fasting Blood,3
+67,Share of global food emissions,Global Food Emissions,2
+68,Rate of Total burden related to hepatitis C deaths,Hepatitis C deaths burden,3
+69,Value of global merchandise imports as a share of GDP (Fouquin and Hugot; CEPII 2016; National data),Value Global Merchandise Imports,8
+70,The law grants spouses equal administrative authority over assets during marriage (1=yes; 0=no),The Law Grants,16
+71,Legislative elections,Legislative Elections,16
+72,Vaccination schedule for Inactivated Polio Vaccine (IPV),Inactivated Polio Vaccine,3
+73,Percent of Testicular cancer deaths,Percent Testicular Cancer,3
+74,Gross enrolment ratio: secondary: both sexes (%),Gross Enrolment Ratio,4
+75,Share of cereals that are allocated to human food,Share Cereals in Human Food,2
+76,Justified political positions (best estimate),Justified Political Positions,16
+77,Temperature,Temperature,13
+78,Share of cereals that are allocated to animal feed,Share Cereals in Animal Food,2
+79,Percent of Total cancers deaths,% Total Cancer Deaths,3
+80,Estimated maternal mortality ratio,Estimated Maternal Mortality,3
+81,Rate of Alcohol use disorders deaths,Alcohol Use Deaths,3
+82,Taxes including social contributions (as a share of GDP),Taxes and Social Contributions,9
+83,Political civil liberties index (best estimate: aggregate: average),Political Civil Liberties,10
+84,Middle 40% - Share-pretax,Middle Sharepretax,10
+85,Cumulative CO₂ emissions from flaring,CO₂ emissions from flaring,13
+86,School enrollment: preprimary (% gross),School Enrollment Preprimary,4
+87,Rate of Self-harm deaths,Rate Selfharm Deaths,3
+88,GDP per person employed (constant 2017 PPP $),GDP Per Person,8
+89,Death rate from diarrhoeal diseases among both sexes,Death Rate From,3
+90,Share of global cumulative CO₂ emissions from cement,CO₂ emissions from cement,13
+91,Percent of Chronic kidney disease deaths,CO₂ emissions from cement,13
+92,Meat: poultry | 00001808 || Yield | 005424 || kilograms per animal,Meat: poultry yield,2
+93,Number of slave ships departed,Number Slave Ships,10
+94,Overweight prevalence among children under 5 years of age (% weight-for-height >+2 SD): model-based estimates,Overweight children under 5 years,3
+95,Share of global annual CO₂ emissions from land-use change,CO₂ emissions from land-use change,13
+96,Percent of Stroke deaths,Percent Stroke Deaths,3
+97,Percent of Total burden related to hepatitis B deaths,Hepatitis B deaths burden,13
+98,Wind - % electricity,Wind Electricity,7
+99,Liberal component index (best estimate),Liberal Component Index,16
+100,Rate of Rabies deaths,Rate Rabies Deaths,3
+101,There is legislation on sexual harassment in employment (1=yes; 0=no),Law on sex harassment in employment ,8
+102,Percent of Environmental heat and cold exposure deaths,Env heat and cold exposure deaths,13
+103,Meat of cattle with the bone: fresh or chilled | 00000867 || Yield | 005417 || kilograms per animal,Meat of cattle with the bone: fresh or chilled yield,2
+104,Prevalence of obesity among adults: BMI >= 30 (age-standardized estimate) (%) - Sex: male - Age group: 18+  years,Obesity among adults: BMI >= 30,3
+105,Meat: chicken | 00001058 || Production | 005510 || tonnes,Meat: chicken production,2
+106,Birth rate - Sex: all - Age: all - Variant: estimates,Birth Rate Sex,3
+107,Access to justice for women (best estimate) (re-estimate),Access Justice ForWomen,5
+108,Solar - % electricity,Solar Electricity,7
+109,Neonatal tetanus - number of reported cases per million,Neonatal Tetanus ,3
+110,Percent of Prostate cancer deaths,Prostate Cancer Deaths,3
+111,Percent of Other unintentional injuries deaths,Other unintentional injuries deaths,3
+112,Gender Inequality Index,Gender Inequality Index,5
+113,2.1.1 Prevalence of undernourishment | 000000000024000 || Value | 006121 || Percent,Prevalence of undernourishment,3
+114,Rate of Environmental heat and cold exposure deaths,Env heat and cold exposure deaths,13
+115,Share of the population using at least basic drinking water services,Population basic drinking water services,6
+116,Terrorism deaths per 100:000 people,Terrorism Deaths ,16
+117,Death rate - Sex: all - Age: all - Variant: estimates,Death Rate  ,3
+118,Rate of Malaria deaths,Malaria Deaths,3
+119,Percent of Cervical cancer deaths,Cervical Cancer Deaths,3
+120,Percent of Asthma deaths,Asthma Deaths,3
+121,Terrain Ruggedness Index 100m (Nunn and Puga 2012),Terrain Ruggedness Index,15
+122,A woman can open a bank account in the same way as a man (1=yes; 0=no),Woman Can Open Bank Account,5
+123,9.2.2 - Manufacturing employment as a proportion of total employment - 13th ICLS (%) - SL_TLF_MANF,Manufacturing Employment Proportion,8
+124,Annual freshwater withdrawals: industry (% of total freshwater withdrawal),Freshwater Withdrawals by industry,6
 125,Prevalence of obesity among adults: BMI >= 30 (age-standardized estimate) (%) - Sex: both sexes - Age group: 18+  years,Prevalence Obesity Among 1,
 126,Rate of Multiple sclerosis deaths,Multiple Sclerosis Deaths,
 127,Equal rights protection index (best estimate),Equal Rights Protection,

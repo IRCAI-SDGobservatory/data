@@ -266,19 +266,19 @@ Index,Long Name,Short Name,SDG
 265,Death rate from interpersonal violence among both sexes,Interpersonal violence deaths,3
 266,Total deaths from dengue among both sexes,Dengue Deaths,3
 267,Richest decile - Share (Net national wealth) (Estimated),Net national wealth,8
-268,Age-standardized death rate from cardiomyopathy: myocarditis: endocarditis among both sexes,Agestandardized Death Rate 2,
-269,Completion rate: upper secondary education: both sexes (%): CR.3,Completion Rate Upper,
-270,6.6.1 - Lakes and rivers permanent water area (% of total land area) - EN_LKRV_PWAP,Lakes And Rivers,
-271,Child dependency ratio - Sex: all - Variant: estimates,Child Dependency Ratio,
-272,Estimated mortality from all forms of tuberculosis per 100:000 population,Estimated Mortality From,
-273,Global merchandise exports (% of GDP),Global Merchandise Exports,
-274,Milk - Excluding Butter | 00002848 || Food available for consumption | 0645pc || kilograms per year per capita,Milk - excluding butter consumption,
-275,Palma ratio (Pretax) (Estimated),Palma Ratio,
-276,Armed forces personnel (% of total population),Armed Forces Personnel,
-277,Energy intensity level of primary energy (MJ/$2017 PPP GDP),Energy Intensity Level,
-278,Competitiveness of executive recruitment,Competitiveness Executive Recruitment,
-279,Freedom of Expression and Alternative Sources of Information index (best estimate),Freedom Expression And,
-280,7.2.1 - Renewable energy share in the total final energy consumption (%) - EG_FEC_RNEW,Renewable Energy Share,
+268,Age-standardized death rate from cardiomyopathy: myocarditis: endocarditis among both sexes,Cardiomyopathy Deaths,3
+269,Completion rate: upper secondary education: both sexes (%): CR.3,Secundary Education Completion,4
+270,6.6.1 - Lakes and rivers permanent water area (% of total land area) - EN_LKRV_PWAP,Lakes And Rivers Permanent Water,6
+271,Child dependency ratio - Sex: all - Variant: estimates,Child Dependency Ratio,3
+272,Estimated mortality from all forms of tuberculosis per 100:000 population,Estimated Mortality From Tuberculosis,3
+273,Global merchandise exports (% of GDP),Global Merchandise Exports,9
+274,Milk - Excluding Butter | 00002848 || Food available for consumption | 0645pc || kilograms per year per capita,Milk - excluding butter consumption,2
+275,Palma ratio (Pretax) (Estimated),Palma ratio (Pretax) ,8
+276,Armed forces personnel (% of total population),Armed Forces Personnel,16
+277,Energy intensity level of primary energy (MJ/$2017 PPP GDP),Energy Intensity Level,7
+278,Competitiveness of executive recruitment,Competitiveness Executive Recruitment,8
+279,Freedom of Expression and Alternative Sources of Information index (best estimate),Freedom Expression And Info,16
+280,7.2.1 - Renewable energy share in the total final energy consumption (%) - EG_FEC_RNEW,Renewable Energy Consumption,7
 281,Urban population (% of total population),Urban Population,
 282,Alcohol: recorded per capita (15+) consumption (in litres of pure alcohol) - Beverage types: Wine,Alcohol Recorded Per 1,
 283,Respect for counterarguments (best estimate),Respect For Counterarguments,

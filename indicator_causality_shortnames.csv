@@ -308,7 +308,7 @@ Index,Long Name,Short Name,SDG
 307,Eggs | 00001783 || Yield | 005410 || kilograms per animal,Eggs yield,2
 308,Consumer price index (2010 = 100),Consumer Price Index,12
 309,8.2.1 - Annual growth rate of real GDP per employed person (%) - SL_EMP_PCAP,Annual Growth Rate,8
-310,Solar and wind - % electricity,Solar And Wind Electricity,7
+310,Solar and wind - % electricity,Solar And Wind %,7
 311,Rigorous and impartial public administration (best estimate: aggregate: average),Rigorous and impartial public administration,16
 312,Rate of Neonatal disorders deaths,Neonatal disorders deaths,3
 313,Mean Non-HDL cholesterol: age-standardized - Sex: both sexes,Mean Nonhdl Cholesterol,3
@@ -343,61 +343,61 @@ Index,Long Name,Short Name,SDG
 342,Rate of Tetanus deaths,Tetanus Deaths,3
 343,Rate of Eating disorders deaths,Eating Disorder Deaths,3
 344,lead_petrol_banned,Lead petrol banned,7
-345,Rate of Dengue deaths,Dengue Deaths,3
-346,Rate of Total burden related to Non-alcoholic fatty liver disease (NAFLD) deaths,Rate Total Burden 2,
-347,Share of the population practicing open defecation,Share The Population 4,
-348,Elected officials index,Elected Officials Index,
-349,A woman can apply for a passport in the same way as a man (1=yes; 0=no),Woman Can Apply,
-350,Death rate in ongoing conflicts in a country (best estimate) - Conflict type: all,Death Rate Ongoing,
-351,Daily smoking prevalence - both (IHME: GHDx (2012)),Daily Smoking Prevalence,
-352,Change in global mean surface temperature caused by greenhouse gas emissions from fossil fuels and industry,Change Global Mean,
-353,Share of global annual CO₂ emissions from gas,Share Global Annual 3,
-354,Rate of Meningitis deaths,Rate Meningitis Deaths,
-355,Wheat yield split,Fire deaths 5,
-356,Share of global annual CO₂ emissions from cement,Share Global Annual 4,
-357,Estimated maternal mortality ratio SDG,Estimated Maternal Mortality 1,
-358,Cereals | 00001717 || Yield | 005419 || tonnes per hectare,Cereals yield,
-359,Per-capita methane emissions in CO₂ equivalents,Percapita Methane Emissions,
-360,Political opposition,Political Opposition,
-361,Terrorism deaths,Terrorism Deaths,
-362,Death rate from malignant neoplasms among both sexes,Death Rate From 11,
-363,Daily calorie supply per person,Daily Calorie Supply,
-364,Mean BMI (female),Mean Bmi 1,
-365,Death rate from drowning among both sexes,Death Rate From 12,
-366,Percent of Drowning deaths,Percent Drowning Deaths,
-367,Percent of Adverse effects of medical treatment deaths,Percent Adverse Effects,
+345,Rate of Dengue deaths,Rate of Dengue Deaths,3
+346,Rate of Total burden related to Non-alcoholic fatty liver disease (NAFLD) deaths,Non-alcoholic fatty liver disease (NAFLD) deaths,3
+347,Share of the population practicing open defecation,Open defecation,6
+348,Elected officials index,Elected Officials Index,16
+349,A woman can apply for a passport in the same way as a man (1=yes; 0=no),Woman Can Apply,5
+350,Death rate in ongoing conflicts in a country (best estimate) - Conflict type: all,Death from ongoing conflicts,3
+351,Daily smoking prevalence - both (IHME: GHDx (2012)),Daily Smoking Prevalence,3
+352,Change in global mean surface temperature caused by greenhouse gas emissions from fossil fuels and industry,Change in Temperature from Fossil fuels,13
+353,Share of global annual CO₂ emissions from gas,CO₂ emissions from gas,13
+354,Rate of Meningitis deaths,Rate Meningitis Deaths,3
+355,Wheat yield split,Wheat yield split,2
+356,Share of global annual CO₂ emissions from cement,Annual CO₂ emissions from cement,13
+357,Estimated maternal mortality ratio SDG,Maternal mortality ratio SDG,3
+358,Cereals | 00001717 || Yield | 005419 || tonnes per hectare,Cereals yield,2
+359,Per-capita methane emissions in CO₂ equivalents,Percapita Methane Emissions,13
+360,Political opposition,Political Opposition,16
+361,Terrorism deaths,Terrorism Deaths,16
+362,Death rate from malignant neoplasms among both sexes,Death from malignant neoplasms,3
+363,Daily calorie supply per person,Daily Calorie Supply,2
+364,Mean BMI (female),Mean BMI (female),1
+365,Death rate from drowning among both sexes,Death rate from drowning,3
+366,Percent of Drowning deaths,Percent Drowning Deaths,3
+367,Percent of Adverse effects of medical treatment deaths,Medical treatment deaths,3
 368,Population: female (% of total population),Population Female,
-369,Share of the population using improved sanitation facilities,Share The Population 5,
-370,Sex ratio - Sex: all - Age: 0 - Variant: estimates,Sex Ratio Sex 1,
-371,Renewable internal freshwater resources per capita (cubic meters),Renewable Internal Freshwater,
-372,Elite consultation (best estimate),Elite Consultation,
-373,Percent of Exposure to mechanical forces deaths,Percent Exposure Mechanical,
-374,Fixed telephone subscriptions (per 100 people),Fixed Telephone Subscriptions,
-375,Foreign Direct Investmen in millions of 2015 dollars inflow,Foreign Direct Investmen 1,
-376,Rate of Exposure to forces of nature deaths,Rate Exposure Forces,
-377,Top 1% - Share-pretax,Top Sharepretax,
-378,A woman can choose where to live in the same way as a man (1=yes; 0=no),Woman Can Choose,
-379,Employment to population ratio: 15+: female (%) (modeled ILO estimate),Employment Population Ratio,
-380,Period life expectancy (with projections) - Sex: all - Age: 15,Life expectancy gap 4,
-381,Percent of Neonatal disorders deaths,Percent Neonatal Disorders,
-382,Share of global annual CO₂ emissions from coal,Share Global Annual 5,
-383,Rate of Diabetes mellitus deaths,Rate Diabetes Mellitus,
-384,Percent of Drug use disorders deaths,Percent Drug Use,
-385,Rate of Total cancers deaths,Rate Total Cancers 1,
-386,Life expectancy ratio (f/m) - Type: period - Sex: both - Age: 0,Life expectancy gap 5,
-387,Domestic general government health expenditure (GGHE-D) as percentage of general government expenditure (GGE) (%),Domestic General Government,
-388,Rate of Drowning deaths,Rate Drowning Deaths,
-389,share_employed_agri,Shareemployedagri,
-390,Age-standardized death rate from cardiovascular diseases among both sexes,Agestandardized Death Rate 4,
-391,Fish and seafood | 00002960 || Food available for consumption | 0645pc || kilograms per year per capita,Fish and seafood consumption,
-392,Total greenhouse gas emissions per capita including land-use change and forestry,Total Greenhouse Gas 1,
-393,Survival to age 65: male (% of cohort),Survival Age Male,
-394,Share of the urban population using at least basic drinking water services,Share The Urban,
-395,Openness of executive recruitment,Openness Executive Recruitment,
-396,Theoretical duration of pre-primary education (years),Theoretical Duration Preprimary,
-397,A woman can register a business in the same way as a man (1=yes; 0=no),Woman Can Register,
-398,Labor force: female (% of total labor force),Labor Force Female,
-399,Scientific and technical journal articles per million people,Scientific And Technical,
+369,Share of the population using improved sanitation facilities,Population using improved sanitation facilities,6
+370,Sex ratio - Sex: all - Age: 0 - Variant: estimates,Sex Ratio Newborn,
+371,Renewable internal freshwater resources per capita (cubic meters),Renewable Internal Freshwater,6
+372,Elite consultation (best estimate),Elite Consultation,1
+373,Percent of Exposure to mechanical forces deaths,Percent of Exposure to mechanical forces deaths,3
+374,Fixed telephone subscriptions (per 100 people),Fixed Telephone Subscriptions,9
+375,Foreign Direct Investmen in millions of 2015 dollars inflow,Foreign Direct Investment inflow,17
+376,Rate of Exposure to forces of nature deaths,Exposure to forces of nature deaths,3
+377,Top 1% - Share-pretax,Top Sharepretax,8
+378,A woman can choose where to live in the same way as a man (1=yes; 0=no),Woman and Man Choice of Living,5
+379,Employment to population ratio: 15+: female (%) (modeled ILO estimate),Employment Population Ratio,8
+380,Period life expectancy (with projections) - Sex: all - Age: 15,Life expectancy: all,3
+381,Percent of Neonatal disorders deaths,Neonatal disorders deaths,3
+382,Share of global annual CO₂ emissions from coal,CO₂ emissions from coal,13
+383,Rate of Diabetes mellitus deaths,Diabetes mellitus deaths,3
+384,Percent of Drug use disorders deaths,Drug use disorders deaths,3
+385,Rate of Total cancers deaths,Total cancers deaths,3
+386,Life expectancy ratio (f/m) - Type: period - Sex: both - Age: 0,Life expectancy ratio (f/m),3
+387,Domestic general government health expenditure (GGHE-D) as percentage of general government expenditure (GGE) (%),Domestic General Government Health Expenditure,16
+388,Rate of Drowning deaths,Rate Drowning Deaths,3
+389,share_employed_agri,Share of Employment in Agriculture,2
+390,Age-standardized death rate from cardiovascular diseases among both sexes,Cardiovascular diseases among both sexes,3
+391,Fish and seafood | 00002960 || Food available for consumption | 0645pc || kilograms per year per capita,Fish and seafood consumption,2
+392,Total greenhouse gas emissions per capita including land-use change and forestry,Greenhouse gas emissions inc land-use change and forestry,13
+393,Survival to age 65: male (% of cohort),Survival Age Male,3
+394,Share of the urban population using at least basic drinking water services,Urban population using at least basic drinking water services,6
+395,Openness of executive recruitment,Openness Executive Recruitment,16
+396,Theoretical duration of pre-primary education (years),Theoretical Duration Preprimary,4
+397,A woman can register a business in the same way as a man (1=yes; 0=no),Woman Can Register a Business,5
+398,Labor force: female (% of total labor force),Labor Force Female,5
+399,Scientific and technical journal articles per million people,Scientific Research Papers,9
 400,Agriculture: forestry: and fishing: value added (% of GDP),Agriculture Forestry And,
 401,Meat: chicken | 00001058 || Yield | 005424 || kilograms per animal,Meat: chicken yield,
 402,Alcohol: recorded per capita (15+) consumption (in litres of pure alcohol) - Beverage types: Spirits,Alcohol Recorded Per 2,

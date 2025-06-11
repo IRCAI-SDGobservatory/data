@@ -29,34 +29,34 @@ Index,Long Name,Short Name,SDG
 28,Elected local governments (best estimate),Elected Local Governments,16
 29,Human rights protection,Human Rights Protection,16
 30,Inflation: consumer prices (annual %),Inflation Consumer Prices,12
-31,Fixed broadband subscriptions (per 100 people),Fixed Broadband Subscriptions,
-32,Population in the largest city (% of urban population),Population The Largest,
-33,Hydro electricity per capita - kWh,Hydro Electricity Per,
-34,Percent of Rabies deaths,Percent Rabies Deaths,
-35,GPI Score,Gpi Score,
-36,Share of global cumulative CO₂ emissions from land-use change,CO₂ emissions from land-use,
-37,17.13.1 - Annual GDP growth (%) - NY_GDP_MKTP_KD_ZG,Annual GDP Growth,
-38,Trade (% of GDP),Trade (% of GDP),
-39,Percent of Falls deaths,Percent Falls Deaths,
-40,Fruit | 00002919 || Food available for consumption | 0645pc || kilograms per year per capita,Fruit consumption,
-41,Percent of Kidney cancer deaths,Percent Kidney Cancer,
-42,Sorghum yield,Sorghum Yield,
-43,Births attended by skilled health staff (% of total),Births Attended Skilled,
-44,Percent of Maternal disorders deaths,Percent Maternal Disorders,
-45,World Bank's income classification,World Banks Income,
-46,Wheat | 00000015 || Production | 005510 || tonnes,Fire Deaths,
-47,Physical violence index (best estimate: aggregate: average),Physical Violence Index,
-48,Engaged society (best estimate),Engaged Society Estimate,
-49,Extent of direct popular votes (best estimate: aggregate: average),Direct Popular Votes Estimate,
-50,Military expenditure per armed forces personnel (constant US$),Military Expenditure,
-51,Capture fisheries production (metric tons),Capture Fisheries Production,
-52,Gini coefficient of lifespan inequality - Sex: male,Gini Coefficient Inequality,
-53,Rate of Uterine cancer deaths,Uterine cancer deaths,
-54,Percent of Police conflict and executions deaths,Police Conflict Deaths,
-55,Case fatality ratio (percentage),Case Fatality Ratio,
-56,Average precipitation in depth (mm per year),Average Precipitation Depth,
-57,Percent of Foreign body deaths,Foreign Body Deaths,
-58,Share of global cumulative CO₂ emissions including land-use change,Share Global Cumulative 2,
+31,Fixed broadband subscriptions (per 100 people),Fixed Broadband Subscriptions,9
+32,Population in the largest city (% of urban population),Population in the Largest City,11
+33,Hydro electricity per capita - kWh,Hydro Electricity Per,6
+34,Percent of Rabies deaths,Percent Rabies Deaths,3
+35,GPI Score,Gpi Score,16
+36,Share of global cumulative CO₂ emissions from land-use change,CO₂ emissions from land-use,13
+37,17.13.1 - Annual GDP growth (%) - NY_GDP_MKTP_KD_ZG,Annual GDP Growth,8
+38,Trade (% of GDP),Trade (% of GDP),8
+39,Percent of Falls deaths,Percent Falls Deaths,3
+40,Fruit | 00002919 || Food available for consumption | 0645pc || kilograms per year per capita,Fruit consumption,2
+41,Percent of Kidney cancer deaths,Percent Kidney Cancer,3
+42,Sorghum yield,Sorghum Yield,2
+43,Births attended by skilled health staff (% of total),Births Attended Skilled,3
+44,Percent of Maternal disorders deaths,Percent Maternal Disorders,3
+45,World Bank's income classification,World Banks Income,8
+46,Wheat | 00000015 || Production | 005510 || tonnes,Fire Deaths,3
+47,Physical violence index (best estimate: aggregate: average),Physical Violence Index,3
+48,Engaged society (best estimate),Engaged Society Estimate,11
+49,Extent of direct popular votes (best estimate: aggregate: average),Direct Popular Votes Estimate,16
+50,Military expenditure per armed forces personnel (constant US$),Military Expenditure,16
+51,Capture fisheries production (metric tons),Capture Fisheries Production,14
+52,Gini coefficient of lifespan inequality - Sex: male,Gini Coefficient Inequality,1
+53,Rate of Uterine cancer deaths,Uterine cancer deaths,3
+54,Percent of Police conflict and executions deaths,Police Conflict Deaths,16
+55,Case fatality ratio (percentage),Case Fatality Ratio,3
+56,Average precipitation in depth (mm per year),Average Precipitation Depth,6
+57,Percent of Foreign body deaths,Foreign Body Deaths,16
+58,Share of global cumulative CO₂ emissions including land-use change,Global CO2 Emmissions,
 59,State involved in conflict - Conflict type: state-based,State Involved Conflict,
 60,Percent of Meningitis deaths,Percent Meningitis Deaths,
 61,Observation value - Unit of measure: Deaths per 100 live births - Indicator: Infant mortality rate - Sex: Both sexes - Wealth quintile: All wealth quintiles,Observation Value Unit,

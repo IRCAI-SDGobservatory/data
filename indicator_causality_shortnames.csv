@@ -123,65 +123,65 @@ Index,Long Name,Short Name,SDG
 122,A woman can open a bank account in the same way as a man (1=yes; 0=no),Woman Can Open Bank Account,5
 123,9.2.2 - Manufacturing employment as a proportion of total employment - 13th ICLS (%) - SL_TLF_MANF,Manufacturing Employment Proportion,8
 124,Annual freshwater withdrawals: industry (% of total freshwater withdrawal),Freshwater Withdrawals by industry,6
-125,Prevalence of obesity among adults: BMI >= 30 (age-standardized estimate) (%) - Sex: both sexes - Age group: 18+  years,Prevalence Obesity Among 1,
-126,Rate of Multiple sclerosis deaths,Multiple Sclerosis Deaths,
-127,Equal rights protection index (best estimate),Equal Rights Protection,
-128,Death rate from natural disasters among both sexes,Death rate from natural disasters,
-129,Share of employment in agriculture (Herrendorf et al. and GGDC-10 data),Share Employment in Agriculture,
-130,Percent of Eating disorders deaths,Eating Disorder Deaths,
-131,Woman head of government,Woman Head of Government,
-132,Share of adults who are overweight (age-standardized) - Sex: female - Age group: 18+  years,Female adults overweight ,
-133,Percent of Road injuries deaths,Road injuries deaths,
-134,Classification of past colonial powers,Classification Past Colonial,
-135,Competitiveness of political participation,Competitiveness of Political Participation,
-136,Death rate from meningitis among both sexes,Death rate from meningitis,
-137,Direct popular vote index,Direct Popular Vote Index,
-138,State involved in war - Conflict type: all,State Involved in War,
-139,Rate of Ovarian cancer deaths,Ovarian cancer deaths,
-140,Poverty headcount ratio at national poverty lines (% of population),Poverty Headcount Ratio,
-141,Percent of Bladder cancer deaths,Bladder cancer deaths,
-142,DTP3 (% of one-year-olds immunized),One-year-olds immunized,
-143,Total days of leave available for the mother,Days of leave for mother,
-144,Country where war took place - Conflict type: state-based,Country Where War Existed,
-145,Age-standardized death rate from hypertensive heart disease among both sexes,Hypertensive heart disease deaths,
-146,Country where conflict took place - Conflict type: all,Country Where Conflict Existed,
-147,Rate of Conflict and terrorism deaths,Conflict and terrorism deaths,
-148,Measles - number of reported cases,Measles Cases Reported,
-149,Percent of Brain and central nervous system cancer deaths,Brain and CNS cancer deaths,
-150,Share of the population not using improved sanitation facilities,Population not using improved sanitation facilities,
-151,Rate of Interpersonal violence deaths,Interpersonal Violence Deaths,
-152,Rate of HIV/AIDS deaths,HIV/AIDS deaths,
-153,Annual CO₂ emissions from gas (per capita),CO₂ emissions from gas,
-154,Multi-party elections for government's chief executive (best estimate),Gov Multiparty Elections,
-155,Physicians (per 1:000 people),Physicians er 1k people,
-156,Rate of Measles deaths,Measles Deaths,
-157,Participatory political institutions (best estimate),Participatory Political Institutions,
-158,Labor force participation rate: female (% of female population ages 15+) (modeled ILO estimate),Labor Force Participation (F),
-159,State involved in conflict - Hostlev: all,State Involved in Conflict,
-160,Share of the rural population using at least basic drinking water services,Basic drinking water services (rural),
-161,Alcohol: recorded per capita (15+) consumption (in litres of pure alcohol) - Beverage types: Beer,Beer Consumption,
-162,Mean BMI (male),Mean BMI (M),
-163,Percent of Measles deaths,Measles Deaths,
-164,Rate of Brain and central nervous system cancer deaths,Brain and CNS cancer deaths,
-165,Age-standardized death rate from rheumatic heart disease among both sexes,Rheumatic heart disease deaths,
-166,Commercial bank branches (per 100:000 adults),Commercial bank branches,
-167,Military expenditure (% of GDP) GMSD,Military Expenditure,
-168,Share of global cumulative CO₂ emissions from gas,CO₂ emissions from gas,
-169,Share of the population using at least basic sanitation services: improved sanitation facilities which are not shared,Share The Population 2,
-170,Vaccination schedule for rubella vaccine,Health spending 3,
-171,Nuclear - % electricity,Nuclear Electricity,
-172,Total deaths from meningitis among both sexes,Total Deaths From,
-173,Percent of Breast cancer deaths,Percent Breast Cancer,
-174,Eggs | 00002949 || Food available for consumption | 0645pc || kilograms per year per capita,Eggs consumption,
-175,Percent of Malaria deaths,Percent Malaria Deaths,
-176,Rate of Asthma deaths,Rate Asthma Deaths,
-177,Percent of Zika virus deaths,Percent Zika Virus,
-178,GDP per capita: PPP (constant 2017 international $),Gdp Per Capita,
-179,Territory under state control (best estimate: aggregate: average),Territory Under State,
-180,Percent of Tetanus deaths,Percent Tetanus Deaths,
-181,Potatoes yield,Potatoes Yield,
-182,Share of global nitrous oxide emissions,Share Global Nitrous,
-183,Meat: total | 00002943 || Food available for consumption | 0645pc || kilograms per year per capita,Meat: total consumption,
+125,Prevalence of obesity among adults: BMI >= 30 (age-standardized estimate) (%) - Sex: both sexes - Age group: 18+  years,Obesity Among Adults,3
+126,Rate of Multiple sclerosis deaths,Multiple Sclerosis Deaths,3
+127,Equal rights protection index (best estimate),Equal Rights Protection,10
+128,Death rate from natural disasters among both sexes,Death rate from natural disasters,11
+129,Share of employment in agriculture (Herrendorf et al. and GGDC-10 data),Share Employment in Agriculture,2
+130,Percent of Eating disorders deaths,Eating Disorder Deaths,3
+131,Woman head of government,Woman Head of Government,5
+132,Share of adults who are overweight (age-standardized) - Sex: female - Age group: 18+  years,Female adults overweight ,3
+133,Percent of Road injuries deaths,Road injuries deaths,3
+134,Classification of past colonial powers,Classification Past Colonial,16
+135,Competitiveness of political participation,Competitiveness of Political Participation,16
+136,Death rate from meningitis among both sexes,Death rate from meningitis,3
+137,Direct popular vote index,Direct Popular Vote Index,16
+138,State involved in war - Conflict type: all,State Involved in War,16
+139,Rate of Ovarian cancer deaths,Ovarian cancer deaths,3
+140,Poverty headcount ratio at national poverty lines (% of population),Poverty Headcount Ratio,1
+141,Percent of Bladder cancer deaths,Bladder cancer deaths,3
+142,DTP3 (% of one-year-olds immunized),One-year-olds immunized,3
+143,Total days of leave available for the mother,Days of leave for mother,8
+144,Country where war took place - Conflict type: state-based,Country Where War Existed,16
+145,Age-standardized death rate from hypertensive heart disease among both sexes,Hypertensive heart disease deaths,3
+146,Country where conflict took place - Conflict type: all,Country Where Conflict Existed,16
+147,Rate of Conflict and terrorism deaths,Conflict and terrorism deaths,16
+148,Measles - number of reported cases,Measles Cases Reported,3
+149,Percent of Brain and central nervous system cancer deaths,Brain and CNS cancer deaths,3
+150,Share of the population not using improved sanitation facilities,Population not using improved sanitation facilities,6
+151,Rate of Interpersonal violence deaths,Interpersonal Violence Deaths,16
+152,Rate of HIV/AIDS deaths,HIV/AIDS deaths,3
+153,Annual CO₂ emissions from gas (per capita),CO₂ emissions from gas,13
+154,Multi-party elections for government's chief executive (best estimate),Gov Multiparty Elections,16
+155,Physicians (per 1:000 people),Physicians per 1k people,3
+156,Rate of Measles deaths,Measles Deaths,3
+157,Participatory political institutions (best estimate),Participatory Political Institutions,16
+158,Labor force participation rate: female (% of female population ages 15+) (modeled ILO estimate),Labor Force Participation (F),8
+159,State involved in conflict - Hostlev: all,State Involved in Conflict,16
+160,Share of the rural population using at least basic drinking water services,Basic drinking water services (rural),6
+161,Alcohol: recorded per capita (15+) consumption (in litres of pure alcohol) - Beverage types: Beer,Beer Consumption,2
+162,Mean BMI (male),Mean BMI (M),3
+163,Percent of Measles deaths,Measles Deaths,3
+164,Rate of Brain and central nervous system cancer deaths,Brain and CNS cancer deaths,3
+165,Age-standardized death rate from rheumatic heart disease among both sexes,Rheumatic heart disease deaths,3
+166,Commercial bank branches (per 100:000 adults),Commercial bank branches,9
+167,Military expenditure (% of GDP) GMSD,Military Expenditure,16
+168,Share of global cumulative CO₂ emissions from gas,CO₂ emissions from gas,13
+169,Share of the population using at least basic sanitation services: improved sanitation facilities which are not shared,Basic Sanitation Services,6
+170,Vaccination schedule for rubella vaccine,Rubella Vaccine,3
+171,Nuclear - % electricity,Nuclear Electricity,7
+172,Total deaths from meningitis among both sexes,Deaths From Meningitis,3
+173,Percent of Breast cancer deaths,Percent Breast Cancer,3
+174,Eggs | 00002949 || Food available for consumption | 0645pc || kilograms per year per capita,Eggs consumption,2
+175,Percent of Malaria deaths,Percent Malaria Deaths,3
+176,Rate of Asthma deaths,Rate Asthma Deaths,3
+177,Percent of Zika virus deaths,Percent Zika Virus,3
+178,GDP per capita: PPP (constant 2017 international $),GDP Per Capita:PPP,10
+179,Territory under state control (best estimate: aggregate: average),Territory Under State,16
+180,Percent of Tetanus deaths,Percent Tetanus Deaths,3
+181,Potatoes yield,Potatoes Yield,2
+182,Share of global nitrous oxide emissions,Nitrous Oxide Emissions,13
+183,Meat: total | 00002943 || Food available for consumption | 0645pc || kilograms per year per capita,Meat: total consumption,2
 184,Percent of Fire: heat: and hot substances deaths,Fire deaths 4,
 185,Life expectancy at birth UNDP,Life expectancy gap 1,
 186,Rate of Exposure to mechanical forces deaths,Rate Exposure Mechanical,

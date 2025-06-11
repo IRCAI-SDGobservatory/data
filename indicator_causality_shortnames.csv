@@ -398,106 +398,106 @@ Index,Long Name,Short Name,SDG
 397,A woman can register a business in the same way as a man (1=yes; 0=no),Woman Can Register a Business,5
 398,Labor force: female (% of total labor force),Labor Force Female,5
 399,Scientific and technical journal articles per million people,Scientific Research Papers,9
-400,Agriculture: forestry: and fishing: value added (% of GDP),Agriculture Forestry And,
-401,Meat: chicken | 00001058 || Yield | 005424 || kilograms per animal,Meat: chicken yield,
-402,Alcohol: recorded per capita (15+) consumption (in litres of pure alcohol) - Beverage types: Spirits,Alcohol Recorded Per 2,
-403,Millet yield,Millet Yield,
-404,Agriculture: forestry: and fishing: value added per worker (constant 2015 US$),Agriculture Forestry And 1,
-405,Age of democracy (with women's suffrage),Democracy 3,
-406,Equality of political power across social groups (best estimate: aggregate: average),Equality Political Power,
-407,Annual CO₂ emissions growth (%),Annual Emissions Growth,
-408,Annual CO₂ emissions from coal (per capita),Annual Emissions From 2,
-409,Maize yield,Maize Yield,
-410,Death rate from alzheimer disease and other dementias among both sexes,Death Rate From 13,
-411,A woman can obtain a judgment of divorce in the same way as a man (1=yes; 0=no),Woman Can Obtain,
-412,Period life expectancy at birth - Sex: all - Age: 0,Life expectancy gap 6,
-413,Meat: kilograms per year per capita,Meat Kilograms Per,
-414,Equality before the law and individual liberty index (best estimate),Equality Before The,
-415,Percent of HIV/AIDS deaths,Percent Hivaids Deaths,
-416,Share of deaths from terrorism,Share Deaths From,
-417,Deliberative political institutions index (best estimate),Deliberative Political Institutions,
-418,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),Law Mandates Equal,
-419,Oil electricity per capita - kWh,Oil Electricity Per,
-420,Rate of Bladder cancer deaths,Rate Bladder Cancer,
-421,Percent of Self-harm deaths,Percent Selfharm Deaths,
-422,Rate of Leukemia deaths,Rate Leukemia Deaths,
-423,Rate of Cervical cancer deaths,Rate Cervical Cancer,
-424,Death rate from cardiovascular diseases among both sexes,Death Rate From 14,
-425,Egalitarian democracy index (best estimate: aggregate: average),Democracy 4,
-426,Permanent meadows and pastures | 00006655 || Share in Land area | 007209 || Percent,Permanent meadows and pastures indicator,
-427,Death rate from protein-energy malnutrition among both sexes,Death Rate From 15,
-428,UHC Service Coverage Index (SDG 3.8.1),Uhc Service Coverage,
-429,Wheat yield,Fire deaths 6,
-430,Military expenditure (% of GDP),Military Expenditure,
-431,Methane emissions from agriculture,Methane Emissions From,
-432,Per capita electricity - kWh,Per Capita Electricity,
-433,Mobile cellular subscriptions (per 100 people),Mobile Cellular Subscriptions,
-434, Labour share of GDP (%),Labour Share Gdp,
-435,GDP per capita growth (annual %),Gdp Per Capita 1,
-436,Fertility rate - Sex: all - Age: all - Variant: estimates,Fertility Rate Sex,
-437,Percent of Multiple sclerosis deaths,Percent Multiple Sclerosis,
-438,Share of global annual CO₂ emissions,Share Global Annual 6,
-439,Maternal mortality ratio,Maternal Mortality Ratio,
-440,Rate of Yellow fever deaths,Rate Yellow Fever,
-441,Liberal democracy index (best estimate: aggregate: average),Democracy 5,
-442,Percent of Total Cancers excluding Non-melanoma skin cancer deaths,Percent Total Cancers 1,
-443,Agricultural land | 00006610 || Area | 5110pc || hectares per capita,Agricultural land indicator,
-444,Hydro - % electricity,Hydro Electricity,
-445,Forest cover,Forest Cover,
-446,Political regime (inc. ambiguous categories),Political Regime,
-447,Presidentialism index (best estimate: aggregate: average),Presidentialism Index,
-448,Death rate from road injury among both sexes,Death Rate From 16,
-449,Out-of-pocket expenditure (% of current health expenditure),Health spending 7,
-450,Age-standardized death rate from ischaemic heart disease among both sexes,Agestandardized Death Rate 5,
-451,Neonatal mortality rate (0 to 27 days) per 1000 live births) (SDG 3.2.2) - Sex: both sexes,Neonatal Mortality Rate,
-452,A woman can get a job in the same way as a man (1=yes; 0=no),Woman Can Get,
-453,Human Development Index,Human Development Index,
-454,Arable land (% of land area),Arable Land,
-455,Electoral democracy,Democracy 6,
+400,Agriculture: forestry: and fishing: value added (% of GDP),Agriculture forestry and fishing,2
+401,Meat: chicken | 00001058 || Yield | 005424 || kilograms per animal,Meat: chicken yield,2
+402,Alcohol: recorded per capita (15+) consumption (in litres of pure alcohol) - Beverage types: Spirits,Alcohol Consumption: Spirits,3
+403,Millet yield,Millet Yield,2
+404,Agriculture: forestry: and fishing: value added per worker (constant 2015 US$),Agriculture forestry and fishing per worker,2
+405,Age of democracy (with women's suffrage),Age of Democracy,16
+406,Equality of political power across social groups (best estimate: aggregate: average),Equality Political Power,16
+407,Annual CO₂ emissions growth (%),Annual CO₂ emissions growth (%),13
+408,Annual CO₂ emissions from coal (per capita),Annual CO₂ emissions from coal (per capita),13
+409,Maize yield,Maize Yield,2
+410,Death rate from alzheimer disease and other dementias among both sexes,Death Rate from Alzeimer and Dementia,3
+411,A woman can obtain a judgment of divorce in the same way as a man (1=yes; 0=no),Women can obtain divorce as men,5
+412,Period life expectancy at birth - Sex: all - Age: 0,Period life expectancy at birth,3
+413,Meat: kilograms per year per capita,Meat Kilograms per capita/year,2
+414,Equality before the law and individual liberty index (best estimate),Equality Before The Law,5
+415,Percent of HIV/AIDS deaths,Percent of HIV/AIDS deaths,3
+416,Share of deaths from terrorism,Share of deaths from terrorism,16
+417,Deliberative political institutions index (best estimate),Deliberative Political Institutions,16
+418,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),Law Mandates Equal Remuneration,5
+419,Oil electricity per capita - kWh,Oil Electricity Per Capita,7
+420,Rate of Bladder cancer deaths,Bladder Cancer Deaths,3
+421,Percent of Self-harm deaths,Percent Selfharm Deaths,3
+422,Rate of Leukemia deaths,Leukemia Deaths,3
+423,Rate of Cervical cancer deaths,Cervical Cancer Deaths,3
+424,Death rate from cardiovascular diseases among both sexes,Cardiovascular Diseases Deaths,3
+425,Egalitarian democracy index (best estimate: aggregate: average),Egalitarian Democracy,16
+426,Permanent meadows and pastures | 00006655 || Share in Land area | 007209 || Percent,Permanent meadows and pastures,15
+427,Death rate from protein-energy malnutrition among both sexes,Protein-energy malnutrition deaths,3
+428,UHC Service Coverage Index (SDG 3.8.1),UHC Service Coverage,9
+429,Wheat yield,Wheat yield,2
+430,Military expenditure (% of GDP),Military expenditure (% of GDP),16
+431,Methane emissions from agriculture,Methane emissions from agriculture,13
+432,Per capita electricity - kWh,Per Capita Electricity,7
+433,Mobile cellular subscriptions (per 100 people),Mobile Cellular Subscriptions,9
+434, Labour share of GDP (%),Labour share of GDP,8
+435,GDP per capita growth (annual %),GDP per capita growth,8
+436,Fertility rate - Sex: all - Age: all - Variant: estimates,Fertility Rate,3
+437,Percent of Multiple sclerosis deaths,Percent Multiple Sclerosis Deaths,3
+438,Share of global annual CO₂ emissions,Share of global annual CO₂ emissions,13
+439,Maternal mortality ratio,Maternal Mortality Ratio,3
+440,Rate of Yellow fever deaths,Rate of Yellow fever deaths,3
+441,Liberal democracy index (best estimate: aggregate: average),Liberal democracy index,16
+442,Percent of Total Cancers excluding Non-melanoma skin cancer deaths,Total Cancers excluding Non-melanoma skin cancer deaths,3
+443,Agricultural land | 00006610 || Area | 5110pc || hectares per capita,Agricultural land indicator,3
+444,Hydro - % electricity,Hydro Electricity,7
+445,Forest cover,Forest Cover,15
+446,Political regime (inc. ambiguous categories),Political Regime,16
+447,Presidentialism index (best estimate: aggregate: average),Presidentialism Index,16
+448,Death rate from road injury among both sexes,Death rate from road injury,3
+449,Out-of-pocket expenditure (% of current health expenditure),Out-of-pocket expenditure,3
+450,Age-standardized death rate from ischaemic heart disease among both sexes,Ischaemic heart disease deaths,3
+451,Neonatal mortality rate (0 to 27 days) per 1000 live births) (SDG 3.2.2) - Sex: both sexes,Neonatal Mortality Rate,3
+452,A woman can get a job in the same way as a man (1=yes; 0=no),Women Can Get a Job Equaly,5
+453,Human Development Index,Human Development Index,17
+454,Arable land (% of land area),Arable Land,2
+455,Electoral democracy,Electoral democracy,16
 456,Population density,Population Density,
-457,Current health expenditure per capita: PPP (current international $),Health spending 8,
-458,Value of global merchandise exports as a share of GDP (Fouquin and Hugot; CEPII 2016; National data),Value Global Merchandise 1,
-459,Political liberties,Political Liberties,
-460,Death rate from malaria among both sexes,Death Rate From 17,
-461,Fish and seafood | 00002960 || Production | 005511 || tonnes,Fish and seafood production,
-462,Government expenditure on education: total (% of government expenditure),Government Expenditure Education,
-463,Total deaths from fire: heat and hot substances among both sexes,Fire deaths 7,
-464,Proportion of population without primary reliance on clean fuels and technologies for cooking (%) - Residence area type: Total,Proportion Population Without,
-465,Women's political participation index (best estimate: aggregate: average),Womens Political Participation,
-466,State capacity estimate,State Capacity Estimate,
-467,Rate of Chronic kidney disease deaths,Rate Chronic Kidney,
-468,Outsurvival statistic at birth,Outsurvival Statistic Birth,
-469,Domestic general government health expenditure (% of GDP),Domestic General Government 1,
-470,Primary energy consumption per capita (kWh/person),Primary Energy Consumption,
-471,Average price on emissions covered by a carbon tax: weighted by the share of the country's CO₂ emissions,Average Price Emissions,
-472,Maize yield split,Maize Yield Split,
-473,Survival to age 65: female (% of cohort),Survival Age Female,
-474,Rate of Drug use disorders deaths,Rate Drug Use,
-475,gov_transparency_lower,Govtransparencylower,
-476,Women's political empowerment index (best estimate: aggregate: average),Womens Political Empowerment,
-477,Annual CO₂ emissions from oil (per capita),Annual Emissions From 3,
-478,Share of the population not using improved water sources,Share The Population 6,
-479,Under fifteen mortality - Unit of measure: Deaths per 100 live births - Indicator: Under-fifteen mortality rate - Sex: Both sexes - Wealth quintile: All wealth quintiles,Under Fifteen Mortality,
-480,Total | 00002901 || Food available for consumption | 0684pc || grams of fat per day per capita,Total consumption,
-481,fertilizer_quantity,Fertilizerquantity,
-482,Pol3 (% of one-year-olds immunized),Pol,
-483,Polio-free status,Poliofree Status,
-484,Completion rate: lower secondary education: both sexes (%): CR.2,Completion Rate Lower,
-485,Civil society participation index (best estimate),Civil Society Participation,
-486,Annual CO₂ emissions from cement (per capita),Annual Emissions From 4,
-487,Nutrient nitrogen N (total) | 00003102 || Use per area of cropland | 005159 || Kilograms per hectare,Nutrient nitrogen n (total) indicator,
+457,Current health expenditure per capita: PPP (current international $),Current health expenditure per capita: PPP ,3
+458,Value of global merchandise exports as a share of GDP (Fouquin and Hugot; CEPII 2016; National data),Value of Merchandise Exports,9
+459,Political liberties,Political Liberties,16
+460,Death rate from malaria among both sexes,Death rate from malaria,3
+461,Fish and seafood | 00002960 || Production | 005511 || tonnes,Fish and seafood production,2
+462,Government expenditure on education: total (% of government expenditure),Government Expenditure Education,4
+463,Total deaths from fire: heat and hot substances among both sexes,Deaths from fire: heat and hot substances,3
+464,Proportion of population without primary reliance on clean fuels and technologies for cooking (%) - Residence area type: Total,Lack of  clean fuels and technologies for cooking,7
+465,Women's political participation index (best estimate: aggregate: average),Womens Political Participation,5
+466,State capacity estimate,State Capacity Estimate,16
+467,Rate of Chronic kidney disease deaths,Chronic Kidney Disease Deaths,3
+468,Outsurvival statistic at birth,Outsurvival Statistic at Birth,3
+469,Domestic general government health expenditure (% of GDP),Domestic general government health expenditure,3
+470,Primary energy consumption per capita (kWh/person),Primary Energy Consumption,7
+471,Average price on emissions covered by a carbon tax: weighted by the share of the country's CO₂ emissions,Average Price of Emissions (carbon tax),13
+472,Maize yield split,Maize Yield Split,2
+473,Survival to age 65: female (% of cohort),Survival to Age 65: Female,5
+474,Rate of Drug use disorders deaths,Rate of Drug use disorders deaths,2
+475,gov_transparency_lower,Government Transparency Lower,16
+476,Women's political empowerment index (best estimate: aggregate: average),Womens Political Empowerment,5
+477,Annual CO₂ emissions from oil (per capita),Annual CO₂ emissions from oil,13
+478,Share of the population not using improved water sources,Population not using improved water sources,6
+479,Under fifteen mortality - Unit of measure: Deaths per 100 live births - Indicator: Under-fifteen mortality rate - Sex: Both sexes - Wealth quintile: All wealth quintiles,Under Fifteen Mortality,3
+480,Total | 00002901 || Food available for consumption | 0684pc || grams of fat per day per capita,Total Food Available for Consumption,2
+481,fertilizer_quantity,Fertilizer Quantity,2
+482,Pol3 (% of one-year-olds immunized),Pol3 %,3
+483,Polio-free status,Poliofree Status,3
+484,Completion rate: lower secondary education: both sexes (%): CR.2,Completion of lower secondary education,4
+485,Civil society participation index (best estimate),Civil Society Participation,9
+486,Annual CO₂ emissions from cement (per capita),Annual CO₂ emissions from cement,13
+487,Nutrient nitrogen N (total) | 00003102 || Use per area of cropland | 005159 || Kilograms per hectare,Nutrient nitrogen N (total),7
 488,Population - Sex: all - Age: all - Variant: estimates,Population Sex All,
-489,Prevalence of obesity among adults: BMI >= 30 (age-standardized estimate) (%) - Sex: female - Age group: 18+  years,Prevalence Obesity Among 2,
-490,Rate of Stroke deaths,Rate Stroke Deaths,
-491,3.7.2 - Adolescent birth rate (per 1:000 women aged 15-19 and 10-14 years) - SP_DYN_ADKL - 15 to 19 years old,Adolescent Birth Rate,
-492,Death rate from fire: heat and hot substances among both sexes,Fire deaths 8,
-493,Nitrous oxide emissions from agriculture,Nitrous Oxide Emissions,
-494,Fertility rate - Sex: all - Age: all - Variant: estimates UN,Fertility Rate Sex 1,
-495,Agricultural land (% of land area),Agricultural Land,
-496,Death rate from diabetes mellitus among both sexes,Death Rate From 18,
-497,Observation value - Unit of measure: Deaths per 100 live births - Indicator: Under-five mortality rate - Sex: Both sexes - Wealth quintile: All wealth quintiles,Observation Value Unit 1,
-498,Percent of Alcohol use disorders deaths,Percent Alcohol Use,
-499,Private civil liberties index (best estimate: aggregate: average),Private Civil Liberties,
+489,Prevalence of obesity among adults: BMI >= 30 (age-standardized estimate) (%) - Sex: female - Age group: 18+  years,Prevalence Obesity Among Adults,3
+490,Rate of Stroke deaths,Rate Stroke Deaths,3
+491,3.7.2 - Adolescent birth rate (per 1:000 women aged 15-19 and 10-14 years) - SP_DYN_ADKL - 15 to 19 years old,Adolescent Birth Rate,3
+492,Death rate from fire: heat and hot substances among both sexes,Death rate from fire: heat and hot substances ,3
+493,Nitrous oxide emissions from agriculture,Nitrous Oxide Emissions,13
+494,Fertility rate - Sex: all - Age: all - Variant: estimates UN,Fertility Rate: UN,3
+495,Agricultural land (% of land area),Agricultural Land,2
+496,Death rate from diabetes mellitus among both sexes,Death rate from diabetes mellitus,3
+497,Observation value - Unit of measure: Deaths per 100 live births - Indicator: Under-five mortality rate - Sex: Both sexes - Wealth quintile: All wealth quintiles,Under-five mortality rate,3
+498,Percent of Alcohol use disorders deaths,Percent of Alcohol use disorders deaths,3
+499,Private civil liberties index (best estimate: aggregate: average),Private Civil Liberties,16
 500,Official entrance age to compulsory education (years),Official Entrance Age,
 501,Old-age dependency ratio - Sex: all - Variant: estimates,Oldage Dependency Ratio,
 502,Cigarette consumption per smoker per day (IHME: GHDx (2012)),Cigarette Consumption Per,

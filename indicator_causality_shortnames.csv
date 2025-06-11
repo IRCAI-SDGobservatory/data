@@ -280,70 +280,70 @@ Index,Long Name,Short Name,SDG
 279,Freedom of Expression and Alternative Sources of Information index (best estimate),Freedom Expression And Info,16
 280,7.2.1 - Renewable energy share in the total final energy consumption (%) - EG_FEC_RNEW,Renewable Energy Consumption,7
 281,Urban population (% of total population),Urban Population,
-282,Alcohol: recorded per capita (15+) consumption (in litres of pure alcohol) - Beverage types: Wine,Alcohol Recorded Per 1,
-283,Respect for counterarguments (best estimate),Respect For Counterarguments,
-284,Death rate from drug use disorders among both sexes,Death Rate From 7,
-285,Number of slave ships arrived,Number Slave Ships 1,
-286,Annual CO₂ emissions including land-use change per capita,Annual Emissions Including,
-287,Pesticides (total) | 00001357 || Use per area of cropland | 005159 || Kilograms per hectare,Pesticides (total) indicator,
-288,Cumulative CO₂ emissions from cement,Cumulative Emissions From 2,
-289,Fossil fuel electricity per capita - kWh,Fossil Fuel Electricity,
-290,Completion rate: primary education: both sexes (%): CR.1,Completion Rate Primary,
-291,nitrogen_efficiency,Nitrogenefficiency,
-292,Mean HDL cholesterol: age-standardized - Sex: both sexes,Mean Hdl Cholesterol,
-293,All fertilizers use per area of cropland,All Fertilizers Use,
-294,Per capita carbon dioxide emissions from transport,Per Capita Carbon,
-295,Rate of Alzheimer's disease and other dementias deaths,Rate Alzheimers Disease,
-296,The law prohibits discrimination in employment based on gender (1=yes; 0=no),The Law Prohibits 1,
-297,There is paid parental leave (1=yes; 0=no),There Paid Parental,
-298,Renewable electricity per capita - kWh,Renewable Electricity Per,
-299,Rate of Testicular cancer deaths,Rate Testicular Cancer,
-300,Death rate from substance use disorders among both sexes,Death Rate From 8,
-301,Clean elections index (best estimate),Clean Elections Index,
-302,Gross national income per capita,Gross National Income,
-303,Meat: pig | 00001035 || Yield | 005417 || kilograms per animal,Meat: pig yield,
-304, Spending on education (% of GDP),Spending Education,
-305,Percent of Dengue deaths,Percent Dengue Deaths,
-306,output_quantity,Outputquantity,
-307,Eggs | 00001783 || Yield | 005410 || kilograms per animal,Eggs yield,
-308,Consumer price index (2010 = 100),Consumer Price Index,
-309,8.2.1 - Annual growth rate of real GDP per employed person (%) - SL_EMP_PCAP,Annual Growth Rate,
-310,Solar and wind - % electricity,Solar And Wind 1,
-311,Rigorous and impartial public administration (best estimate: aggregate: average),Rigorous And Impartial,
-312,Rate of Neonatal disorders deaths,Rate Neonatal Disorders,
-313,Mean Non-HDL cholesterol: age-standardized - Sex: both sexes,Mean Nonhdl Cholesterol,
-314,Foreign Direct Investmen in millions of 2015 dollars outflow,Foreign Direct Investmen,
-315,Rate of Prostate cancer deaths,Rate Prostate Cancer,
-316,Share of the rural population using at least basic sanitation services: improved sanitation facilities which are not shared,Share The Rural 1,
-317,Rate of Breast cancer deaths,Rate Breast Cancer,
-318,Share of the population using improved water sources,Share The Population 3,
-319,Solar electricity per capita - kWh,Solar Electricity Per,
-320,Death rate from parkinson disease among both sexes,Death Rate From 9,
-321,Sons and daughters have equal rights to inherit assets from their parents (1=yes; 0=no),Sons And Daughters,
-322,Life expectancy - Sex: female - Age: 0 - Variant: estimates,Life expectancy gap 3,
-323,Annual CO₂ emissions from flaring (per capita),Annual Emissions From 1,
-324,Nuclear electricity per capita - kWh,Nuclear Electricity Per,
-325,Share of global forest area,Share Global Forest,
-326,Land use (per capita): Agriculture,Land Use Agriculture,
-327,Rate of Poisonings deaths,Rate Poisonings Deaths,
-328,Gross enrolment ratio for tertiary education: both sexes (%): GER.5T8,Gross Enrolment Ratio 2,
-329,Annual freshwater withdrawals: agriculture (% of total freshwater withdrawal),Annual Freshwater Withdrawals 1,
-330,Transparent laws with predictable enforcement (best estimate) (re-estimate),Transparent Laws With,
-331,Women's share of population ages 15+ living with HIV (%),Womens Share Population,
-332,Total greenhouse gas emissions per capita excluding land-use change and forestry,Total Greenhouse Gas,
-333,Legislative constraints on the executive index (best estimate),Legislative Constraints The,
-334,The law is free of legal provisions that require a married woman to obey her husband  (1=yes; 0=no),The Law Free,
-335,Reported cases of guinea worm disease in humans,Reported Cases Guinea,
-336,Age-standardized death rate from stroke among both sexes,Agestandardized Death Rate 3,
-337,Military spending (% of GDP),Military Spending,
-338,Death rate from poisonings among both sexes,Death Rate From 10,
-339,Vaccination schedule for mumps vaccine,Health spending 6,
-340,Percent of Interpersonal violence deaths,Percent Interpersonal Violence,
-341,Wind electricity per capita - kWh,Wind Electricity Per,
-342,Rate of Tetanus deaths,Rate Tetanus Deaths,
-343,Rate of Eating disorders deaths,Rate Eating Disorders,
-344,lead_petrol_banned,Leadpetrolbanned,
-345,Rate of Dengue deaths,Rate Dengue Deaths,
+282,Alcohol: recorded per capita (15+) consumption (in litres of pure alcohol) - Beverage types: Wine,Wine Consumption,3
+283,Respect for counterarguments (best estimate),Respect For Counterarguments,16
+284,Death rate from drug use disorders among both sexes,Drug use-related Deaths,3
+285,Number of slave ships arrived,Number of slave ships arrived,
+286,Annual CO₂ emissions including land-use change per capita,Annual CO₂ emissions ,13
+287,Pesticides (total) | 00001357 || Use per area of cropland | 005159 || Kilograms per hectare,Pesticides (total) indicator,2
+288,Cumulative CO₂ emissions from cement,CO₂ emissions from cement,13
+289,Fossil fuel electricity per capita - kWh,Fossil Fuel Electricity,7
+290,Completion rate: primary education: both sexes (%): CR.1,Primary Education Completion,4
+291,nitrogen_efficiency,Nitrogen Efficiency,7
+292,Mean HDL cholesterol: age-standardized - Sex: both sexes,Mean HDL cholesterol,3
+293,All fertilizers use per area of cropland,Fertilizers use per area of cropland,2
+294,Per capita carbon dioxide emissions from transport,CO2 emissions from transport,13
+295,Rate of Alzheimer's disease and other dementias deaths,Rate Alzheimers Disease,3
+296,The law prohibits discrimination in employment based on gender (1=yes; 0=no),Law prohibits gender discrimination in employment,5
+297,There is paid parental leave (1=yes; 0=no),Paid Parental Leave,8
+298,Renewable electricity per capita - kWh,Renewable Electricity Per Capita,7
+299,Rate of Testicular cancer deaths,Testicular Cancer Death,3
+300,Death rate from substance use disorders among both sexes,Substance use Deaths,3
+301,Clean elections index (best estimate),Clean Elections Index,16
+302,Gross national income per capita,Gross National Income,8
+303,Meat: pig | 00001035 || Yield | 005417 || kilograms per animal,Meat: pig yield,2
+304, Spending on education (% of GDP),Spending on Education,4
+305,Percent of Dengue deaths,Percent Dengue Deaths,3
+306,output_quantity,Output quantity,
+307,Eggs | 00001783 || Yield | 005410 || kilograms per animal,Eggs yield,2
+308,Consumer price index (2010 = 100),Consumer Price Index,12
+309,8.2.1 - Annual growth rate of real GDP per employed person (%) - SL_EMP_PCAP,Annual Growth Rate,8
+310,Solar and wind - % electricity,Solar And Wind Electricity,7
+311,Rigorous and impartial public administration (best estimate: aggregate: average),Rigorous and impartial public administration,16
+312,Rate of Neonatal disorders deaths,Neonatal disorders deaths,3
+313,Mean Non-HDL cholesterol: age-standardized - Sex: both sexes,Mean Nonhdl Cholesterol,3
+314,Foreign Direct Investmen in millions of 2015 dollars outflow,Foreign Direct Investmen,17
+315,Rate of Prostate cancer deaths,Prostate Cancer Deaths,3
+316,Share of the rural population using at least basic sanitation services: improved sanitation facilities which are not shared,Rural basic sanitation services,6
+317,Rate of Breast cancer deaths,Breast Cancer Deaths,3
+318,Share of the population using improved water sources,Improved water sources use,6
+319,Solar electricity per capita - kWh,Solar Electricity Per Capita,7
+320,Death rate from parkinson disease among both sexes,Parkinson disease deaths,3
+321,Sons and daughters have equal rights to inherit assets from their parents (1=yes; 0=no),Equal Rights of Sons And Daughters,5
+322,Life expectancy - Sex: female - Age: 0 - Variant: estimates,Female Life expectancy,3
+323,Annual CO₂ emissions from flaring (per capita),CO₂ emissions from flaring,13
+324,Nuclear electricity per capita - kWh,Nuclear Electricity Per Capita,7
+325,Share of global forest area,Global Forest Area,15
+326,Land use (per capita): Agriculture,Land Use in Agriculture,15
+327,Rate of Poisonings deaths,Poisoning-related Deaths,3
+328,Gross enrolment ratio for tertiary education: both sexes (%): GER.5T8,Tertiary education enrolment,4
+329,Annual freshwater withdrawals: agriculture (% of total freshwater withdrawal),Agriculture Freshwater Withdrawals,6
+330,Transparent laws with predictable enforcement (best estimate) (re-estimate),Transparent Laws With Enforcement,16
+331,Women's share of population ages 15+ living with HIV (%),Women Population with HIV,3
+332,Total greenhouse gas emissions per capita excluding land-use change and forestry,Total Greenhouse Gas Emmissions,13
+333,Legislative constraints on the executive index (best estimate),Legislative Constraints on the Executive,16
+334,The law is free of legal provisions that require a married woman to obey her husband  (1=yes; 0=no),Law Free of man-women obbligation,16
+335,Reported cases of guinea worm disease in humans,Guinea worm disease in humans,3
+336,Age-standardized death rate from stroke among both sexes,Stroke-related deaths,3
+337,Military spending (% of GDP),Military Spending,16
+338,Death rate from poisonings among both sexes,Poisoning Death Rate,2
+339,Vaccination schedule for mumps vaccine,Mumps vaccine,3
+340,Percent of Interpersonal violence deaths,Percent Interpersonal Violence Deaths,3
+341,Wind electricity per capita - kWh,Wind Electricity Per Capita,7
+342,Rate of Tetanus deaths,Tetanus Deaths,3
+343,Rate of Eating disorders deaths,Eating Disorder Deaths,3
+344,lead_petrol_banned,Lead petrol banned,7
+345,Rate of Dengue deaths,Dengue Deaths,3
 346,Rate of Total burden related to Non-alcoholic fatty liver disease (NAFLD) deaths,Rate Total Burden 2,
 347,Share of the population practicing open defecation,Share The Population 4,
 348,Elected officials index,Elected Officials Index,

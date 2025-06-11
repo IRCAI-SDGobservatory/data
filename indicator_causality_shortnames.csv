@@ -182,90 +182,90 @@ Index,Long Name,Short Name,SDG
 181,Potatoes yield,Potatoes Yield,2
 182,Share of global nitrous oxide emissions,Nitrous Oxide Emissions,13
 183,Meat: total | 00002943 || Food available for consumption | 0645pc || kilograms per year per capita,Meat: total consumption,2
-184,Percent of Fire: heat: and hot substances deaths,Fire deaths 4,
-185,Life expectancy at birth UNDP,Life expectancy gap 1,
-186,Rate of Exposure to mechanical forces deaths,Rate Exposure Mechanical,
-187,Equal access to power index (best estimate),Equal Access Power,
-188,Barley yield,Barley Yield,
-189,Rate of Animal contact deaths,Rate Animal Contact,
-190,Cumulative CO₂ emissions from land-use change,Cumulative Emissions From 1,
-191,Gender Development Index,Gender Development Index,
-192,Rate of Foreign body deaths,Rate Foreign Body,
-193,Rate of Kidney cancer deaths,Rate Kidney Cancer,
-194,Prevalence of overweight among children and adolescents: BMI > +1 standard deviations above the median (crude estimate) (%) - Sex: both sexes - Age group: 5-19  years,Prevalence Overweight Among,
-195,Life expectancy at birth,Life expectancy gap 2,
-196,Ten year age-group with the highest population,Ten Year Agegroup,
-197,Share of adults who are overweight (age-standardized) - Sex: both sexes - Age group: 18+  years,Share Adults Who 1,
-198,The law prohibits discrimination in access to credit based on gender (1=yes; 0=no),The Law Prohibits,
-199,Liberal political institutions (best estimate) (re-estimate),Liberal Political Institutions,
-200,Political regime (liberal democracy),Democracy 1,
-201,Augmented Human Development Index (AHDI),Augmented Human Development,
-202,Percent of Leukemia deaths,Percent Leukemia Deaths,
-203,Access to electricity (% of population),Electricity access 1,
-204,Rye yield,Rye Yield,
-205,Share of adults who are overweight (age-standardized) - Sex: male - Age group: 18+  years,Share Adults Who 2,
-206,Nutrient phosphate P2O5 (total) | 00003103 || Use per area of cropland | 005159 || Kilograms per hectare,Use per area of cropland indicator,
-207,Solar and wind electricity per capita - kWh,Solar And Wind,
-208,Percent of Total burden related to Non-alcoholic fatty liver disease (NAFLD) deaths,Percent Total Burden 2,
-209,Death rate from alcohol use disorders among both sexes,Death Rate From 3,
-210,Refugees by country of origin per 100:000 people,Refugees Country Origin,
-211,Military personnel as a share of total population,Military Personnel Share,
-212,Women's civil society participation index (best estimate: aggregate: average),Womens Civil Society,
-213,Estimated HIV in incident tuberculosis,Estimated Hiv Incident,
-214,Rate of Total Cancers excluding Non-melanoma skin cancer deaths,Rate Total Cancers,
-215,Women Business and the Law Index Score (scale 1-100),Women Business And,
-216,Political regime lexical,Political Regime Lexical,
-217,Vegetables | 00002918 || Food available for consumption | 0645pc || kilograms per year per capita,Vegetables consumption,
-218,Between 90th and 99th percentiles - Share-pretax,Between And Percentiles,
-219,Oats yield,Oats Yield,
-220,Decadal average surface temperature,Decadal Average Surface,
-221,Women and men have equal ownership rights to immovable property (1=yes; 0=no),Women And Men,
-222,Expected years of schooling,Expected Years Schooling,
-223,Death rate from tuberculosis among both sexes,Death Rate From 4,
-224,Share of global annual CO₂ emissions from oil,Share Global Annual 2,
-225,Gini coefficient of lifespan inequality - Sex: female,Gini Coefficient Lifespan 1,
-226,6.4.2 - Level of water stress: freshwater withdrawal as a proportion of available freshwater resources (%) - ER_H2O_STRESS - No breakdown,Level Water Stress,
-227,Percent of Parkinson's disease deaths,Percent Parkinsons Disease,
-228,Percent of Uterine cancer deaths,Percent Uterine Cancer,
-229,Share of global greenhouse gas emissions,Share Global Greenhouse,
-230,Woman head of state,Woman Head State,
-231,Gini coefficient,Gini Coefficient,
-232,Potatoes yield split,Potatoes Yield Split,
-233,Average years of schooling,Average Years Schooling,
-234,CO₂ emissions covered by an ETS as a share of the country's CO₂ emissions,Emissions Covered Ets,
-235,MCV1 (% of one-year-olds immunized),Mcv,
-236,Domestic general government health expenditure (% of current health expenditure),Health spending 4,
-237,Percent of Poisonings deaths,Percent Poisonings Deaths,
-238,Annual CO₂ emissions (per capita),Annual Emissions,
-239,Death rate from cocaine use disorders among both sexes,Death Rate From 5,
-240,Percent of Conflict and terrorism deaths,Percent Conflict And,
-241,Bottom 50% - Share-pretax,Bottom Sharepretax,
-242,Rate of Total burden related to hepatitis B deaths,Rate Total Burden 1,
-243,Rate of Maternal disorders deaths,Rate Maternal Disorders,
-244,Sex ratio - Sex: all - Age: 5 - Variant: estimates,Sex Ratio Sex,
-245,fertilizer_per_capita,Fertilizerpercapita,
+184,Percent of Fire: heat: and hot substances deaths,Fire and heat-related deaths,3
+185,Life expectancy at birth UNDP,Life expectancy at birth UNDP,3
+186,Rate of Exposure to mechanical forces deaths,Mechanical forces-related deaths,3
+187,Equal access to power index (best estimate),Equal Access to Power,10
+188,Barley yield,Barley Yield,2
+189,Rate of Animal contact deaths,Animal Contact Deaths,3
+190,Cumulative CO₂ emissions from land-use change,CO₂ emissions from land-use,13
+191,Gender Development Index,Gender Development Index,5
+192,Rate of Foreign body deaths,Foreign Body Deaths,3
+193,Rate of Kidney cancer deaths,Kidney Cancer Deaths,3
+194,Prevalence of overweight among children and adolescents: BMI > +1 standard deviations above the median (crude estimate) (%) - Sex: both sexes - Age group: 5-19  years,Overweight Among Children and Adolescents,3
+195,Life expectancy at birth,Life Expectancy at Birth,3
+196,Ten year age-group with the highest population,Largest Ten Year Age-group,
+197,Share of adults who are overweight (age-standardized) - Sex: both sexes - Age group: 18+  years,Overweight Adults,3
+198,The law prohibits discrimination in access to credit based on gender (1=yes; 0=no),Law Prohibits Gender Discrimination,5
+199,Liberal political institutions (best estimate) (re-estimate),Liberal Political Institutions,16
+200,Political regime (liberal democracy),Liberal Democracy Regime,16
+201,Augmented Human Development Index (AHDI),Augmented Human Development,9
+202,Percent of Leukemia deaths,Percent Leukemia Deaths,3
+203,Access to electricity (% of population),Access to electricity,7
+204,Rye yield,Rye Yield,2
+205,Share of adults who are overweight (age-standardized) - Sex: male - Age group: 18+  years,Overweight Adults (male),3
+206,Nutrient phosphate P2O5 (total) | 00003103 || Use per area of cropland | 005159 || Kilograms per hectare,Nutrient phosphate P2O5 ,13
+207,Solar and wind electricity per capita - kWh,Solar And Wind Electricity,7
+208,Percent of Total burden related to Non-alcoholic fatty liver disease (NAFLD) deaths,NAFLD deaths,3
+209,Death rate from alcohol use disorders among both sexes,Alcohol use disorder deaths,3
+210,Refugees by country of origin per 100:000 people,Refugees Country Origin,16
+211,Military personnel as a share of total population,Military Personnel Share,16
+212,Women's civil society participation index (best estimate: aggregate: average),Womens Civil Society Participation,5
+213,Estimated HIV in incident tuberculosis,HIV Incident Tuberculosis,3
+214,Rate of Total Cancers excluding Non-melanoma skin cancer deaths,Rate Total Cancers (- skin cancer),3
+215,Women Business and the Law Index Score (scale 1-100),Women Business and the Law ,5
+216,Political regime lexical,Political Regime Lexical,16
+217,Vegetables | 00002918 || Food available for consumption | 0645pc || kilograms per year per capita,Vegetables consumption,2
+218,Between 90th and 99th percentiles - Share-pretax,Share-pretax,1
+219,Oats yield,Oats Yield,2
+220,Decadal average surface temperature,Decadal Average Surface Temperature,13
+221,Women and men have equal ownership rights to immovable property (1=yes; 0=no),Gender-equal house ownership rights,5
+222,Expected years of schooling,Expected Years of Schooling,4
+223,Death rate from tuberculosis among both sexes,Tuberculosis Death,3
+224,Share of global annual CO₂ emissions from oil,CO₂ emissions from oil,13
+225,Gini coefficient of lifespan inequality - Sex: female,Gini Coefficient Inequality:female,1
+226,6.4.2 - Level of water stress: freshwater withdrawal as a proportion of available freshwater resources (%) - ER_H2O_STRESS - No breakdown,Level Water Stress,6
+227,Percent of Parkinson's disease deaths,Percent Parkinsons Disease,3
+228,Percent of Uterine cancer deaths,Percent Uterine Cancer,3
+229,Share of global greenhouse gas emissions,Global greenhouse gas emissions,13
+230,Woman head of state,Woman Head of State,5
+231,Gini coefficient,Gini Coefficient,1
+232,Potatoes yield split,Potatoes Yield Split,2
+233,Average years of schooling,Average Years Schooling,4
+234,CO₂ emissions covered by an ETS as a share of the country's CO₂ emissions,ETS CO₂ emissions ,13
+235,MCV1 (% of one-year-olds immunized),MCV1,3
+236,Domestic general government health expenditure (% of current health expenditure),Domestic government health expenditure,3
+237,Percent of Poisonings deaths,Percent Poisonings Deaths,3
+238,Annual CO₂ emissions (per capita),Annual CO₂ emissions ,13
+239,Death rate from cocaine use disorders among both sexes,Cocaine use deaths,3
+240,Percent of Conflict and terrorism deaths,Conflict and terrorism deaths,16
+241,Bottom 50% - Share-pretax,Bottom Sharepretax,1
+242,Rate of Total burden related to hepatitis B deaths,Hepatitis B deaths,3
+243,Rate of Maternal disorders deaths,Maternal Disorder deaths,3
+244,Sex ratio - Sex: all - Age: 5 - Variant: estimates,Sex Ratio Age 5,
+245,fertilizer_per_capita,Fertilizer per capita,13
 246,Case detection rate (all forms),Case Detection Rate,
-247,Food's share of total emissions (incl. LULUFC),Foods Share Total,
-248,Free political regime,Free Political Regime,
-249,Per-capita nitrous oxide emissions in CO₂ equivalents,Percapita Nitrous Oxide,
-250,Rate of Zika virus deaths,Rate Zika Virus,
-251,Vienna Convention and Montreal Protocol (Parties Subscribing each Year),Vienna Convention And,
-252,Total days of leave available for the father,Total Days Leave 1,
-253,Nuclear weapons status,Nuclear Weapons Status,
-254,Fossil fuels - % electricity,Fossil Fuels Electricity,
-255,Aquaculture production (metric tons),Aquaculture Production,
-256,Rate of Falls deaths,Rate Falls Deaths,
-257,Percent of Alzheimer's disease and other dementias deaths,Percent Alzheimers Disease,
-258,Top 1% - Share (Pretax) (Estimated),Top Share,
-259,Competitive elections,Competitive Elections,
-260,Political corruption index (best estimate: aggregate: average),Political Corruption Index,
-261,Electoral democracy index (best estimate: aggregate: average),Democracy 2,
-262,Unemployment: female (% of female labor force) (modeled ILO estimate),Unemployment Female,
-263,Gross enrolment ratio: primary: both sexes (%),Gross Enrolment Ratio 1,
-264,Carbon intensity of electricity - gCO2/kWh,Carbon Intensity Electricity,
-265,Death rate from interpersonal violence among both sexes,Death Rate From 6,
-266,Total deaths from dengue among both sexes,Total Deaths From 1,
-267,Richest decile - Share (Net national wealth) (Estimated),Health spending 5,
+247,Food's share of total emissions (incl. LULUFC),Foods Share of Emmissions,13
+248,Free political regime,Free Political Regime,16
+249,Per-capita nitrous oxide emissions in CO₂ equivalents,Nitrous oxide emissions in CO₂,13
+250,Rate of Zika virus deaths,Zika Virus Deaths,2
+251,Vienna Convention and Montreal Protocol (Parties Subscribing each Year),Vienna Convention and Montreal Protocol ,17
+252,Total days of leave available for the father,Leave available for the father,8
+253,Nuclear weapons status,Nuclear Weapons Status,7
+254,Fossil fuels - % electricity,Fossil Fuels Electricity,7
+255,Aquaculture production (metric tons),Aquaculture Production,14
+256,Rate of Falls deaths,Rate of Falls Deaths,3
+257,Percent of Alzheimer's disease and other dementias deaths,Percent Alzheimers Disease,3
+258,Top 1% - Share (Pretax) (Estimated),Top Share Pretax,1
+259,Competitive elections,Competitive Elections,16
+260,Political corruption index (best estimate: aggregate: average),Political Corruption Index,16
+261,Electoral democracy index (best estimate: aggregate: average),Electoral democracy index,16
+262,Unemployment: female (% of female labor force) (modeled ILO estimate),Female Unemployment,5
+263,Gross enrolment ratio: primary: both sexes (%),Gross Enrolment Ratio,16
+264,Carbon intensity of electricity - gCO2/kWh,Carbon Intensity of Electricity,7
+265,Death rate from interpersonal violence among both sexes,Interpersonal violence deaths,3
+266,Total deaths from dengue among both sexes,Dengue Deaths,3
+267,Richest decile - Share (Net national wealth) (Estimated),Net national wealth,8
 268,Age-standardized death rate from cardiomyopathy: myocarditis: endocarditis among both sexes,Agestandardized Death Rate 2,
 269,Completion rate: upper secondary education: both sexes (%): CR.3,Completion Rate Upper,
 270,6.6.1 - Lakes and rivers permanent water area (% of total land area) - EN_LKRV_PWAP,Lakes And Rivers,

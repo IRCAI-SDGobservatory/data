@@ -1,12 +1,21 @@
-TOPIC-id,SDG,TOPIC,Keywords,SUBTOPIC, Terms
-SDG1100,1,SDG 1,"Poverty, Poverty reduction, Poverty threshold, Extreme poverty, Poverty Reduction Strategies, Microfinance, Microcredit, Small business, Child labour, Child Labor Law, Child Support Grant, Child Welfare, Child Labor Regulation, Social protection, Social safety net, Welfare, Welfare spending, Social Exclusion, Financial inclusion, Conditional Cash Transfer, Poverty Alleviation, Economic Resource AND Access, Inclusive Growth, Third World, Low Income, Low Income Population, Third World, Development Assistance Committee, Development Aid, Official Development Assistance, International Development, Human Development Index, Economic inequality, Income inequality metrics, Multidimensional Poverty Index, Cost of poverty, Social insurance, Social inequality, Poverty reduction, Poverty Line, Poverty threshold, Gini index, Universal Basic Income, Global Poverty Line, Sustainable Development Goal 1",,
+TOPIC-id,SDG,TOPIC,Keywords
+SDG1000,1,SDG 1,"Poverty, Poverty reduction, Poverty threshold, Extreme poverty, Poverty Reduction Strategies, Microfinance, Microcredit, Small business, Child labour, Child Labor Law, Child Support Grant, Child Welfare, Child Labor Regulation, Social protection, Social safety net, Welfare, Welfare spending, Social Exclusion, Financial inclusion, Conditional Cash Transfer, Poverty Alleviation, Economic Resource AND Access, Inclusive Growth, Third World, Low Income, Low Income Population, Third World, Development Assistance Committee, Development Aid, Official Development Assistance, International Development, Human Development Index, Economic inequality, Income inequality metrics, Multidimensional Poverty Index, Cost of poverty, Social insurance, Social inequality, Poverty reduction, Poverty Line, Poverty threshold, Gini index, Universal Basic Income, Global Poverty Line, Sustainable Development Goal 1",,
 SDG1100,1,Extreme Poverty,"Poverty, Poverty reduction, Poverty threshold, Extreme poverty, Poverty Reduction Strategies",
 SDG1110,1,Poverty reduction, "Poverty reduction"
 SDG1120,1,Poverty threshold,"Poverty threshold"
 SDG1130,1,Extreme poverty,"Extreme poverty"
-SDG1200,1,Microfinance,"Microfinance, Microcredit, Small business","Microfinance, Microcredit, Small business","Microfinance, Microcredit, Small business"
-SDGt004,1,Child Labour,"Child labour, Child Labor Law, Child Support Grant, Child Welfare, Child Labor Regulations","Child labour, Child Labor Law, Child Welfare", "Child labour, Child Labor Law, Child Welfare"
-SDGt005,1,Social Protection,"Social protection, Social safety net, Welfare, Welfare spending, Social Exclusion", "Social protection, Welfare spending, Social Exclusion", "Social protection, Welfare spending, Social Exclusion"
+SDG1200,1,Microfinance,"Microfinance, Microcredit, Small business",
+SDG1210,1,Microfinance,"Microfinance"
+SDG1220,1,Microcredit,"Microcredit"
+SDG1230,1,Small business,"Small business"
+SDG1300,1,Child Labour,"Child labour, Child Labor Law, Child Support Grant, Child Welfare, Child Labor Regulations"
+SDG1310,1,Child labour, "Child labour"
+SDG1320,1,Child Labor Law,"Child Labor Law"
+SDG1330,1,Child Welfare, "Child Welfare"
+SDG1400,1,Social Protection,"Social protection, Social safety net, Welfare, Welfare spending, Social Exclusion"
+SDG1410,1,Social protection, "Social protection"
+SDG1420,1,Welfare spending, "Welfare spending"
+SDG1430,1,Social Exclusion, "Social Exclusion"
 SDGt006,1,Financial Inclusion,"Financial inclusion, Conditional Cash Transfer, Poverty Alleviation, Economic Resource AND Access, Inclusive Growth", "Financial inclusion, Conditional Cash Transfer, Poverty Alleviation", "Financial inclusion, Conditional Cash Transfer, Poverty Alleviation"
 SDGt007,1,Vulnerable Population,"Third World, Low Income, Low Income Population, Vulnerable adult", "Third World, Low Income Population, Vulnerable adult", "Third World, Low Income Population, Vulnerable adult"
 SDGt008,1,Development Aid,"Third World, Development Assistance Committee, Development Aid, Official Development Assistance, International Development, Human Development Index", "Development Aid, International Development, Human Development Index", "Development Aid, International Development, Human Development Index"

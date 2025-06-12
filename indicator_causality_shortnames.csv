@@ -557,7 +557,7 @@ Index,Long Name,Short Name,SDG
 556,Rural population (% of total population),Rural Population,
 557,Electoral democracy (best estimate) (re-estimate),Electoral democracy,16
 558,DALYs from all causes: among both sexes per 100.000 people,Dalys From All Causes,
-559,Observation value - Unit of measure: Stillbirths per 100 births - Indicator: Stillbirth rate - Sex: Both sexes - Wealth quintile: All wealth quintiles,Observation Value Unit 2,
-560,Prevalence of anemia among pregnant women (%),Anemia in women 1,
-561,Percent of Animal contact deaths,Percent Animal Contact,
-562,Vaccination schedule for measles-containing-vaccine second-dose (MCV2) vaccine,Health spending 10,
+559,Observation value - Unit of measure: Stillbirths per 100 births - Indicator: Stillbirth rate - Sex: Both sexes - Wealth quintile: All wealth quintiles,Stillbirth Rate,3
+560,Prevalence of anemia among pregnant women (%),Anemia in pregnant women 1,3
+561,Percent of Animal contact deaths,Animal contact deaths,3
+562,Vaccination schedule for measles-containing-vaccine second-dose (MCV2) vaccine,Vaccination for measles second-dose (MCV2),3

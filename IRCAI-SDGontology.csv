@@ -114,16 +114,19 @@ SDG03080,3,Mental Health,"Mental health, Mental disorder, Mental environment, Em
 SDG03081,3,Mental disorder,"Mental disorder" 
 SDG03082,3,Mental environment,"Mental environment" 
 SDG03083,3,Emotional resilience,"Emotional resilience"
-SDG03090,3,Public Health,"Public health, Air contamination, Air pollution, Global health,Health promotion","Health promotion, Global health, Universal health care", "Health promotion, Global health, Universal health care"
-SDG03091,3,
-SDG03092,3,
-SDG03093,3,
-SDG03100,3,Tropical Disease,"Tropical disease, Tropical medicine, Lassa fever, Marburg virus, Dengue fever, Malaria","Lassa fever, Marburg virus, Dengue fever, Malaria","Lassa fever, Marburg virus, Dengue fever, Malaria"
-SDG03101,3,
-SDG03102,3,
-SDG03103,3,
+SDG03090,3,Public Health,"Public health, Air contamination, Air pollution, Global health,Health promotion"
+SDG03091,3,Health promotion,"Health promotion" 
+SDG03092,3,Global health,"Global health"
+SDG03093,3,Universal health care,"Universal health care"
+SDG03100,3,Tropical Disease,"Tropical disease, Tropical medicine, Lassa fever, Marburg virus, Dengue fever, Malaria"
+SDG03101,3,Lassa, "Lassa fever"
+SDG03102,3,Dengue,"Dengue fever"
+SDG03103,3,Malaria,"Malaria"
 SDG04000,4,SDG 4,"Continuing education, adult education, Community education, Lifelong learning, Part-time student, Professional learning community, Education policy, Early Childhood Education Act, Education AND Legislation, Board of education, Universal Primary Education, Quality Education, Gender Equality in Education, Youth empowerment, Digital literacy, Data literacy, Education AND Accessibility, Education AND Equity, Education AND Inclusion, Education AND Immigrants, Education AND Migrants, Education AND Open file format, Equal Education, Student financial aid, Early Childhood Development, Teacher education, European Teacher Education Network, Teaching method, Vocational Training, Educational technology, Education AND Innovation, Nonformal learning, Open education, Open educational resources, Free education, Education AND Open access, Nonformal learning, Global Citizenship, functional literacy, Professional development, Capacity building, Coursework, Competency building, Special Education, Disability studies, Early childhood intervention, special needs, learning disabilities, Sustainable Development Goal 4",,
 SDG04010,4,Lifelong Learning,"Continuing education, adult education, Community education, Lifelong learning, Part-time student, Professional learning community","Continuing education, Adult education, Community education", "Continuing education, Adult education, Community education"
+SDG04011,4,
+SDG04012,4,
+SDG04013,4,
 SDG04020,4,Education Policy,"Education policy, Early Childhood Education Act, Education AND Legislation, Board of education, Universal Primary Education, Quality Education, Gender Equality in Education","Early Childhood Education, Quality Education, Gender Equality in Education","Early Childhood Education Act, Quality Education, Gender Equality in Education"
 SDG04030,4,Digital Literacy,"Youth empowerment, Digital literacy, Data literacy,Media literacy,Web literacy","Web literacy, Media literacy, Data literacy","Web literacy, Media literacy, Data literacy"
 SDG04040,4,Inclusive Education,"Education AND Accessibility, Education AND Equity, Education AND Inclusion, Education AND Immigrants, Education AND Migrants, Education AND Open file format, Equal Education, Student financial aid, Early Childhood Development","Equal Education, Student financial aid,Open file format","Equal Education, Student financial aid,Open file format"

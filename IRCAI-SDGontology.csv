@@ -60,7 +60,7 @@ SDG02043,2,Agroecology,"Agroecology"
 SDG02050,2,Food policy,"Agricultural value chain, Agribusiness, Bioeconomy, Food policy"
 SDG02051,2,Agricultural value chain,"Agricultural value chain"
 SDG02052,2,Agricultural value chain,"Agricultural value chain"
-SDG02053,2,Agribusiness, Bioeconomy,"Agribusiness, Bioeconomy"
+SDG02053,2,Bioeconomy,"Agribusiness, Bioeconomy"
 SDG02060,2,Rural Development,"Land law, Agricultural Land Reserve, Agricultural economics, Indigenous land rights"
 SDG02061,2,Agricultural Land Reserve,"Agricultural Land Reserve"
 SDG02062,2,Agricultural economics,"Agricultural economics"
@@ -164,87 +164,87 @@ SDG04101,4,Early childhood intervention,"Early childhood intervention"
 SDG04102,4,special needs,"special needs"
 SDG04103,4,learning disabilities,"learning disabilities"
 SDG05000,5,SDG 5,"Women's empowerment, Feminism, Gender Equality, Equal opportunity, Gender and education, Gender parity, Gender parity index, Gender inequality, Gender Mainstreaming, Gender-related violence, Sexual violence, Domestic Violence, Child marriage, Forced marriage, Human rights, Women's rights, Sexual Abuse, Sex Offense, Social inequality, Equal opportunity, Equal pay for equal work, Equal Pay, Disadvantaged, Discrimination, Discrimination based on skin tone, Discrimination against atheists, Sexual minority, Minority group, Minority influence, Social vulnerability, Social stratification, Transgender, Transgender inequality, LGBTQ, Lesbian, Gay, Sustainable Development Goal 5",,
-SDG05010,5,Gender empowerment,"Gender empowerment,Women's empowerment, Feminism, Gender Equality","Women's empowerment, Feminism, Gender Equality","Women's empowerment, Feminism, Gender Equality"
-SDG05011,5,
-SDG05012,5,
-SDG05013,5,
+SDG05010,5,Gender empowerment,"Gender empowerment,Women's empowerment, Feminism, Gender Equality"
+SDG05011,5,Women's empowerment,"Women's empowerment"
+SDG05012,5,Feminism,"Feminism"
+SDG05013,5,Gender Equality,"Gender Equality"
 SDG05020,5,Equal Opportunities,"Equal opportunity, Prejudice, Gender and education","Prejudice,Oppression,Substantive equality","Prejudice,Oppression,Substantive equality"
-SDG05021,5,
-SDG05022,5,
-SDG05023,5,
-SDG05030,5,Gender Parity,"Gender parity, Gender parity index, Gender inequality, Gender Mainstreaming","Gender identity, Gender inequality, Gender Mainstreaming","Gender identity, Gender inequality, Gender Mainstreaming"
-SDG05031,5,
-SDG05032,5,
-SDG05033,5,
-SDG05040,5,Gender-based Violence,"Gender-related violence, Sexual violence, Domestic Violence, Violence against women","Violence against women,Sexual violence, Domestic Violence","Violence against women,Sexual violence, Domestic Violence"
-SDG05041,5,
-SDG05042,5,
-SDG05043,5,
-SDG05050,5,Women's Rights,"Child marriage, Forced marriage, Human rights, Women's rights","Female education, Forced marriage, Misogyny","Female education, Forced marriage, Misogyny"
-SDG05051,5,
-SDG05052,5,
-SDG05053,5,
-SDG05060,5,Sex Offense,"Sexual Abuse, Sex Offense,Age of consent,Child sexual abuse, Stalking","Sexual Abuse, Stalking, Child sexual abuse","Sexual Abuse, Stalking, Child sexual abuse"
-SDG05061,5,
-SDG05062,5,
-SDG05063,5,
-SDG05070,5,Pay Equity,"Social inequality, Equal opportunity, Equal pay for equal work, Equal Pay,Labor rights","Social inequality, Equal opportunity,Labor rights","Social inequality, Equal opportunity,Labor rights"
-SDG05071,5,
-SDG05072,5,
-SDG05073,5,
-SDG05080,5,Discrimination,"Disadvantaged, Discrimination, Discrimination based on skin tone, RacismDiscrimination against atheists, Ableism","Disadvantaged,Racism,Ableism","Disadvantaged,Racism,Ableism"
-SDG05081,5,
-SDG05082,5,
-SDG05083,5,
-SDG05090,5,Minorities,"Sexual minority, Minority group, Minority influence, Social vulnerability, Social stratification,Minority religion","Sexual minority,Religious minority,Ethnic minority","Sexual minority,Religious minority,Ethnic penalty"
-SDG05091,5,
-SDG05092,5,
-SDG05093,5,
-SDG05100,5,Representation,"Transgender, Transgender inequality, LGBTQ, Lesbian, Gay","Transgender,Lesbian, Gay","Transgender,Lesbian, Gay"
-SDG05101,5,
-SDG05102,5,
-SDG05103,5,
+SDG05021,5,Gender Prejudice,"Gender AND Prejudice" 
+SDG05022,5,Gender Oppression,"Gender AND Oppression" 
+SDG05023,5,Substantive equality,"Substantive equality"
+SDG05030,5,Gender Parity,"Gender parity, Gender parity index, Gender inequality, Gender Mainstreaming"
+SDG05031,5,Gender identity,"Gender identity"
+SDG05032,5,Gender inequality,"Gender inequality"
+SDG05033,5,Gender Mainstreaming,"Gender Mainstreaming"
+SDG05040,5,Gender-based Violence,"Gender-related violence, Sexual violence, Domestic Violence, Violence against women"
+SDG05041,5,Violence against women,"Violence against women"
+SDG05042,5,Sexual violence,"Sexual violence"
+SDG05043,5,Domestic Violence,"Domestic violence"
+SDG05050,5,Women's Rights,"Child marriage, Forced marriage, Human rights, Women's rights, Female education, Forced marriage, Misogyny"
+SDG05051,5,Female education,"Female education"
+SDG05052,5,Forced marriage,"Forced marriage"
+SDG05053,5,Misogyny,"Misogyny"
+SDG05060,5,Sex Offense,"Sexual Abuse, Sex Offense,Age of consent,Child sexual abuse, Stalking"
+SDG05061,5,Sexual Abuse,"Sexual Abuse"
+SDG05062,5,Stalking,"Gender AND Stalking"
+SDG05063,5,Child sexual abuse,"Child sexual abuse"
+SDG05070,5,Pay Equity,"Social inequality, Equal opportunity, Equal pay for equal work, Equal Pay,Labor rights"
+SDG05071,5,Social inequality,"Social inequality"
+SDG05072,5,Equal opportunity,"Equal opportunity"
+SDG05073,5,Labor rights, "Gender AND Labor rights"
+SDG05080,5,Discrimination,"Disadvantaged, Discrimination, Discrimination based on skin tone, RacismDiscrimination against atheists, Ableism"
+SDG05081,5,Disadvantaged, "Gender AND Disadvantaged"
+SDG05082,5,Racism,"Gender AND Racism"
+SDG05083,5,Ableism,"Ableism"
+SDG05090,5,Minorities,"Sexual minority, Minority group, Minority influence, Social vulnerability, Social stratification,Minority religion"
+SDG05091,5,Sexual minority,"Sexual minority"
+SDG05092,5,Religious minority,"Religious minority"
+SDG05093,5,Ethnic minority,"Ethnic minority""
+SDG05100,5,Representation,"Transgender, Transgender inequality, LGBTQ, Lesbian, Gay"
+SDG05101,5,Transgender,"Transgender"
+SDG05102,5,Lesbian,"Lesbian"
+SDG05103,5,Gay,"Gay"
 SDG06000,6,SDG 6,"Water supply, Water-use efficiency, Groundwater, Sanitation, Water AND Hygiene, Water Sanitation, Waterborne disease, Escherichia coli, Salmonella enterica, Polyomavirus infection, Desmodesmus, Reclaimed water, Desalination, Wastewater treatment, Drinking water, Drinking water quality standards, Safe Drinking Water, Drought, Water scarcity,  Water security, Water storage, Water resources, Water Resource Management, Integrated Water Resources Management, Water quality, Water quality law, Water quality modelling, Water rights, Water politics, Water Regulations Advisory Scheme, Water Pollution, Water AND Contamination, Aquatic toxicology, Sustainable Development Goal 6",,
-SDG06010,6,Water Access,"Water supply, Water-use efficiency, Groundwater","Water supply, Water-use efficiency, Groundwater","Water supply, Water-use efficiency, Groundwater"
-SDG06011,6,
-SDG06012,6,
-SDG06013,6,
-SDG06020,6,Sanitation & Hygiene,"Sanitation, Water AND Hygiene, Water AND Sanitation","Ecological sanitation, Emergency sanitation, Sustainable sanitation","Ecological sanitation, Emergency sanitation, Sustainable sanitation"
-SDG06021,6,
-SDG06022,6,
-SDG06023,6,
-SDG06030,6,Water-borne Disease,"Waterborne disease, Escherichia coli, Salmonella enterica, Polyomavirus infection, Desmodesmus","Escherichia coli, Salmonella enterica, Polyomavirus infection, Desmodesmus","Escherichia coli, Salmonella enterica, Polyomavirus infection, Desmodesmus"
-SDG06031,6,
-SDG06032,6,
-SDG06033,6,
-SDG06040,6,Wastewater Management,"Reclaimed water, Desalination, Wastewater treatment","Reclaimed water, Desalination,Sewage treatment","Reclaimed water, Desalination,Sewage treatment"
-SDG06041,6,
-SDG06042,6,
-SDG06043,6,
-SDG06050,6,Clean Drinking Water,"Drinking water, Drinking water quality standards, Safe Drinking Water,Tap water","Tap water,Drinking water quality, Safe Drinking Water","Tap water,Drinking water quality standards, Safe Drinking Water"
-SDG06051,6,
-SDG06052,6,
-SDG06053,6,
-SDG06060,6,Water Scarcity,"Drought, Water scarcity, Water security,Peak water","Drought, Peak water, Water security","Drought, Peak water, Water security"
-SDG06061,6,
-SDG06062,6,
-SDG06063,6,
-SDG06070,6,Water Resource Management,"Water storage, Water resources, Water Resource Management, Integrated Water Resources Management,Water resource policy","Water storage, Water resources, Water resource policy","Water storage, Water resources, Water resource policy"
-SDG06071,6,
-SDG06072,6,
-SDG06073,6,
-SDG06080,6,Water Quality,"Water quality, Water quality law, Water quality modelling", "Water quality law,Water quality modelling,Drinking water quality","Water quality law,Water quality modelling,Drinking water quality,Drinking water quality standards"
-SDG06081,6,
-SDG06082,6,
-SDG06083,6,
-SDG06090,6,Water Policy,"Water rights, Water politics, Water Regulations Advisory Scheme","Water rights, Water politics, Water Regulations","Water rights, Water politics, Water Regulations Advisory Scheme"
-SDG06091,6,
-SDG06092,6,
-SDG06093,6,
-SDG06100,6,Water Pollution,"Water Pollution, Water AND Contamination, Aquatic toxicology","Turbidity,Salinity,Pesticide","Turbidity,Salinity,Pesticide AND Water"
-SDG06101,6,
-SDG06102,6,
-SDG06103,6,
+SDG06010,6,Water Access,"Water supply, Water-use efficiency, Groundwater"
+SDG06011,6,Water supply,"Water supply"
+SDG06012,6,Water-use efficiency,"Water-use efficiency"
+SDG06013,6,Groundwater","Groundwater""
+SDG06020,6,Sanitation & Hygiene,"Sanitation, Water AND Hygiene, Water AND Sanitation,Ecological sanitation, Emergency sanitation, Sustainable sanitation"
+SDG06021,6,Ecological sanitation,"Ecological sanitation"
+SDG06022,6,Emergency sanitation,"Emergency sanitation"
+SDG06023,6,Sustainable sanitation,"Sustainable sanitation"
+SDG06030,6,Water-borne Disease,"Waterborne disease, Escherichia coli, Salmonella enterica, Polyomavirus infection, Desmodesmus"
+SDG06031,6,Escherichia coli,"Escherichia coli"
+SDG06032,6,Salmonella enterica,"Salmonella enterica"
+SDG06033,6,Polyomavirus infection,"Polyomavirus infection"
+SDG06040,6,Wastewater Management,"Reclaimed water, Desalination, Wastewater treatment","Reclaimed water, Desalination,Sewage treatment"
+SDG06041,6,Reclaimed water,"Reclaimed water"
+SDG06042,6,Desalination,"Desalination"
+SDG06043,6,Sewage treatment,"Sewage treatment"
+SDG06050,6,Clean Drinking Water,"Drinking water, Drinking water quality standards, Safe Drinking Water,Tap water"
+SDG06051,6,Tap water,"Tap water"
+SDG06052,6,Drinking water quality,"Drinking water quality standards"
+SDG06053,6,Safe Drinking Water,"Safe Drinking Water"
+SDG06060,6,Water Scarcity,"Drought, Water scarcity, Water security,Peak water"
+SDG06061,6,Drought,"Drought"
+SDG06062,6,Peak water,"Peak water"
+SDG06063,6,Water security,"Water security"
+SDG06070,6,Water Resource Management,"Water storage, Water resources, Water Resource Management, Integrated Water Resources Management,Water resource policy"
+SDG06071,6,Water storage,"Water storage"
+SDG06072,6,Water resources,"Water resources"
+SDG06073,6,Water resource policy,"Water resource policy"
+SDG06080,6,Water Quality,"Water quality, Water quality law, Water quality modelling"
+SDG06081,6,Water quality law,"Water quality law"
+SDG06082,6,Water quality modelling,"Water quality modelling"
+SDG06083,6,Drinking quality verification,"Drinking water quality"
+SDG06090,6,Water Policy,"Water rights, Water politics, Water Regulations Advisory Scheme"
+SDG06091,6,Water rights,"Water rights"
+SDG06092,6,Water politics,"Water politics"
+SDG06093,6,Water Regulations,"Water Regulations Advisory Scheme"
+SDG06100,6,Water Pollution,"Water Pollution, Water AND Contamination, Aquatic toxicology"
+SDG06101,6,Turbidity,"Turbidity"
+SDG06102,6,Salinity,"Salinity"
+SDG06103,6,Pesticide,"Pesticide AND Water"
 SDG07000,7,SDG 7,"Renewable energy, Solar power, Wind energy, Energy poverty, Energy for All, SolarAid, Sustainable Energy for All, Household energy insecurity, Sustainable energy, Energy poverty and cooking, Clean Energy Regulator, Energy efficiency, Energy efficiency implementation, Energy efficiency gap, Energy conservation, Energy storage, Electric potential energy, Thermal energy storage, Energy recycling, Energy recovery, Waste-to-energy, Waste heat, Sustainable energy, Carbon capture and storage, Energy transition, Energy development, Energy demand management, Electric energy consumption, World energy resources, World energy supply and consumption, Nuclear power, Potential energy, Nuclear reactor, Sustainable Development Goal 7",,
 SDG07010,7,Renewable Energy,"Renewable energy, Solar power, Wind energy","Solar power, Wind energy, Hidro energy","Solar power, Wind energy, Hydropower"
 SDG07020,7,Energy Access,"Energy poverty, Energy for All, Energy poverty and cooking, SolarAid, Sustainable Energy for All, Household energy insecurity","Energy poverty,Energy aid, Household energy insecurity","Energy poverty,Energy for All, Household energy insecurity"

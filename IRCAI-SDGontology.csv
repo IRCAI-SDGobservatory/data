@@ -655,43 +655,43 @@ SDG16101,16,Social exclusion,"Social exclusion"
 SDG16102,16,Social rejection,"Social rejection"
 SDG16103,16,Social vulnerability,"Social vulnerability"
 SDG17000,17,SDG 17,"International cooperation, Translational cooperation, Multilateral agreements, International agreements, Multilingual, Multicultural, Knowledge sharing, Public–private partnership, Strategic partnership, Foreign Aid, Financial assistance (share purchase), Funding of science, Development Cooperation, Capacity Building, Community capacity building,Technology Transfer, Knowledge transfer, Transfer of learning, Stakeholder engagement, Stakeholder engagement software, Stakeholder management, Commercial policy, Common commercial policy, Common Commercial Policy (EU), Free trade agreement, Global Partnerships, International development, International Partnership for Human Rights, Policy coherence for development, Global governance, Resource mobilization, Mass mobilization, Social movement organization, Partnerships for Goals, Multilateralism, Multilateral treaty, Sustainable Development Goal 17",,
-SDG17010,17,Global Cooperation,"International cooperation, Translational cooperation, Multilateral agreements, International agreements, Multilingual, Multicultural, Knowledge sharing, Public–private partnership, Strategic partnership","Global governance,International law,Global public good","Global governance,International law,Global public good"
+SDG17010,17,Global Cooperation,"International cooperation, Translational cooperation, Multilateral agreements, International agreements, Multilingual, Multicultural, Knowledge sharing, Public–private partnership, Strategic partnership"
 SDG17011,17,Global governance,"Global governance"
 SDG17012,17,International law,"International law"
 SDG17013,17,Global public good,"Global public good"
-SDG17020,17,Financial Aid,"Foreign Aid, Financial assistance (share purchase), Funding of science","Development aid,Financial assistance, Funding of science","Development aid,Financial assistance (share purchase), Funding of science"
-SDG17021,17,
-SDG17022,17,
-SDG17023,17,
-SDG17030,17,Capacity Building,"Development Cooperation, Capacity Building, Community capacity building","Personal development,Professional Training,Scholarship","Personal development,Training,Scholarship"
-SDG17031,17,
-SDG17032,17,
-SDG17033,17,
-SDG17040,17,Knowledge Transfer,"Technology Transfer, Knowledge transfer, Transfer of learning","Organizational learning,Technology Transfer,Knowledge Transfer Partnerships","Organizational learning,Technology Transfer,Knowledge Transfer Partnerships"
-SDG17041,17,
-SDG17042,17,
-SDG17043,17,
-SDG17050,17,Stakeholder Engagement,"Stakeholder engagement, Stakeholder engagement software, Stakeholder management","Collaborative governance,Stakeholder engagement software, Stakeholder management","Collaborative governance,Stakeholder engagement software, Stakeholder management"
-SDG17051,17,
-SDG17052,17,
-SDG17053,17,
-SDG17060,17,Trade Policies,"Commercial policy, Common commercial policy, Common Commercial Policy (EU), Free trade agreement","Trade barrier,Common commercial policy,Free trade agreement","Trade barrier,Common commercial policy,Free trade agreement"
-SDG17061,17,
-SDG17062,17,
-SDG17063,17,
-SDG17070,17,International Partnerships,"Global Partnerships, International development, International Partnership for Human Rights","Global Partnerships, International development, International Partnership for Human Rights","Global Partnerships, International development, International Partnership for Human Rights"
-SDG17071,17,
-SDG17072,17,
-SDG17073,17,
-SDG17080,17,Policy Coherence,"Policy coherence for development, Global governance,International law","Intergovernmentalism,Global governance,International law","Intergovernmentalism,Global governance,International law"
-SDG17081,17
-SDG17082,17
-SDG17083,17
-SDG17090,17,Resource Mobilization,"Resource mobilization, Mass mobilization, Social movement organization","Social constructionism,Mass mobilization, Social movement organization","Social constructionism,Mass mobilization, Social movement organization"
-SDG17091,17
-SDG17092,17
-SDG17093,17
-SDG17100,17,Multilateral Agreements,"Partnerships for Goals, Multilateralism, Multilateral treaty","Partnerships for Goals, Cross-border cooperation, Multilateral treaty","Partnerships for Goals, Cross-border cooperation, Multilateral treaty"
-SDG17101,17,
-SDG17102,17,
-SDG17103,17,
+SDG17020,17,Financial Aid,"Foreign Aid, Financial assistance (share purchase), Funding of science"
+SDG17021,17,Development aid,"Development aid"
+SDG17022,17,Financial assistance,"Financial assistance (share purchase)"
+SDG17023,17,Funding of science,"Funding of science"
+SDG17030,17,Capacity Building,"Development Cooperation, Capacity Building, Community capacity building,Personal development,Training"
+SDG17031,17,Personal development,"Personal development"
+SDG17032,17,Training,"Training"
+SDG17033,17,Scholarship,"Scholarship"
+SDG17040,17,Knowledge Transfer,"Technology Transfer, Knowledge transfer, Transfer of learning"
+SDG17041,17,Organizational learning,"Organizational learning"
+SDG17042,17,Technology Transfer,"Technology Transfer"
+SDG17043,17,Knowledge Transfer Partnerships,"Knowledge Transfer Partnerships"
+SDG17050,17,Stakeholder Engagement,"Stakeholder engagement, Stakeholder engagement software, Stakeholder management"
+SDG17051,17,Collaborative governance,"Collaborative governance"
+SDG17052,17,Stakeholder engagement software,"Stakeholder engagement software" 
+SDG17053,17,Stakeholder management,"Stakeholder management"
+SDG17060,17,Trade Policies,"Commercial policy, Common commercial policy, Common Commercial Policy (EU), Free trade agreement"
+SDG17061,17,Trade barrier,"Trade barrier"
+SDG17062,17,Common commercial policy,"Common commercial policy"
+SDG17063,17,Free trade agreement,"Free trade agreement"
+SDG17070,17,International Partnerships,"Global Partnerships, International development, International Partnership for Human Rights"
+SDG17071,17,Global Partnerships,"Global Partnerships" 
+SDG17072,17,International development,"International development" 
+SDG17073,17,International Partnership for Human Rights,"International Partnership for Human Rights"
+SDG17080,17,Policy Coherence,"Policy coherence for development, Global governance,International law,Intergovernmentalism"
+SDG17081,17,Intergovernmentalism,"Intergovernmentalism"
+SDG17082,17,Global governance,"Global governance"
+SDG17083,17,International law,"International law"
+SDG17090,17,Resource Mobilization,"Resource mobilization, Mass mobilization, Social movement organization"
+SDG17091,17,Social constructionism,"Social constructionism"
+SDG17092,17,Mass mobilization,"Mass mobilization"
+SDG17093,17,Social movement organization,"Social movement organization"
+SDG17100,17,Multilateral Agreements,"Partnerships for Goals, Multilateralism, Cross-border cooperation, Multilateral treaty"
+SDG17101,17,Partnerships for Goals,"Partnerships for Goals" 
+SDG17102,17,Cross-border cooperation,"Cross-border cooperation" 
+SDG17103,17,Multilateral treaty,"Multilateral treaty"

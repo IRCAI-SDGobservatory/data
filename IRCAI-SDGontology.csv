@@ -246,46 +246,46 @@ SDG06101,6,Turbidity,"Turbidity"
 SDG06102,6,Salinity,"Salinity"
 SDG06103,6,Pesticide,"Pesticide AND Water"
 SDG07000,7,SDG 7,"Renewable energy, Solar power, Wind energy, Energy poverty, Energy for All, SolarAid, Sustainable Energy for All, Household energy insecurity, Sustainable energy, Energy poverty and cooking, Clean Energy Regulator, Energy efficiency, Energy efficiency implementation, Energy efficiency gap, Energy conservation, Energy storage, Electric potential energy, Thermal energy storage, Energy recycling, Energy recovery, Waste-to-energy, Waste heat, Sustainable energy, Carbon capture and storage, Energy transition, Energy development, Energy demand management, Electric energy consumption, World energy resources, World energy supply and consumption, Nuclear power, Potential energy, Nuclear reactor, Sustainable Development Goal 7",,
-SDG07010,7,Renewable Energy,"Renewable energy, Solar power, Wind energy","Solar power, Wind energy, Hidro energy","Solar power, Wind energy, Hydropower"
-SDG07011,7,
-SDG07012,7,
-SDG07013,7,
-SDG07020,7,Energy Access,"Energy poverty, Energy for All, Energy poverty and cooking, SolarAid, Sustainable Energy for All, Household energy insecurity","Energy poverty,Energy aid, Household energy insecurity","Energy poverty,Energy for All, Household energy insecurity"
-SDG07021,7,
-SDG07022,7,
-SDG07023,7,
-SDG07030,7,Energy transition, "Energy transition, Energy security, Sustainable energy, Clean Energy Regulator","Energy security,Variable renewable energy,Grid balancing", "Energy security,Variable renewable energy,Grid balancing",
-SDG07031,7,
-SDG07032,7,
-SDG07033,7,
-SDG07040,7,Energy Efficiency,"Energy efficiency, Energy efficiency implementation, Energy efficiency gap","Thermal efficiency,Luminous efficacy, Data Centre efficency", "Thermal efficiency,Luminous efficacy,Power usage effectiveness"
-SDG07041,7,
-SDG07042,7,
-SDG07043,7,
-SDG07050,7,Energy Conservation,"Energy conservation, Energy storage, Electric potential energy, Thermal energy storage","Energy storage, Electric potential energy, Thermal energy storage","Energy storage, Electric potential energy, Thermal energy storage"
-SDG07051,7,
-SDG07052,7,
-SDG07053,7,
-SDG07060,7,Energy Recycling,"Energy recycling, Energy recovery, Waste-to-energy, Waste heat,Cogeneration","Energy recovery, Waste-to-energy, Cogeneration","Energy recovery, Waste-to-energy, Cogeneration"
-SDG07061,7,
-SDG07062,7,
-SDG07063,7,
-SDG07070,7,Sustainable Energy,"Sustainable energy, Carbon capture and storage, Energy transition,Sustainable city,Sustainable refurbishment,Sustainable biofuel","Sustainable city,Sustainable refurbishment,Sustainable biofuel","Sustainable city,Sustainable refurbishment,Sustainable biofuel"
-SDG07071,7,
-SDG07072,7,
-SDG07073,7,
+SDG07010,7,Renewable Energy,"Renewable energy, Solar power, Wind energy"
+SDG07011,7,Solar power,"Solar power" 
+SDG07012,7,Wind energy,"Wind energy" 
+SDG07013,7,Hydropower,"Hydropower"
+SDG07020,7,Energy Access,"Energy poverty, Energy for All, Energy poverty and cooking, SolarAid, Sustainable Energy for All, Household energy insecurity"
+SDG07021,7,Energy poverty,"Energy poverty"
+SDG07022,7,Energy democratisation,"Energy for All" 
+SDG07023,7,Household energy insecurity,"Household energy insecurity"
+SDG07030,7,Energy transition, "Energy transition, Energy security, Sustainable energy, Clean Energy Regulator"
+SDG07031,7,Energy security,"Energy security"
+SDG07032,7,Variable renewable energy,"Variable renewable energy"
+SDG07033,7,Grid balancing,"Grid balancing"
+SDG07040,7,Energy Efficiency,"Energy efficiency, Energy efficiency implementation, Energy efficiency gap"
+SDG07041,7,Thermal efficiency,"Luminous efficacy"
+SDG07042,7,Luminous efficacy,"Luminous efficacy"
+SDG07043,7,Power usage efficacy,"Power usage effectiveness"
+SDG07050,7,Energy Conservation,"Energy conservation, Energy storage, Electric potential energy, Thermal energy storage"
+SDG07051,7,Energy storage,"Energy storage"
+SDG07052,7,Electric potential energy,"Electric potential energy"
+SDG07053,7,Thermal energy storage,"Thermal energy storage"
+SDG07060,7,Energy Recycling,"Energy recycling, Energy recovery, Waste-to-energy, Waste heat,Cogeneration"
+SDG07061,7,Energy recovery,"Energy recovery" 
+SDG07062,7,Waste-to-energy,"Waste-to-energy" 
+SDG07063,7,Cogeneration,"Cogeneration"
+SDG07070,7,Sustainable Energy,"Sustainable energy, Carbon capture and storage, Energy transition,Sustainable city,Sustainable refurbishment,Sustainable biofuel"
+SDG07071,7,Sustainable city,"Sustainable city"
+SDG07072,7,Sustainable refurbishment,"Sustainable refurbishment"
+SDG07073,7,Sustainable biofuel,"Sustainable biofuel"
 SDG07080,7,Energy Infrastructure,"Energy development, Energy demand management, Electric energy consumption","Energy development, Energy demand, Energy consumption","Energy development, Energy demand management, Electric energy consumption"
-SDG07081,7,
-SDG07082,7,
-SDG07083,7,
-SDG07090,7,Energy Policy,"World energy resources, World energy supply and consumption, Energy policy,Energy planning,Energy intensity,Nuclear energy policy","Energy planning,Energy intensity,Nuclear energy policy","Energy planning,Energy intensity,Nuclear energy policy"
-SDG07091,7,
-SDG07092,7,
-SDG07093,7,
-SDG07100,7,Nuclear Energy,"Nuclear power, Potential energy, Nuclear reactor, Nuclear energy policy","Nuclear power, Potential energy,Energy economics","Nuclear power, Potential energy,Energy economics"
-SDG07101,7,
-SDG07102,7,
-SDG07103,7,
+SDG07081,7,Energy development,"Energy development"
+SDG07082,7,Energy demand management,"Energy demand management"
+SDG07083,7,Electric energy consumption,"Electric energy consumption"
+SDG07090,7,Energy Policy,"World energy resources, World energy supply and consumption, Energy policy,Energy planning,Energy intensity,Nuclear energy policy"
+SDG07091,7,Energy planning,"Energy planning"
+SDG07092,7,Energy intensity,"Energy intensity,"
+SDG07093,7,Nuclear energy policy,"Nuclear energy policy"
+SDG07100,7,Nuclear Energy,"Nuclear power, Potential energy, Nuclear reactor, Nuclear energy policy"
+SDG07101,7,Nuclear power,"Nuclear power"
+SDG07102,7,Potential energy,"Potential energy"
+SDG07103,7,Energy economics,"Energy economics"
 SDG08000,8,SDG 8,"Unemployment, Self-employment, Workforce, Economic Growth, Informal Economy, Globalization, Sustainability, Sustainable tourism, Ecotourism, Financial models, Business model, Innovation, Financial support, Worker Rights, Labor Right, Labour law, Decent Work, Fundamental rights, Dignity of labour, Inclusive Development Index, Inclusive growth, Sustainable development, Resource efficiency, Resource intensity, Sustainability measurement, Youth Unemployment, Unemployment, Capacity building, Corporate Social Responsibility, Conscious business, Corporate governance, Sustainable Development Goal 8",,
 SDG08010,8,Unemployment,"Unemployment, Self-employment, Workforce,Unemployment benefits,Technological unemployment","Self-employment, Unemployment benefits,Technological unemployment","Self-employment, Unemployment benefits,Technological unemployment"
 SDG08011,8,

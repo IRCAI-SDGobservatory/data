@@ -369,128 +369,128 @@ SDG09101,9,Artificial Intelligence,"Artificial Intelligence"
 SDG09102,9,Digital transformation,"Digital transformation"
 SDG09103,9,Discovery-driven planning,"Discovery-driven planning"
 SDG10000,10,SDG 10,"Inclusive growth, Smart growth, Social exclusion, Discrimination, Antisemitism, Anti-Catholicism, Anti-Arabism, Income distribution, Economic inequality, Distribution of wealth, Social mobility, Social stigma, Spatial inequality, Social equity, Social justice, Social privilege, Migrant, Refugee, Diaspora, Asylum seeker, Disability, Assistive technology, Parents with disabilities, Global citizenship, Transnationality, Transnationalism, Globalization, Fair trade, Fairtrade International, Alter-globalization, Social inequality, Gini coefficient, Distribution of wealth, Sustainable Development Goal 10"
-SDG10010,10,Social exclusion,"Inclusive growth, Smart growth, Social exclusion","Inclusive growth, Smart growth, Social alienation","Inclusive growth, Smart growth, Social alienation"
-SDG10011,10,
-SDG10012,10,
-SDG10013,10,
-SDG10020,10,Discrimination,"Discrimination, Antisemitism, Anti-Catholicism, Anti-Arabism","Antisemitism, Anti-Catholicism, Anti-Arabism","Antisemitism, Anti-Catholicism, Anti-Arabism"
-SDG10021,10,
-SDG10022,10,
-SDG10023,10,
-SDG10030,10,Income Inequality,"Income distribution, Economic inequality, Distribution of wealth","Economic security,Economic inequality, wealth Distribution","Economic security,Economic inequality, wealth Distribution"
-SDG10031,10,
-SDG10032,10,
-SDG10033,10,
-SDG10040,10,Social stigma,"Stereotype, Social stigma, Spatial inequality,Attribution bias", "Stereotype, Attribution bias, Epistemic injustice","Stereotype,Attribution bias, Epistemic injustice"
-SDG10041,10,
-SDG10042,10,
-SDG10043,10,
-SDG10050,10,Equitable Opportunities,"Social equity, Social justice, Social privilege","Social equity, Social justice, Social privilege","Social equity, Social justice, Social privilege"
-SDG10051,10,
-SDG10052,10,
-SDG10053,10,
-SDG10060,10,Migrants and Refugees,"Migrant, Refugee, Diaspora, Asylum seeker","Refugees, Diaspora, Asylum seeker","Refugee, Diaspora, Asylum seeker"
-SDG10061,10,
-SDG10062,10,
-SDG10063,10,
-SDG10070,10,Developmental disability,"Disability, Assistive technology, Parents with disabilities, Developmental disability","Disability welfare, Assistive technology, Parents with disabilities","Disability welfare, Assistive technology, Parents with disabilities"
-SDG10071,10,
-SDG10072,10,
-SDG10073,10,
+SDG10010,10,Social exclusion,"Inclusive growth, Smart growth, Social exclusion"
+SDG10011,10,Inclusive growth,"Inclusive growth"
+SDG10012,10,Smart growth,"Smart growth"
+SDG10013,10,Social alienation,"Social alienation"
+SDG10020,10,Discrimination,"Discrimination, Antisemitism, Anti-Catholicism, Anti-Arabism"
+SDG10021,10,Antisemitism,"Antisemitism"
+SDG10022,10,Anti-Catholicism,"Anti-Catholicism"
+SDG10023,10,Anti-Arabism,"Anti-Arabism"
+SDG10030,10,Income Inequality,"Income distribution, Economic inequality, Distribution of wealth"
+SDG10031,10,Economic security,"Economic security"
+SDG10032,10,Economic inequality,"Economic inequality"
+SDG10033,10,Wealth Distribution,"Distribution of wealth"
+SDG10040,10,Social stigma,"Stereotype, Social stigma, Spatial inequality,Attribution bias"
+SDG10041,10,Stereotype,"Stereotype"
+SDG10042,10,Attribution bias,"Attribution bias"
+SDG10043,10,Epistemic injustice,"Epistemic injustice"
+SDG10050,10,Equitable Opportunities,"Social equity, Social justice, Social privilege"
+SDG10051,10,Social equity,"Social equity"
+SDG10052,10,Social justice,"Social justice"
+SDG10053,10,Social privilege,"Social privilege"
+SDG10060,10,Migrants and Refugees,"Migrant, Refugee, Diaspora, Asylum seeker"
+SDG10061,10,Refugee,"Refugee"  
+SDG10062,10,Diaspora,"Diaspora"
+SDG10063,10,Asylum seeker,"Asylum seeker"
+SDG10070,10,Developmental disability,"Disability, Assistive technology, Parents with disabilities, Developmental disability"
+SDG10071,10,Disability welfare,"Disability welfare" 
+SDG10072,10,Assistive technology,"Assistive technology"
+SDG10073,10,Parents with disabilities,"Parents with disabilities"
 SDG10080,10,Global Citizenship,"Global citizenship, Transnationality, Transnationalism, Globalization","Global justice,Transnationalism, Globalization","Global justice,Transnationalism, Globalization"
-SDG10081,10,
-SDG10082,10,
-SDG10083,10,
-SDG10090,10,Fair Trade,"Fair trade, Fairtrade International, Alter-globalization","Fair trade certification, Ethical consumerism, Alter-globalization","Fair trade certification, Ethical consumerism, Alter-globalization"
-SDG10091,10,
-SDG10092,10,
-SDG10093,10,
-SDG10100,10,Distribution of wealth,"Social inequality, Gini coefficient, Distribution of wealth","Social inequality, Gini coefficient,conomic heterogeneity","Social inequality, Gini coefficient,Heterogeneity in economics"
-SDG10101,10,
-SDG10102,10,
-SDG10103,10,
+SDG10081,10,Global justice,"Global justice"
+SDG10082,10,Transnationalism,"Transnationalism"
+SDG10083,10,Globalization,"Globalization"
+SDG10090,10,Fair Trade,"Fair trade, Fairtrade International, Alter-globalization,Fair trade certification"
+SDG10091,10,Fair trade certification,"Fair trade certification"
+SDG10092,10,Ethical consumerism,"Ethical consumerism"
+SDG10093,10,Alter-globalization,"Alter-globalization"
+SDG10100,10,Distribution of wealth,"Social inequality, Gini coefficient, Distribution of wealth","Social inequality, Gini coefficient,conomic heterogeneity",""
+SDG10101,10,Social inequality,"Social inequality"
+SDG10102,10,Gini coefficient,"Gini coefficient"
+SDG10103,10,Heterogeneity in economics,"Heterogeneity in economics"
 SDG11000,11,SDG 11,"Urbanization, Smart Cities, Urban Planning, Affordable Housing, Household income, Housing affordability index, Sustainable transport, Cyclability, Environmental impact of shipping, Sustainable urban infrastructure, Climate Resilient Infrastructure Development Facility, Critical infrastructure, Green infrastructure, Green belt, Greenway (landscape), Waste management, Biomedical waste, Sanitary engineering, Air pollution, Air quality index, Air Pollution Index, Public Transport, Shared transport, Journey planner, Flood management, Emergency management, Flood risk assessment, Sustainable city, Smart city, Eco-cities, Sustainable Development Goal 11"
-SDG11010,11,Green Urban Planning,"Urbanization, Smart Cities, Urban Planning, Green infrastructure, Green belt, Greenway (landscape)","Green infrastructure, Green belt, Greenway","Green infrastructure, Green belt, Greenway (landscape)"
-SDG11011,11,
-SDG11012,11,
-SDG11013,11,
-SDG11020,11,Affordable Housing,"Affordable Housing, Household income, Housing affordability index","Public housing,Housing inequality,Housing policy","Public housing,Housing inequality,Housing authority"
-SDG11021,11,
-SDG11022,11,
-SDG11023,11,
+SDG11010,11,Green Urban Planning,"Urbanization, Smart Cities, Urban Planning, Green infrastructure, Green belt, Greenway (landscape)"
+SDG11011,11,Green infrastructure,"Green infrastructure"  
+SDG11012,11,Green belt,"Green belt"
+SDG11013,11,Greenway,"Greenway (landscape)"
+SDG11020,11,Affordable Housing,"Affordable Housing, Household income, Housing affordability index"
+SDG11021,11,Public housing,"Public housing"
+SDG11022,11,Housing inequality,"Housing inequality"
+SDG11023,11,Housing authority,"Housing authority"
 SDG11030,11,Sustainable Transport,"Sustainable transport, Cyclability, Environmental impact of shipping, Public Transport, Shared transport, Journey planner","Cyclability, Public Transport, Shared transport","Cyclability, Public Transport, Shared transport"
-SDG11031,11,
-SDG11032,11,
-SDG11033,11,
-SDG11040,11,Resilient Infrastructure,"Sustainable urban infrastructure, Climate Resilient Infrastructure Development Facility, Critical infrastructure","Sustainable urban infrastructure, Climate Resilient Infrastructure, Infrastructure security","Sustainable urban infrastructure, Climate Resilient Infrastructure, Infrastructure security"
-SDG11041,11,
-SDG11042,11,
-SDG11043,11,
-SDG11050,11,Smart Cities,"Smart city, Internet of things, Community-driven development, Community organization","Ecodistrict, Urban informatics, Zero-carbon city","Ecodistrict, Urban informatics, Zero-carbon city"
-SDG11051,11,
-SDG11052,11,
-SDG11053,11,
-SDG11060,11,Waste Management,"Waste management, Biomedical waste, Sanitary engineering","Recycling, Landfarming, Sanitary engineering","Recycling, Landfarming, Sanitary engineering"
-SDG11061,11,
-SDG11062,11,
-SDG11063,11,
-SDG11070,11,Air Quality,"Air pollution, Air quality index, Air Pollution Index","Air pollution, Particulate matter,Emission standard","Air pollution, Particulate matter,Emission standard"
-SDG11071,11,
-SDG11072,11,
-SDG11073,11,
-SDG11080,11,Sustainable Communities,"Sustainable community, Sustainable living, Sustainable Communities Plan, Green affordable housing,Urban resilience,Participatory planning,Environmental gentrification","Urban resilience,Participatory planning,Environmental gentrification","Urban resilience,Participatory planning,Environmental gentrification"
-SDG11081,11,
-SDG11082,11,
-SDG11083,11,
-SDG11090,11,Disaster Preparedness,"Flood management, Emergency management, Flood risk assessment,Early warning system,Disaster response","Early warning system, Emergency management,Disaster response","Early warning system, Emergency management,Disaster response"
-SDG11091,11,
-SDG11092,11,
-SDG11093,11,
-SDG11100,11,Sustainable Cities,"Sustainable city, Smart city, Eco-cities","Sustainable urbanism,Green infrastructure, Walkability","Sustainable urbanism,Green infrastructure, Walkability"
-SDG11101,11,
-SDG11102,11,
-SDG11103,11,
+SDG11031,11,Cyclability,"Cyclability" 
+SDG11032,11,Public Transport,"Public Transport"
+SDG11033,11,Shared transport,"Shared transport"
+SDG11040,11,Resilient Infrastructure,"Sustainable urban infrastructure, Climate Resilient Infrastructure Development Facility, Critical infrastructure"
+SDG11041,11,Sustainable urban infrastructure,"Sustainable urban infrastructure"
+SDG11042,11,Climate Resilient Infrastructure,"Climate Resilient Infrastructure"
+SDG11043,11,Infrastructure security,"Infrastructure security"
+SDG11050,11,Smart Cities,"Smart city, Internet of things, Community-driven development, Community organization"
+SDG11051,11,Ecodistrict,"Ecodistrict" 
+SDG11052,11,Urban informatics,"Urban informatics"
+SDG11053,11,Zero-carbon city,"Zero-carbon city"
+SDG11060,11,Waste Management,"Waste management, Biomedical waste, Sanitary engineering"
+SDG11061,11,Recycling,"Recycling"
+SDG11062,11,Landfarming,"Landfarming"
+SDG11063,11,Sanitary engineering,"Sanitary engineering"
+SDG11070,11,Air Quality,"Air pollution, Air quality index, Air Pollution Index"
+SDG11071,11,Air pollution,"Air pollution"
+SDG11072,11,Particulate matter,"Particulate matter"
+SDG11073,11,Emission standard,"Emission standard"
+SDG11080,11,Sustainable Communities,"Sustainable community, Sustainable living, Sustainable Communities Plan, Green affordable housing,Urban resilience,Participatory planning,Environmental gentrification"
+SDG11081,11,Urban resilience,"Urban resilience"
+SDG11082,11,Participatory planning,"Participatory planning"
+SDG11083,11,Environmental gentrification,"Environmental gentrification"
+SDG11090,11,Disaster Preparedness,"Flood management, Emergency management, Flood risk assessment,Early warning system,Disaster response"
+SDG11091,11,Early warning system,"Early warning system"
+SDG11092,11,Emergency management,"Emergency management"
+SDG11093,11,Disaster response,"Disaster response"
+SDG11100,11,Sustainable Cities,"Sustainable city, Smart city, Eco-cities"
+SDG11101,11,Sustainable urbanism,"Sustainable urbanism"
+SDG11102,11,Green infrastructure,"Green infrastructure,"
+SDG11103,11, Walkability,"Walkability"
 SDG12000,12,SDG 12,"Food loss and waste, Waste minimisation, Recycling, Reuse, Recycling bin, Materials recovery facility, Production Patterns, Responsible Business, Sustainable consumption, Anti-consumerism, Collaborative consumption, Overconsumption (economics), Circular Economy, Circular procurement, Durable good, Sustainable products, Resource efficiency, Ecological efficiency, Efficient energy use, Consumer behaviour, Advertising management, Predictive buying, Supply chain, Logistics, Supply chain management, Supply chain attack, Ecological design, European Ecodesign Directive, Eco-innovation, Environmental design, Environmental impact assessment, Environmental issues, Strategic environmental assessment, Sustainable Development Goal 12"
-SDG12010,12,Waste Reduction,"Food loss and waste, Waste minimisation,Source reduction,Zero waste","Precycling,Source reduction,Zero waste","Precycling,Source reduction,Zero waste"
-
-
-
-SDG12020,12,Recycling,"Recycling, Reuse, Recycling bin, Materials recovery facility,E-waste recycling,Appliance recycling","E-waste recycling,Appliance recycling,Materials recovery facility","Electronic waste recycling,Appliance recycling,Materials recovery facility"
-
-
-
-SDG12030,12,Sustainable Production,"Production Patterns, Responsible Business","Green manfactoring,Production Patterns, Responsible Business","Green factory,Production Patterns, Responsible Business"
-
-
-
-SDG12040,12,Sustainable Consumption,"Sustainable consumption, Anti-consumerism, Collaborative consumption, Overconsumption (economics)","Anti-consumerism, Collaborative consumption, Overconsumption","Anti-consumerism, Collaborative consumption, Overconsumption (economics)"
-
-
-
-SDG12050,12,Circular Economy,"Circular Economy, Circular procurement, Durable good, Sustainable products","Circular procurement,Sustainable product,Product stewardship","Circular procurement,Sustainable products,Product stewardship"
-
-
-
-SDG12060,12,Resource Efficiency,"Resource efficiency, Ecological efficiency, Efficient energy use,Industrial ecology","Ecological efficiency,Industrial ecology,Environmental design","Ecological efficiency,Industrial ecology,Environmental design"
-
-
-
-SDG12070,12,Consumer Awareness,"Consumer behaviour, Advertising management, Predictive buying","Consumer behaviour, Advertising management, Predictive buying","Consumer behaviour, Advertising management, Predictive buying"
-
-
-
-SDG12080,12,Supply Chains,"Supply chain, Logistics, Supply chain management, Supply chain attack","Supply chain sustainability,Supply chain management, Supply chain attack","Supply chain sustainability,Supply chain management, Supply chain attack"
-
-
-
-SDG12090,12,Eco-friendly Products,"Ecological design, European Ecodesign Directive, Eco-innovation, Environmental design,Ecomodernism","Ecological design,Eco-innovation,Ecomodernism","Ecological design,Eco-innovation,Ecomodernism"
-
-
-
-SDG12100,12,Life cycle assessment,"Environmental impact assessment, Life cycle assessment, Strategic environmental assessment,True cost accounting","End-of-life product,True cost accounting, Strategic environmental assessment","End-of-life product,True cost accounting, Strategic environmental assessment"
-
-
-
+SDG12010,12,Waste Reduction,"Food loss and waste, Waste minimisation,Source reduction,Zero waste"
+SDG12011,12,Precycling,"Precycling"
+SDG12012,12,Source reduction,"Source reduction,"
+SDG12013,12,Zero waste,"Zero waste"
+SDG12020,12,Recycling,"Recycling, Reuse, Recycling bin, Materials recovery facility,E-waste recycling,Appliance recycling"
+SDG12021,12,Electronic waste recycling,"Electronic waste recycling"
+SDG12022,12,Appliance recycling,"Appliance recycling"
+SDG12023,12,Materials recovery facility,"Materials recovery facility"
+SDG12030,12,Sustainable Production,"Production Patterns, Responsible Business"
+SDG12031,12,Green factory,"Green factory"
+SDG12032,12,Production Patterns,"Production Patterns"
+SDG12033,12,Responsible Business,"Responsible Business"
+SDG12040,12,Sustainable Consumption,"Sustainable consumption, Anti-consumerism, Collaborative consumption, Overconsumption (economics)"
+SDG12041,12,Anti-consumerism,"Anti-consumerism" 
+SDG12042,12,Collaborative consumption,"Collaborative consumption"
+SDG12043,12,Overconsumption,"Overconsumption (economics)"
+SDG12050,12,Circular Economy,"Circular Economy, Circular procurement, Durable good, Sustainable products"
+SDG12051,12,Circular procurement,"Circular procurement"
+SDG12052,12,Sustainable products,"Sustainable products"
+SDG12053,12,Product stewardship,"Product stewardship"
+SDG12060,12,Resource Efficiency,"Resource efficiency, Ecological efficiency, Efficient energy use,Industrial ecology"
+SDG12061,12,Ecological efficiency,"Ecological efficiency"
+SDG12062,12,Industrial ecology,"Industrial ecology"
+SDG12063,12,Environmental design,"Environmental design"
+SDG12070,12,Consumer Awareness,"Consumer behaviour, Advertising management, Predictive buying"
+SDG12071,12,Consumer behaviour,"Consumer behaviour"
+SDG12072,12,Advertising management,"Advertising management"
+SDG12073,12,Predictive buying,"Predictive buying"
+SDG12080,12,Supply Chains,"Supply chain, Logistics, Supply chain management, Supply chain attack"
+SDG12081,12,Supply chain sustainability, "Supply chain sustainability"
+SDG12082,12,Supply chain management,"Supply chain management"
+SDG12083,12,Supply chain attack,"Supply chain attack"
+SDG12090,12,Eco-friendly Products,"Ecological design, European Ecodesign Directive, Eco-innovation, Environmental design,Ecomodernism"
+SDG12091,12,Ecological design,"Ecological design"
+SDG12092,12,Eco-innovation,"Eco-innovation"
+SDG12093,12,Ecomodernism,"Ecomodernism"
+SDG12100,12,Life cycle assessment,"Environmental impact assessment, Life cycle assessment, Strategic environmental assessment,True cost accounting"
+SDG12101,12,End-of-life product,"End-of-life product"
+SDG12102,12,True cost accounting,"True cost accounting"
+SDG12103,12,Strategic environmental assessment,"Strategic environmental assessment"
 SDG13000,13,SDG 13,"Climate Change, Climate variability and change, United Nations Framework Convention on Climate Change, Carbon Footprint, Greenhouse gas emissions, Carbon dioxide in Earth's atmosphere, Climate justice, Environmental justice, Environmental degradation, Climate change adaptation, Effects of climate change, Environmental issues, Renewable Energy, Climate change mitigation, Climate resilience, Environmental protection, Ecological resilience, Global warming, Global surface temperature, Temperature anomaly, Climate risk, Effects of climate change, Climate crisis, Climate movement, Climate action, European Green Deal, Paris Agreement, Conference of the parties, Drought,  Disaster risk reduction, Flood, Extreme weather, Sustainable Development Goal 13",,SDG13010,13,Climate Change,"Climate Change, Climate variability and change, United Nations Framework Convention on Climate Change,Polar amplification","Global warming,Weather extremes,Polar amplification","Climate Change,Extreme weather,Polar amplification"
 SDG13011,13,Climate Change,"Climate Change"
 SDG13012,13,Extreme weather,"Extreme weather"
@@ -532,87 +532,87 @@ SDG13101,13,Emergency communication system,"Emergency communication system"
 SDG13102,13,Emergency Alert System,"Emergency Alert System"
 SDG13103,13,Emergency Broadcast System,"Emergency Broadcast System"
 SDG14000,14,SDG 14,"Marine Life, Freshwater ecosystem, Marine ecosystem, Oceans, Marine conservation, Marine resources, Fishery, Aquaculture, Overfishing, Marine pollution, Invasive species, Plasticosis, Marine Biodiversity, Ocean AND Biodiversity, Marine habitat, Sustainable fishery, Population dynamics of fisheries, Sustainable yield in fisheries, Ocean acidification, Marine biogenic calcification, Estuarine acidification, Coral reef, Coral, Deep-water coral, Sponge reef, Marine resources, Marine energy, Human impact on marine life, Effects of climate change on oceans, Marine coastal ecosystem, Coastal management, Coastal erosion, Sustainable Development Goal 14"
-SDG14010,14,Marine Ecosystems,"Marine Life, Freshwater ecosystem, Marine ecosystem","Marine Life, Freshwater ecosystem,Marine habitat","Marine Life, Freshwater ecosystem,Marine habitat"
-
-
-
-SDG14020,14,Ocean Conservation,"Oceans, Marine conservation, Marine resources,Marine protected area","Marine Legislation,Marine protected area, Marine resources","Law of the sea,Marine protected area, Marine resources"
-
-
-
-SDG14030,14,Fisheries,"Fishery, Aquaculture, Overfishing","Fishery,Aquaculture, Overfishing","Fishery,Aquaculture, Overfishing"
-
-
-
-SDG14040,14,Marine Pollution,"Marine pollution, Invasive species, Plasticosis,Oil spill","Oil spill,Invasive species, Plasticosis","Oil spill,Invasive species, Plasticosis"
-
-
-
-SDG14050,14,Marine Biodiversity,"Marine Biodiversity, Ocean AND Biodiversity, Marine habitat","Marine food web,Kelp forest,Marine sediment","Marine food web,Kelp forest,Marine sediment"
-
-
-
-SDG14060,14,Sustainable Fishing,"Sustainable fishery, Population dynamics of fisheries, Sustainable yield in fisheries","Bycatch reduction,Population dynamics, Marine stewardship","Bycatch,Population dynamics of fisheries,Marine stewardship Council"
-
-
-
-SDG14070,14,Ocean Acidification,"Ocean acidification, Marine biogenic calcification, Estuarine acidification","Ocean deoxygenation,Estuarine acidification,Marine biogenic calcification","Ocean deoxygenation,Estuarine acidification,Marine biogenic calcification"
-
-
-
-SDG14080,14,Coral Reefs,"Coral reef, Coral, Deep-water coral, Sponge reef","Coral reef conservation,Coral bleaching,Reef restoration","Coral reef conservation,Coral bleaching,Great Barrier Reef"
-
-
-
-SDG14090,14,Marine Resources,"Marine resources, Marine energy, Human impact on marine life, Effects of climate change on oceans","Marine energy, Human impact, Effects of climate change","Marine energy, Human impact on marine life, Effects of climate change on oceans"
-
-
-
+SDG14010,14,Marine Ecosystems,"Marine Life, Freshwater ecosystem, Marine ecosystem"
+SDG14011,14,Marine Life,"Marine Life" 
+SDG14012,14,Freshwater ecosystem,"Freshwater ecosystem"
+SDG14013,14,Marine habitat,"Marine habitat"
+SDG14020,14,Ocean Conservation,"Oceans, Marine conservation, Marine resources,Marine protected area"
+SDG14021,14,Law of the sea,"Law of the sea"
+SDG14022,14,Marine protected area,"Marine protected area"
+SDG14023,14,Marine resources,"Marine resources"
+SDG14030,14,Fisheries,"Fishery, Aquaculture, Overfishing"
+SDG14031,14,Fishery,"Fishery"
+SDG14032,14,Aquaculture,"Aquaculture"
+SDG14033,14,Overfishing,"Overfishing"
+SDG14040,14,Marine Pollution,"Marine pollution, Invasive species, Plasticosis,Oil spill"
+SDG14041,14,Oil spill,"Oil spill"
+SDG14042,14,Invasive species,"Invasive species"
+SDG14043,14,Plasticosis,"Plasticosis"
+SDG14050,14,Marine Biodiversity,"Marine Biodiversity, Ocean AND Biodiversity, Marine habitat"
+SDG14051,14,Marine food web,"Marine food web"
+SDG14052,14,Kelp forest,"Kelp forest,"
+SDG14053,14,Marine sediment,"Marine sediment"
+SDG14060,14,Sustainable Fishing,"Sustainable fishery, Population dynamics of fisheries, Sustainable yield in fisheries"
+SDG14061,14,Bycatch,"Bycatch"
+SDG14062,14,Population dynamics of fisheries,"Population dynamics of fisheries,"
+SDG14063,14,Marine stewardship,"Marine stewardship Council"
+SDG14070,14,Ocean Acidification,"Ocean acidification, Marine biogenic calcification, Estuarine acidification"
+SDG14071,14,Ocean deoxygenation,"Ocean deoxygenation"
+SDG14072,14,Estuarine acidification,"Estuarine acidification"
+SDG14073,14,Marine biogenic calcification,"Marine biogenic calcification"
+SDG14080,14,Coral Reefs,"Coral reef, Coral, Deep-water coral, Sponge reef"
+SDG14081,14,Coral reef conservation,"Coral reef conservation"
+SDG14082,14,Coral bleaching,"Coral bleaching"
+SDG14083,14,Great Barrier Reef,"Great Barrier Reef"
+SDG14090,14,Marine Resources,"Marine resources, Marine energy, Human impact on marine life, Effects of climate change on oceans"
+SDG14091,14,Marine energy,"Marine energy"  
+SDG14092,14,Human impact on marine life,"Human impact on marine life"
+SDG14093,14,Effects of climate change on oceans,"Effects of climate change on oceans"
 SDG14100,14,Coastal Protection,"Marine coastal ecosystem, Coastal management, Coastal erosion","Marine coastal ecosystem, Coastal management, Coastal erosion","Marine coastal ecosystem, Coastal management, Coastal erosion"
-
-
-
+SDG14101,14,Marine coastal ecosystem,"Marine coastal ecosystem"
+SDG14102,14,Coastal management,"Coastal management"
+SDG14103,14,Coastal erosion,"Coastal erosion"
 SDG15000,15,SDG 15,"Deforestation, Clearcutting, Defaunation, Biodiversity, Life, Ecosystem diversity, Land Degradation, Land management, Surface runoff, Forest management, Reforestation, Forest, Ecological restoration, Ecosystem service, Carbon sequestration, Wildlife conservation, Wildlife, Habitat destruction, Desertification, Land degradation, Biodiversity loss, Protected Areas, Nature reserve, Nature conservation, Sustainable Forestry, Forestry, Woodland, Soil health, Soil resilience, Soil fertility, Sustainable Development Goal 15"
-SDG15010,15,Deforestation,"Deforestation, Clearcutting, Defaunation","Forest transitionClearcutting, Defaunation","Forest transitionClearcutting, Defaunation"
-
-
-
-SDG15020,15,Biodiversity conservation,"Biodiversity, Life, Ecosystem diversity","Endangered species,Protected area,Ecosystem diversity","Endangered species,Protected area,Ecosystem diversity"
-
-
-
-SDG15030,15,Land Degradation,"Land Degradation, Land management, Surface runoff","Land reclamation,Land management, Surface runoff","Land reclamation,Land management, Surface runoff"
-
-
-
-SDG15040,15,Reforestation,"Forest management, Reforestation, Forest","Forest restoration,Forest management,Revegetation","Forest restoration,Forest management,Revegetation"
-
-
-
-SDG15050,15,Ecosystem Restoration,"Ecological restoration, Ecosystem service, Carbon sequestration","Habitat restoration,Ecosystem service, Carbon sequestration","Habitat restoration,Ecosystem service, Carbon sequestration"
-
-
-
-SDG15060,15,Wildlife Conservation,"Wildlife conservation, Wildlife, Habitat destruction","Poaching, Wildlife corridor, Habitat destruction","Poaching, Wildlife corridor, Habitat destruction"
-
-
-
-SDG15070,15,Desertification,"Desertification, Land degradation, Biodiversity loss","Aridification,Land degradation, Biodiversity loss","Aridification,Land degradation, Biodiversity loss"
-
-
-
-SDG15080,15,Protected Areas,"Protected Areas, Nature reserve, Nature conservation, Forest reserve","Nature reserve, Nature conservation, Forest reserve","Nature reserve, Nature conservation, Forest reserve"
-
-
-
-SDG15090,15,Sustainable Forestry,"Sustainable Forestry, Forestry, Woodland","Forest management,Forest certification,Agroforestry","Forest management,Certified wood,Agroforestry"
-
-
-
-SDG15100,15,Soil Sustainability,"Soil health, Soil resilience, Soil fertility","Soil health, Soil resilience, Soil fertility","Soil health, Soil resilience, Soil fertility"
-
-
-
+SDG15010,15,Deforestation,"Deforestation, Clearcutting, Defaunation"
+SDG15011,15,Forest transition,"Forest transition"
+SDG15012,15,Clearcutting,"Clearcutting"
+SDG15013,15,Defaunation,"Defaunation"
+SDG15020,15,Biodiversity conservation,"Biodiversity, Life, Ecosystem diversity"
+SDG15021,15,Endangered species,"Endangered species"
+SDG15022,15,Protected area,"Protected area"
+SDG15023,15,Ecosystem diversity,"Ecosystem diversity"
+SDG15030,15,Land Degradation,"Land Degradation, Land management, Surface runoff"
+SDG15031,15,Land reclamation,"Land reclamation"
+SDG15032,15,Land management,"Land management"
+SDG15033,15,Surface runoff,"Surface runoff"
+SDG15040,15,Reforestation,"Forest management, Reforestation, Forest"
+SDG15041,15,Forest restoration,"Forest restoration"
+SDG15042,15,Forest management,"Forest management"
+SDG15043,15,Revegetation,"Revegetation"
+SDG15050,15,Ecosystem Restoration,"Ecological restoration, Ecosystem service, Carbon sequestration"
+SDG15051,15,Habitat restoration,"Habitat restoration"
+SDG15052,15,Ecosystem service,"Ecosystem service, "
+SDG15053,15,Carbon sequestration,"Carbon sequestration"
+SDG15060,15,Wildlife Conservation,"Wildlife conservation, Wildlife, Habitat destruction"
+SDG15061,15,Poaching,"Poaching"
+SDG15062,15,Wildlife corridor,"Wildlife corridor"
+SDG15063,15,Habitat destruction,"Habitat destruction"
+SDG15070,15,Desertification,"Desertification, Land degradation, Biodiversity loss"
+SDG15071,15,Aridification,"Aridification"
+SDG15072,15,Land degradation,"Land degradation"
+SDG15073,15,Biodiversity loss,"Biodiversity loss"
+SDG15080,15,Protected Areas,"Protected Areas, Nature reserve, Nature conservation, Forest reserve"
+SDG15081,15,Nature reserve,"Nature reserve"
+SDG15082,15,Nature conservation,"Nature conservation"
+SDG15083,15,Forest reserve,"Forest reserve"
+SDG15090,15,Sustainable Forestry,"Sustainable Forestry, Forestry, Woodland"
+SDG15091,15,Forest management,"Forest management"
+SDG15092,15,Certified wood,"Certified wood"
+SDG15093,15,Agroforestry,"Agroforestry"
+SDG15100,15,Soil Sustainability,"Soil health, Soil resilience, Soil fertility"
+SDG15101,15,Soil health,"Soil health" 
+SDG15102,15,Soil resilience,"Soil resilience"
+SDG15103,15,Soil fertility,"Soil fertility"
 SDG16000,16,SDG 16,"Rule of Law, Legal certainty, Public interest law, Human Rights, Right to life, Freedom of speech, Right to education, Justice, Court, Social contract, Transparency (behavior), Openness, Open standard, Anti-Corruption, Regulatory compliance, Professional ethics, Bribery, Strong AND Institution, Cultural reproduction, Value (ethics), Accountability, Legal liability, Strict liability, Peace, Conflict Resolution, Freedom, Liberty, Autonomy, Social exclusion, Ostracism, Social rejection, Social vulnerability, Sustainable Development Goal 16"
 SDG16010,16,Rule of Law,"Rule of Law, Legal certainty, Public interest law"
 SDG16011,16,Legal certainty,"Legal certainty"

@@ -81,7 +81,7 @@ SDG02100,2,Resilient Agriculture,"Genetically Modified Food, Climate-smart agric
 SDG02101,2,Genetically Modified Food,"Genetically Modified Food"
 SDG02102,2,Climate-smart agriculture,"Climate-smart agriculture"
 SDG02103,2,Biofortification,"Biofortification"
-SDG03000,3,SDG 3,"Biomedical sciences, Rare disease, Orphan drugs, Orphanet, 9q34.3 deletion syndrome, Angelman syndrome, Dravet syndrome, Cornelia de Lange syndrome, Fragile X syndrome, Rett syndrome, Kabuki syndrome, Prader–Willi syndrome, Epidemiology, AIDS, Infection, Infectious diseases (medical specialty), COVID-19, Ebola, Influenza, Hepatitis, Mpox, Tuberculosis, Diabetes, Asthma, Arthritis, Cardiovascular disease, Osteoporosis, Cancer, Alzheimer's disease , Non-communicable Diseases, Maternal health, preconception, pregnancy, childbirth, Reproductive health, Complications of pregnancy, Vaccination, Vaccination policy, Vaccination schedule, MEDLINE, Health system, Health care, Health equity, Health human resources, Health insurance, Primary care, Universal Healthcare, Access to Medicine, Cancer, Cancer screening, Cancer treatment, Epidemiology of cancer, Oncology, Cancer research, Mental health, Mental disorder, Mental environment, Emotional resilience, Social stigma, Public health, Air contamination, Air pollution, Global Health Initiatives, Tropical disease, Tropical medicine, Lassa fever, Marburg virus, Dengue fever, Malaria, Sustainable Development Goal 3",,
+SDG03000,3,SDG 3,"Biomedical sciences, Rare disease, Orphan drugs, Orphanet, 9q34.3 deletion syndrome, Angelman syndrome, Dravet syndrome, Cornelia de Lange syndrome, Fragile X syndrome, Rett syndrome, Kabuki syndrome, Prader–Willi syndrome, Epidemiology, AIDS, Infection, Infectious diseases (medical specialty), COVID-19, Ebola, Influenza, Hepatitis, Mpox, Tuberculosis, Diabetes, Asthma, Arthritis, Cardiovascular disease, Osteoporosis, Cancer, Alzheimer's disease , Non-communicable Diseases, Maternal health, preconception, pregnancy, childbirth, Reproductive health, Complications of pregnancy, Vaccination, Vaccination policy, Vaccination schedule, MEDLINE, Health system, Health care, Health equity, Health human resources, Health insurance, Primary care, Universal Healthcare, Access to Medicine, Cancer, Cancer screening, Cancer treatment, Epidemiology of cancer, Oncology, Cancer research, Mental health, Mental disorder, Mental environment, Emotional resilience, Social stigma, Public health, Air contamination, Air pollution, Global Health Initiatives, Tropical disease, Tropical medicine, Lassa fever, Marburg virus, Dengue fever, Malaria, Sustainable Development Goal 3"
 SDG03010,3,Rare Diseases,"Biomedical sciences, Rare disease, Orphan drugs, Orphanet, 9q34.3 deletion syndrome, Angelman syndrome, Dravet syndrome, Cornelia de Lange syndrome, Fragile X syndrome, Rett syndrome, Kabuki syndrome, Prader–Willi syndrome"
 SDG03011,3,Kleefstra,"9q34.3 deletion syndrome"
 SDG03012,3,Angelman,"Angelman syndrome"
@@ -122,7 +122,7 @@ SDG03100,3,Tropical Disease,"Tropical disease, Tropical medicine, Lassa fever, M
 SDG03101,3,Lassa, "Lassa fever"
 SDG03102,3,Dengue,"Dengue fever"
 SDG03103,3,Malaria,"Malaria"
-SDG04000,4,SDG 4,"Continuing education, adult education, Community education, Lifelong learning, Part-time student, Professional learning community, Education policy, Early Childhood Education Act, Education AND Legislation, Board of education, Universal Primary Education, Quality Education, Gender Equality in Education, Youth empowerment, Digital literacy, Data literacy, Education AND Accessibility, Education AND Equity, Education AND Inclusion, Education AND Immigrants, Education AND Migrants, Education AND Open file format, Equal Education, Student financial aid, Early Childhood Development, Teacher education, European Teacher Education Network, Teaching method, Vocational Training, Educational technology, Education AND Innovation, Nonformal learning, Open education, Open educational resources, Free education, Education AND Open access, Nonformal learning, Global Citizenship, functional literacy, Professional development, Capacity building, Coursework, Competency building, Special Education, Disability studies, Early childhood intervention, special needs, learning disabilities, Sustainable Development Goal 4",,
+SDG04000,4,SDG 4,"Continuing education, adult education, Community education, Lifelong learning, Part-time student, Professional learning community, Education policy, Early Childhood Education Act, Education AND Legislation, Board of education, Universal Primary Education, Quality Education, Gender Equality in Education, Youth empowerment, Digital literacy, Data literacy, Education AND Accessibility, Education AND Equity, Education AND Inclusion, Education AND Immigrants, Education AND Migrants, Education AND Open file format, Equal Education, Student financial aid, Early Childhood Development, Teacher education, European Teacher Education Network, Teaching method, Vocational Training, Educational technology, Education AND Innovation, Nonformal learning, Open education, Open educational resources, Free education, Education AND Open access, Nonformal learning, Global Citizenship, functional literacy, Professional development, Capacity building, Coursework, Competency building, Special Education, Disability studies, Early childhood intervention, special needs, learning disabilities, Sustainable Development Goal 4"
 SDG04010,4,Lifelong Learning,"Continuing education, adult education, Community education, Lifelong learning, Part-time student, Professional learning community,Continuing education, Adult education, Community education"
 SDG04011,4,Continuing education,"Continuing education"
 SDG04012,4,Adult education,"Adult education"
@@ -163,7 +163,7 @@ SDG04100,4,Special Education,"Special Education, Disability studies, Early child
 SDG04101,4,Early childhood intervention,"Early childhood intervention"
 SDG04102,4,special needs,"special needs"
 SDG04103,4,learning disabilities,"learning disabilities"
-SDG05000,5,SDG 5,"Women's empowerment, Feminism, Gender Equality, Equal opportunity, Gender and education, Gender parity, Gender parity index, Gender inequality, Gender Mainstreaming, Gender-related violence, Sexual violence, Domestic Violence, Child marriage, Forced marriage, Human rights, Women's rights, Sexual Abuse, Sex Offense, Social inequality, Equal opportunity, Equal pay for equal work, Equal Pay, Disadvantaged, Discrimination, Discrimination based on skin tone, Discrimination against atheists, Sexual minority, Minority group, Minority influence, Social vulnerability, Social stratification, Transgender, Transgender inequality, LGBTQ, Lesbian, Gay, Sustainable Development Goal 5",,
+SDG05000,5,SDG 5,"Women's empowerment, Feminism, Gender Equality, Equal opportunity, Gender and education, Gender parity, Gender parity index, Gender inequality, Gender Mainstreaming, Gender-related violence, Sexual violence, Domestic Violence, Child marriage, Forced marriage, Human rights, Women's rights, Sexual Abuse, Sex Offense, Social inequality, Equal opportunity, Equal pay for equal work, Equal Pay, Disadvantaged, Discrimination, Discrimination based on skin tone, Discrimination against atheists, Sexual minority, Minority group, Minority influence, Social vulnerability, Social stratification, Transgender, Transgender inequality, LGBTQ, Lesbian, Gay, Sustainable Development Goal 5"
 SDG05010,5,Gender empowerment,"Gender empowerment,Women's empowerment, Feminism, Gender Equality"
 SDG05011,5,Women's empowerment,"Women's empowerment"
 SDG05012,5,Feminism,"Feminism"
@@ -204,7 +204,7 @@ SDG05100,5,Representation,"Transgender, Transgender inequality, LGBTQ, Lesbian, 
 SDG05101,5,Transgender,"Transgender"
 SDG05102,5,Lesbian,"Lesbian"
 SDG05103,5,Gay,"Gay"
-SDG06000,6,SDG 6,"Water supply, Water-use efficiency, Groundwater, Sanitation, Water AND Hygiene, Water Sanitation, Waterborne disease, Escherichia coli, Salmonella enterica, Polyomavirus infection, Desmodesmus, Reclaimed water, Desalination, Wastewater treatment, Drinking water, Drinking water quality standards, Safe Drinking Water, Drought, Water scarcity,  Water security, Water storage, Water resources, Water Resource Management, Integrated Water Resources Management, Water quality, Water quality law, Water quality modelling, Water rights, Water politics, Water Regulations Advisory Scheme, Water Pollution, Water AND Contamination, Aquatic toxicology, Sustainable Development Goal 6",,
+SDG06000,6,SDG 6,"Water supply, Water-use efficiency, Groundwater, Sanitation, Water AND Hygiene, Water Sanitation, Waterborne disease, Escherichia coli, Salmonella enterica, Polyomavirus infection, Desmodesmus, Reclaimed water, Desalination, Wastewater treatment, Drinking water, Drinking water quality standards, Safe Drinking Water, Drought, Water scarcity,  Water security, Water storage, Water resources, Water Resource Management, Integrated Water Resources Management, Water quality, Water quality law, Water quality modelling, Water rights, Water politics, Water Regulations Advisory Scheme, Water Pollution, Water AND Contamination, Aquatic toxicology, Sustainable Development Goal 6"
 SDG06010,6,Water Access,"Water supply, Water-use efficiency, Groundwater"
 SDG06011,6,Water supply,"Water supply"
 SDG06012,6,Water-use efficiency,"Water-use efficiency"
@@ -245,7 +245,7 @@ SDG06100,6,Water Pollution,"Water Pollution, Water AND Contamination, Aquatic to
 SDG06101,6,Turbidity,"Turbidity"
 SDG06102,6,Salinity,"Salinity"
 SDG06103,6,Pesticide,"Pesticide AND Water"
-SDG07000,7,SDG 7,"Renewable energy, Solar power, Wind energy, Energy poverty, Energy for All, SolarAid, Sustainable Energy for All, Household energy insecurity, Sustainable energy, Energy poverty and cooking, Clean Energy Regulator, Energy efficiency, Energy efficiency implementation, Energy efficiency gap, Energy conservation, Energy storage, Electric potential energy, Thermal energy storage, Energy recycling, Energy recovery, Waste-to-energy, Waste heat, Sustainable energy, Carbon capture and storage, Energy transition, Energy development, Energy demand management, Electric energy consumption, World energy resources, World energy supply and consumption, Nuclear power, Potential energy, Nuclear reactor, Sustainable Development Goal 7",,
+SDG07000,7,SDG 7,"Renewable energy, Solar power, Wind energy, Energy poverty, Energy for All, SolarAid, Sustainable Energy for All, Household energy insecurity, Sustainable energy, Energy poverty and cooking, Clean Energy Regulator, Energy efficiency, Energy efficiency implementation, Energy efficiency gap, Energy conservation, Energy storage, Electric potential energy, Thermal energy storage, Energy recycling, Energy recovery, Waste-to-energy, Waste heat, Sustainable energy, Carbon capture and storage, Energy transition, Energy development, Energy demand management, Electric energy consumption, World energy resources, World energy supply and consumption, Nuclear power, Potential energy, Nuclear reactor, Sustainable Development Goal 7"
 SDG07010,7,Renewable Energy,"Renewable energy, Solar power, Wind energy"
 SDG07011,7,Solar power,"Solar power" 
 SDG07012,7,Wind energy,"Wind energy" 
@@ -286,48 +286,48 @@ SDG07100,7,Nuclear Energy,"Nuclear power, Potential energy, Nuclear reactor, Nuc
 SDG07101,7,Nuclear power,"Nuclear power"
 SDG07102,7,Potential energy,"Potential energy"
 SDG07103,7,Energy economics,"Energy economics"
-SDG08000,8,SDG 8,"Unemployment, Self-employment, Workforce, Economic Growth, Informal Economy, Globalization, Sustainability, Sustainable tourism, Ecotourism, Financial models, Business model, Innovation, Financial support, Worker Rights, Labor Right, Labour law, Decent Work, Fundamental rights, Dignity of labour, Inclusive Development Index, Inclusive growth, Sustainable development, Resource efficiency, Resource intensity, Sustainability measurement, Youth Unemployment, Unemployment, Capacity building, Corporate Social Responsibility, Conscious business, Corporate governance, Sustainable Development Goal 8",,
-SDG08010,8,Unemployment,"Unemployment, Self-employment, Workforce,Unemployment benefits,Technological unemployment","Self-employment, Unemployment benefits,Technological unemployment","Self-employment, Unemployment benefits,Technological unemployment"
-SDG08011,8,
-SDG08012,8,
-SDG08013,8,
-SDG08020,8,Economic Development,"Economic Growth, Informal Economy, Globalization","Economic Growth, Informal Economy, Globalization","Economic Growth, Informal Economy, Globalization"
-SDG08021,8,
-SDG08022,8,
-SDG08022,8,
-SDG08030,8,Sustainable Tourism,"Sustainability, Sustainable tourism, Ecotourism","Nature-positive Tourism,Responsible Tourism,Ecotourism", "Nature-positive, Leave No Trace,Ecotourism"
-SDG08031,8,
-SDG08032,8,
-SDG08033,8,
-SDG08040,8,Entrepreneurship,"Financial models, Business model, Innovation, Financial support","Financial, Business, Innovation","Financial models, Business model, Innovation"
-SDG08041,8,
-SDG08042,8,
-SDG08043,8,
-SDG08050,8,Labor Rights,"Worker Rights, Labor rights, Labour law,Right to work","Worker Rights, Freedom of association, Labour law","Worker Rights, Freedom of association, Labour law"
-SDG08051,8,
-SDG08052,8,
-SDG08053,8,
-SDG08060,8,Decent Work,"Decent Work, Fundamental rights, Dignity of labour,Decent work","Decent Work, Decent work, Dignity of labour","Decent Work, Decent work, Dignity of labour"
-SDG08061,8,
-SDG08062,8,
-SDG08063,8,
-SDG08070,8,Economic inclusivity,"Inclusive Development Index, Inclusive growth, Sustainable development","Inclusive Development, Inclusive growth, Sustainable development","Inclusive Development Index, Inclusive growth, Sustainable development"
-SDG08071,8,
-SDG08072,8,
-SDG08073,8,
-SDG08080,8,Resource Efficiency,"Resource efficiency, Resource intensity, Sustainability measurement,Resource productivity,Environmental degradation","Resource productivity,Resource intensity,Environmental degradation","Resource productivity,Resource intensity,Environmental degradation"
-SDG08081,8,
-SDG08082,8,
-SDG08083,8,
-SDG08090,8,Youth Employment,"Youth Unemployment, Unemployment, Capacity building,Social entrepreneurship","Capacity building,Social entrepreneurship,Youth intervention","Capacity building,Social entrepreneurship,Youth intervention"
-SDG08091,8,
-SDG08092,8,
-SDG08093,8,
-SDG08100,8,Corporate Social Responsibility,"Corporate Social Responsibility, Conscious business, Corporate governance","Responsible Research and Innovation,Conscious business, Corporate governance","Responsible Research and Innovation,Conscious business, Corporate governance"
-SDG08101,8,
-SDG08102,8,
-SDG08103,8,
-SDG09000,9,SDG 9,"Infrastructure, IT infrastructure, Data center, Business continuity planning, Industrialisation, Manufacturing, Technology life cycle, Research and development, Technology demonstration, Prototype, Innovation, Lean project management, Intellectual property, Sustainable industries, Green infrastructure, Sustainable energy, Cyber Resilience Act, Computer security, Cyber resilience, Software standard, Industrial Policy, Communication protocol, Domino effect accident, Process safety, Transdisciplinarity, Green economy, Ecological economics, Environmental economics, Artificial Intelligence, Digital transformation, Discovery-driven planning, Sustainable Development Goal 9",,
+SDG08000,8,SDG 8,"Unemployment, Self-employment, Workforce, Economic Growth, Informal Economy, Globalization, Sustainability, Sustainable tourism, Ecotourism, Financial models, Business model, Innovation, Financial support, Worker Rights, Labor Right, Labour law, Decent Work, Fundamental rights, Dignity of labour, Inclusive Development Index, Inclusive growth, Sustainable development, Resource efficiency, Resource intensity, Sustainability measurement, Youth Unemployment, Unemployment, Capacity building, Corporate Social Responsibility, Conscious business, Corporate governance, Sustainable Development Goal 8"
+SDG08010,8,Unemployment,"Unemployment, Self-employment, Workforce,Unemployment benefits,Technological unemployment"
+SDG08011,8,Self-employment,"Self-employment"
+SDG08012,8,Unemployment benefits,"Unemployment benefits"
+SDG08013,8,Technological unemployment,"Technological unemployment"
+SDG08020,8,Economic Development,"Economic Growth, Informal Economy, Globalization"
+SDG08021,8,Economic Growth,"Economic Growth"
+SDG08022,8,Informal Economy,"Informal Economy"
+SDG08022,8,Globalization,"Globalization"
+SDG08030,8,Sustainable Tourism,"Sustainability, Sustainable tourism, Ecotourism"
+SDG08031,8,Nature-positive,"Nature-positive" 
+SDG08032,8,Leave No Trace,"Leave No Trace,"
+SDG08033,8,Ecotourism,"Ecotourism"
+SDG08040,8,Entrepreneurship,"Financial models, Business model, Innovation, Financial support","Financial, Business, Innovation",
+SDG08041,8,Financial models,"Financial models"
+SDG08042,8,Business model,"Business model"
+SDG08043,8,Innovation,"Innovation"
+SDG08050,8,Labor Rights,"Worker Rights, Labor rights, Labour law,Right to work"
+SDG08051,8,Worker Rights,"Worker Rights"
+SDG08052,8,Freedom of association,"Freedom of association"
+SDG08053,8,Labour law,"Labour law"
+SDG08060,8,Decent Work,"Decent Work, Fundamental rights, Dignity of labour,Decent work,Happiness at work"
+SDG08061,8,Happiness at work,"Happiness at work" 
+SDG08062,8,Dignity of labour,"Dignity of labour"
+SDG08063,8,Forced labour,"Forced labour"
+SDG08070,8,Economic inclusivity,"Inclusive Development Index, Inclusive growth, Sustainable development"
+SDG08071,8,Inclusive Development,"Inclusive Development Index"  
+SDG08072,8,Inclusive growth,"Inclusive growth"
+SDG08073,8,Sustainable development,"Sustainable development"
+SDG08080,8,Resource Efficiency,"Resource efficiency, Resource intensity, Sustainability measurement,Resource productivity,Environmental degradation"
+SDG08081,8,Resource productivity,"Resource productivity"
+SDG08082,8,Resource intensity,"Resource intensity,"
+SDG08083,8,Environmental degradation,"Environmental degradation"
+SDG08090,8,Youth Employment,"Youth Unemployment, Unemployment, Capacity building,Social entrepreneurship"
+SDG08091,8,Capacity building,"Capacity building"
+SDG08092,8,Social entrepreneurship,"Social entrepreneurship"
+SDG08093,8,Youth intervention,"Youth intervention"
+SDG08100,8,Corporate Social Responsibility,"Corporate Social Responsibility, Conscious business, Corporate governance"
+SDG08101,8,Responsible Research Innovation,"Responsible Research and Innovation"
+SDG08102,8,Conscious business,"Conscious business"
+SDG08103,8,Corporate governance,"Corporate governance"
+SDG09000,9,SDG 9,"Infrastructure, IT infrastructure, Data center, Business continuity planning, Industrialisation, Manufacturing, Technology life cycle, Research and development, Technology demonstration, Prototype, Innovation, Lean project management, Intellectual property, Sustainable industries, Green infrastructure, Sustainable energy, Cyber Resilience Act, Computer security, Cyber resilience, Software standard, Industrial Policy, Communication protocol, Domino effect accident, Process safety, Transdisciplinarity, Green economy, Ecological economics, Environmental economics, Artificial Intelligence, Digital transformation, Discovery-driven planning, Sustainable Development Goal 9"
 SDG09010,9,Infrastructure,"Infrastructure, IT infrastructure, Data center, Business continuity planning,Critical infrastructure","Cloud infrastructure, Data infrastructure, Critical infrastructure","Cloud computing, Data infrastructure, Critical infrastructure"
 SDG09011,9,
 SDG09012,9,
@@ -368,7 +368,7 @@ SDG09100,9,Digital Transformation,"Artificial Intelligence, Digital transformati
 SDG09101,9,
 SDG09102,9,
 SDG09103,9,
-SDG10000,10,SDG 10,"Inclusive growth, Smart growth, Social exclusion, Discrimination, Antisemitism, Anti-Catholicism, Anti-Arabism, Income distribution, Economic inequality, Distribution of wealth, Social mobility, Social stigma, Spatial inequality, Social equity, Social justice, Social privilege, Migrant, Refugee, Diaspora, Asylum seeker, Disability, Assistive technology, Parents with disabilities, Global citizenship, Transnationality, Transnationalism, Globalization, Fair trade, Fairtrade International, Alter-globalization, Social inequality, Gini coefficient, Distribution of wealth, Sustainable Development Goal 10",,
+SDG10000,10,SDG 10,"Inclusive growth, Smart growth, Social exclusion, Discrimination, Antisemitism, Anti-Catholicism, Anti-Arabism, Income distribution, Economic inequality, Distribution of wealth, Social mobility, Social stigma, Spatial inequality, Social equity, Social justice, Social privilege, Migrant, Refugee, Diaspora, Asylum seeker, Disability, Assistive technology, Parents with disabilities, Global citizenship, Transnationality, Transnationalism, Globalization, Fair trade, Fairtrade International, Alter-globalization, Social inequality, Gini coefficient, Distribution of wealth, Sustainable Development Goal 10"
 SDG10010,10,Social exclusion,"Inclusive growth, Smart growth, Social exclusion","Inclusive growth, Smart growth, Social alienation","Inclusive growth, Smart growth, Social alienation"
 SDG10011,10,
 SDG10012,10,
@@ -409,7 +409,7 @@ SDG10100,10,Distribution of wealth,"Social inequality, Gini coefficient, Distrib
 SDG10101,10,
 SDG10102,10,
 SDG10103,10,
-SDG11000,11,SDG 11,"Urbanization, Smart Cities, Urban Planning, Affordable Housing, Household income, Housing affordability index, Sustainable transport, Cyclability, Environmental impact of shipping, Sustainable urban infrastructure, Climate Resilient Infrastructure Development Facility, Critical infrastructure, Green infrastructure, Green belt, Greenway (landscape), Waste management, Biomedical waste, Sanitary engineering, Air pollution, Air quality index, Air Pollution Index, Public Transport, Shared transport, Journey planner, Flood management, Emergency management, Flood risk assessment, Sustainable city, Smart city, Eco-cities, Sustainable Development Goal 11",,
+SDG11000,11,SDG 11,"Urbanization, Smart Cities, Urban Planning, Affordable Housing, Household income, Housing affordability index, Sustainable transport, Cyclability, Environmental impact of shipping, Sustainable urban infrastructure, Climate Resilient Infrastructure Development Facility, Critical infrastructure, Green infrastructure, Green belt, Greenway (landscape), Waste management, Biomedical waste, Sanitary engineering, Air pollution, Air quality index, Air Pollution Index, Public Transport, Shared transport, Journey planner, Flood management, Emergency management, Flood risk assessment, Sustainable city, Smart city, Eco-cities, Sustainable Development Goal 11"
 SDG11010,11,Green Urban Planning,"Urbanization, Smart Cities, Urban Planning, Green infrastructure, Green belt, Greenway (landscape)","Green infrastructure, Green belt, Greenway","Green infrastructure, Green belt, Greenway (landscape)"
 SDG11011,11,
 SDG11012,11,
@@ -450,7 +450,7 @@ SDG11100,11,Sustainable Cities,"Sustainable city, Smart city, Eco-cities","Susta
 SDG11101,11,
 SDG11102,11,
 SDG11103,11,
-SDG12000,12,SDG 12,"Food loss and waste, Waste minimisation, Recycling, Reuse, Recycling bin, Materials recovery facility, Production Patterns, Responsible Business, Sustainable consumption, Anti-consumerism, Collaborative consumption, Overconsumption (economics), Circular Economy, Circular procurement, Durable good, Sustainable products, Resource efficiency, Ecological efficiency, Efficient energy use, Consumer behaviour, Advertising management, Predictive buying, Supply chain, Logistics, Supply chain management, Supply chain attack, Ecological design, European Ecodesign Directive, Eco-innovation, Environmental design, Environmental impact assessment, Environmental issues, Strategic environmental assessment, Sustainable Development Goal 12",,
+SDG12000,12,SDG 12,"Food loss and waste, Waste minimisation, Recycling, Reuse, Recycling bin, Materials recovery facility, Production Patterns, Responsible Business, Sustainable consumption, Anti-consumerism, Collaborative consumption, Overconsumption (economics), Circular Economy, Circular procurement, Durable good, Sustainable products, Resource efficiency, Ecological efficiency, Efficient energy use, Consumer behaviour, Advertising management, Predictive buying, Supply chain, Logistics, Supply chain management, Supply chain attack, Ecological design, European Ecodesign Directive, Eco-innovation, Environmental design, Environmental impact assessment, Environmental issues, Strategic environmental assessment, Sustainable Development Goal 12"
 SDG12010,12,Waste Reduction,"Food loss and waste, Waste minimisation,Source reduction,Zero waste","Precycling,Source reduction,Zero waste","Precycling,Source reduction,Zero waste"
 
 
@@ -531,7 +531,7 @@ SDG13100,13,Natural Emergency,"Emergency management,Drought, Disaster risk reduc
 SDG13101,13,Emergency communication system,"Emergency communication system"
 SDG13102,13,Emergency Alert System,"Emergency Alert System"
 SDG13103,13,Emergency Broadcast System,"Emergency Broadcast System"
-SDG14000,14,SDG 14,"Marine Life, Freshwater ecosystem, Marine ecosystem, Oceans, Marine conservation, Marine resources, Fishery, Aquaculture, Overfishing, Marine pollution, Invasive species, Plasticosis, Marine Biodiversity, Ocean AND Biodiversity, Marine habitat, Sustainable fishery, Population dynamics of fisheries, Sustainable yield in fisheries, Ocean acidification, Marine biogenic calcification, Estuarine acidification, Coral reef, Coral, Deep-water coral, Sponge reef, Marine resources, Marine energy, Human impact on marine life, Effects of climate change on oceans, Marine coastal ecosystem, Coastal management, Coastal erosion, Sustainable Development Goal 14",,
+SDG14000,14,SDG 14,"Marine Life, Freshwater ecosystem, Marine ecosystem, Oceans, Marine conservation, Marine resources, Fishery, Aquaculture, Overfishing, Marine pollution, Invasive species, Plasticosis, Marine Biodiversity, Ocean AND Biodiversity, Marine habitat, Sustainable fishery, Population dynamics of fisheries, Sustainable yield in fisheries, Ocean acidification, Marine biogenic calcification, Estuarine acidification, Coral reef, Coral, Deep-water coral, Sponge reef, Marine resources, Marine energy, Human impact on marine life, Effects of climate change on oceans, Marine coastal ecosystem, Coastal management, Coastal erosion, Sustainable Development Goal 14"
 SDG14010,14,Marine Ecosystems,"Marine Life, Freshwater ecosystem, Marine ecosystem","Marine Life, Freshwater ecosystem,Marine habitat","Marine Life, Freshwater ecosystem,Marine habitat"
 
 
@@ -572,7 +572,7 @@ SDG14100,14,Coastal Protection,"Marine coastal ecosystem, Coastal management, Co
 
 
 
-SDG15000,15,SDG 15,"Deforestation, Clearcutting, Defaunation, Biodiversity, Life, Ecosystem diversity, Land Degradation, Land management, Surface runoff, Forest management, Reforestation, Forest, Ecological restoration, Ecosystem service, Carbon sequestration, Wildlife conservation, Wildlife, Habitat destruction, Desertification, Land degradation, Biodiversity loss, Protected Areas, Nature reserve, Nature conservation, Sustainable Forestry, Forestry, Woodland, Soil health, Soil resilience, Soil fertility, Sustainable Development Goal 15",,
+SDG15000,15,SDG 15,"Deforestation, Clearcutting, Defaunation, Biodiversity, Life, Ecosystem diversity, Land Degradation, Land management, Surface runoff, Forest management, Reforestation, Forest, Ecological restoration, Ecosystem service, Carbon sequestration, Wildlife conservation, Wildlife, Habitat destruction, Desertification, Land degradation, Biodiversity loss, Protected Areas, Nature reserve, Nature conservation, Sustainable Forestry, Forestry, Woodland, Soil health, Soil resilience, Soil fertility, Sustainable Development Goal 15"
 SDG15010,15,Deforestation,"Deforestation, Clearcutting, Defaunation","Forest transitionClearcutting, Defaunation","Forest transitionClearcutting, Defaunation"
 
 
@@ -613,7 +613,7 @@ SDG15100,15,Soil Sustainability,"Soil health, Soil resilience, Soil fertility","
 
 
 
-SDG16000,16,SDG 16,"Rule of Law, Legal certainty, Public interest law, Human Rights, Right to life, Freedom of speech, Right to education, Justice, Court, Social contract, Transparency (behavior), Openness, Open standard, Anti-Corruption, Regulatory compliance, Professional ethics, Bribery, Strong AND Institution, Cultural reproduction, Value (ethics), Accountability, Legal liability, Strict liability, Peace, Conflict Resolution, Freedom, Liberty, Autonomy, Social exclusion, Ostracism, Social rejection, Social vulnerability, Sustainable Development Goal 16",,
+SDG16000,16,SDG 16,"Rule of Law, Legal certainty, Public interest law, Human Rights, Right to life, Freedom of speech, Right to education, Justice, Court, Social contract, Transparency (behavior), Openness, Open standard, Anti-Corruption, Regulatory compliance, Professional ethics, Bribery, Strong AND Institution, Cultural reproduction, Value (ethics), Accountability, Legal liability, Strict liability, Peace, Conflict Resolution, Freedom, Liberty, Autonomy, Social exclusion, Ostracism, Social rejection, Social vulnerability, Sustainable Development Goal 16"
 SDG16010,16,Rule of Law,"Rule of Law, Legal certainty, Public interest law"
 SDG16011,16,Legal certainty,"Legal certainty"
 SDG16012,16,Public interest law,"Public interest law"
@@ -654,7 +654,7 @@ SDG16100,16,Inclusivity,"Social exclusion, Ostracism, Social rejection, Social v
 SDG16101,16,Social exclusion,"Social exclusion"
 SDG16102,16,Social rejection,"Social rejection"
 SDG16103,16,Social vulnerability,"Social vulnerability"
-SDG17000,17,SDG 17,"International cooperation, Translational cooperation, Multilateral agreements, International agreements, Multilingual, Multicultural, Knowledge sharing, Public–private partnership, Strategic partnership, Foreign Aid, Financial assistance (share purchase), Funding of science, Development Cooperation, Capacity Building, Community capacity building,Technology Transfer, Knowledge transfer, Transfer of learning, Stakeholder engagement, Stakeholder engagement software, Stakeholder management, Commercial policy, Common commercial policy, Common Commercial Policy (EU), Free trade agreement, Global Partnerships, International development, International Partnership for Human Rights, Policy coherence for development, Global governance, Resource mobilization, Mass mobilization, Social movement organization, Partnerships for Goals, Multilateralism, Multilateral treaty, Sustainable Development Goal 17",,
+SDG17000,17,SDG 17,"International cooperation, Translational cooperation, Multilateral agreements, International agreements, Multilingual, Multicultural, Knowledge sharing, Public–private partnership, Strategic partnership, Foreign Aid, Financial assistance (share purchase), Funding of science, Development Cooperation, Capacity Building, Community capacity building,Technology Transfer, Knowledge transfer, Transfer of learning, Stakeholder engagement, Stakeholder engagement software, Stakeholder management, Commercial policy, Common commercial policy, Common Commercial Policy (EU), Free trade agreement, Global Partnerships, International development, International Partnership for Human Rights, Policy coherence for development, Global governance, Resource mobilization, Mass mobilization, Social movement organization, Partnerships for Goals, Multilateralism, Multilateral treaty, Sustainable Development Goal 17"
 SDG17010,17,Global Cooperation,"International cooperation, Translational cooperation, Multilateral agreements, International agreements, Multilingual, Multicultural, Knowledge sharing, Public–private partnership, Strategic partnership"
 SDG17011,17,Global governance,"Global governance"
 SDG17012,17,International law,"International law"

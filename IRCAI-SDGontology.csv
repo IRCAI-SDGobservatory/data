@@ -98,7 +98,7 @@ SDG03040,3,Maternal Health,"Maternal health, preconception, pregnancy, childbirt
 SDG03041,3,pregnancy, "pregnancy"
 SDG03042,3,childbirth,"childbirth" 
 SDG03043,3,Complications of pregnancy,"Complications of pregnancy"
-SDG03050,3,Vaccination,"Vaccination, Vaccination policy, Vaccination schedule" ,"Vaccination policy, Vaccination schedule, Vaccine trial","Vaccination policy, Vaccination schedule, Vaccine trial"
+SDG03050,3,Vaccination,"Vaccination, Vaccination policy, Vaccination schedule"
 SDG03051,3,Vaccination policy,"Vaccination policy"
 SDG03052,3,Vaccination schedule,"Vaccination schedule"
 SDG03053,3,Vaccine trial,"Vaccine trial"
@@ -299,7 +299,7 @@ SDG08030,8,Sustainable Tourism,"Sustainability, Sustainable tourism, Ecotourism"
 SDG08031,8,Nature-positive,"Nature-positive" 
 SDG08032,8,Leave No Trace,"Leave No Trace,"
 SDG08033,8,Ecotourism,"Ecotourism"
-SDG08040,8,Entrepreneurship,"Financial models, Business model, Innovation, Financial support","Financial, Business, Innovation",
+SDG08040,8,Entrepreneurship,"Financial models, Business model, Innovation, Financial support","Financial, Business, Innovation"
 SDG08041,8,Financial models,"Financial models"
 SDG08042,8,Business model,"Business model"
 SDG08043,8,Innovation,"Innovation"
@@ -328,46 +328,46 @@ SDG08101,8,Responsible Research Innovation,"Responsible Research and Innovation"
 SDG08102,8,Conscious business,"Conscious business"
 SDG08103,8,Corporate governance,"Corporate governance"
 SDG09000,9,SDG 9,"Infrastructure, IT infrastructure, Data center, Business continuity planning, Industrialisation, Manufacturing, Technology life cycle, Research and development, Technology demonstration, Prototype, Innovation, Lean project management, Intellectual property, Sustainable industries, Green infrastructure, Sustainable energy, Cyber Resilience Act, Computer security, Cyber resilience, Software standard, Industrial Policy, Communication protocol, Domino effect accident, Process safety, Transdisciplinarity, Green economy, Ecological economics, Environmental economics, Artificial Intelligence, Digital transformation, Discovery-driven planning, Sustainable Development Goal 9"
-SDG09010,9,Infrastructure,"Infrastructure, IT infrastructure, Data center, Business continuity planning,Critical infrastructure","Cloud infrastructure, Data infrastructure, Critical infrastructure","Cloud computing, Data infrastructure, Critical infrastructure"
-SDG09011,9,
-SDG09012,9,
-SDG09013,9,
-SDG09020,9,Industrialization,"Industrialisation, Manufacturing, Technology life cycle", "Human-Machine Interaction, Human-Robot Collaboration,Industry 5.0", "Human–computer interaction, Human–robot interaction, Fourth Industrial Revolution"
-SDG09021,9,
-SDG09022,9,
-SDG09023,9,
-SDG09030,9,Research & Development,"Research and development, Technology demonstration, Prototype","Open science,Technology demonstration, Technology transfer","Open science,Technology demonstration, Technology transfer"
-SDG09031,9,
-SDG09032,9,
-SDG09033,9,
-SDG09040,9,Innovation,"Innovation, Lean project management, Intellectual property, Open innovation","Lean development, Intellectual property, Open innovation","Lean software development, Intellectual property, Open innovation"
-SDG09041,9,
-SDG09042,9,
-SDG09043,9,
-SDG09050,9,Sustainable industries,"Sustainable industries, Green infrastructure, Sustainable energy","Environmental impact assessment, Green infrastructure, ESG","Environmental impact assessment, Green infrastructure, Environmental,_social,_and_governance"
-SDG09051,9,
-SDG09052,9,
-SDG09053,9,
-SDG09060,9,Technology Resilience,"Cyber Resilience Act, Computer security, Cyber resilience","Cybercrime,Computer security, Cyber resilience","Cybercrime,Computer security, Cyber resilience"
-SDG09061,9,
-SDG09062,9,
-SDG09063,9,
-SDG09070,9,Industrial Policy,"Software standard, Industrial Policy, Communication protocol","Software standard, Commercial policy, Communication protocol","Software standard, Commercial policy, Communication protocol"
-SDG09071,9,
-SDG09072,9,
-SDG09073,9,
-SDG09080,9,NaTech Accidents,"Domino effect accident, Process safety, Transdisciplinarity","Domino effect accident, Process safety, Disaster risk reduction","Domino effect accident, Process safety, Disaster risk reduction"
-SDG09081,9,
-SDG09082,9,
-SDG09083,9,
-SDG09090,9,Green Economy,"Green economy, Ecological economics, Environmental economics","Sustainability certification,Green accounting, Environmental economics", "Sustainability standards and certification,Green accounting, Environmental economics"
-SDG09091,9,
-SDG09092,9,
-SDG09093,9,
-SDG09100,9,Digital Transformation,"Artificial Intelligence, Digital transformation, Discovery-driven planning","Artificial Intelligence, Digital transformation, Discovery-driven planning","Artificial Intelligence, Digital transformation, Discovery-driven planning"
-SDG09101,9,
-SDG09102,9,
-SDG09103,9,
+SDG09010,9,Infrastructure,"Infrastructure, IT infrastructure, Data center, Business continuity planning,Critical infrastructure"
+SDG09011,9,Cloud computing,"Cloud computing" 
+SDG09012,9,Data infrastructure,"Data infrastructure,"
+SDG09013,9,Critical infrastructure,"Critical infrastructure"
+SDG09020,9,Industrialization,"Industrialisation, Manufacturing, Technology life cycle"
+SDG09021,9,Human–computer interaction,"Human–computer interaction"
+SDG09022,9,Human–robot interaction,"Human–robot interaction, "
+SDG09023,9,Fourth Industrial Revolution,"Fourth Industrial Revolution"
+SDG09030,9,Research & Development,"Research and development, Technology demonstration, Prototype"
+SDG09031,9,Open science,"Open science"
+SDG09032,9,Technology demonstration,"Technology demonstration"
+SDG09033,9,Technology transfer,"Technology transfer"
+SDG09040,9,Innovation,"Innovation, Lean project management, Intellectual property, Open innovation"
+SDG09041,9,Lean Development, "Lean software development" 
+SDG09042,9,Intellectual property,"Intellectual property"
+SDG09043,9,Open innovation,"Open innovation"
+SDG09050,9,Sustainable industries,"Sustainable industries, Green infrastructure, Sustainable energy"
+SDG09051,9,Environmental impact assessment, "Environmental impact assessment"  
+SDG09052,9,Green infrastructure, "Green infrastructure"
+SDG09053,9,ESG,"Environmental,_social,_and_governance"
+SDG09060,9,Technology Resilience,"Cyber Resilience Act, Computer security, Cyber resilience"
+SDG09061,9,Cybercrime,"Cybercrime"
+SDG09062,9,Computer security,"Computer security"
+SDG09063,9,Cyber resilience,"Cyber resilience"
+SDG09070,9,Industrial Policy,"Software standard, Industrial Policy, Communication protocol","Software standard, Commercial policy, Communication protocol"
+SDG09071,9,Software standard,"Software standard" 
+SDG09072,9,Commercial policy,"Commercial policy"
+SDG09073,9,Communication protocol,"Communication protocol"
+SDG09080,9,NaTech Accidents,"Domino effect accident, Process safety, Transdisciplinarity"
+SDG09081,9,Domino effect accident,"Domino effect accident" 
+SDG09082,9,Process safety,"Process safety"
+SDG09083,9,Disaster risk reduction,"Disaster risk reduction"
+SDG09090,9,Green Economy,"Green economy, Ecological economics, Environmental economics"
+SDG09091,9,Sustainability standards and certification,"Sustainability standards and certification"
+SDG09092,9,Green accounting,"Green accounting"
+SDG09093,9,Environmental economics,"Environmental economics"
+SDG09100,9,Digital Transformation,"Artificial Intelligence, Digital transformation, Discovery-driven planning"
+SDG09101,9,Artificial Intelligence,"Artificial Intelligence"  
+SDG09102,9,Digital transformation,"Digital transformation"
+SDG09103,9,Discovery-driven planning,"Discovery-driven planning"
 SDG10000,10,SDG 10,"Inclusive growth, Smart growth, Social exclusion, Discrimination, Antisemitism, Anti-Catholicism, Anti-Arabism, Income distribution, Economic inequality, Distribution of wealth, Social mobility, Social stigma, Spatial inequality, Social equity, Social justice, Social privilege, Migrant, Refugee, Diaspora, Asylum seeker, Disability, Assistive technology, Parents with disabilities, Global citizenship, Transnationality, Transnationalism, Globalization, Fair trade, Fairtrade International, Alter-globalization, Social inequality, Gini coefficient, Distribution of wealth, Sustainable Development Goal 10"
 SDG10010,10,Social exclusion,"Inclusive growth, Smart growth, Social exclusion","Inclusive growth, Smart growth, Social alienation","Inclusive growth, Smart growth, Social alienation"
 SDG10011,10,

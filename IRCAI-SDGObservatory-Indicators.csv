@@ -561,3 +561,145 @@ Index,Long Name,Indicators Short Name,SDG
 560,Prevalence of anemia among pregnant women (%),Anemia in pregnant women,3
 561,Percent of Animal contact deaths,Animal contact deaths,3
 562,Vaccination schedule for measles-containing-vaccine second-dose (MCV2) vaccine,Vaccination for measles second-dose (MCV2),3
+563,"Share of population in poverty ($2.15 a day, 2017 prices) - Income or consumption consolidated",Population living in extreme poverty,1
+564,Poverty headcount ratio at national poverty lines (% of population),Population living below national poverty lines,1
+565,1.2.2 - Proportion of population living in multidimensional poverty (%) - SD_MDP_MUHC - All age ranges or no breaks by age - All areas - Both sexes,Multidimensional poverty (national def),1
+566,"1.3.1 - [ILO] Proportion of population covered by at least one social protection benefit, by sex (%) - SI_COV_BENFTS - Both sexes",Share of at least one social protection benefit,1
+567,"1.a.1 - Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI) - DC_ODA_POVLG",GNI from poverty reduction grants,1
+568,2.1.1 Prevalence of undernourishment | 000000000024000 || Value | 006121 || percent,Population that is undernourished,2
+569,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average) | 00210091 || Value | 006121 || percent,Population with moderate or severe food insecurity,2
+570,"Stunting prevalence among children under 5 years of age (% height-for-age <-2 SD), model-based estimates - Sex: both sexes",Share of children who are stunted,2
+571,"Prevalence of wasting, weight for height (% of children under 5)",Share of children who are wasted,2
+572,"2.3.1 - Productivity of small-scale food producers (agricultural output per labour day, PPP) (constant 2017 international $) - PD_AGR_SSFP - Both sexes",Productivity of small-scale food producers,2
+573,"2.3.2 - Average income of small-scale food producers, PPP (constant 2017 international $) - SI_AGR_SSFP - Both sexes",Average income of small-scale food producers,2
+574,2.5.1 - Plant genetic resources accessions stored ex situ (number) - ER_GRF_PLNTSTOR,Unique plant genetic samples in conservation,2
+575,2.5.2 - Proportion of local breeds classified as being at risk of extinction as a share of local breeds with known level of extinction risk (%) - ER_RSK_LBREDS,Local livestock breeds at risk of extinction,2
+576,"Agriculture, forestry, fishing (General Government) | 00023131 || Agriculture orientation index US$ | 006159 ||",Agriculture orientation index for gov spending,2
+577,"2.a.2 - Total official flows (disbursements) for agriculture, by recipient countries (millions of constant 2022 United States dollars) - DC_TOF_AGRL",Total financial assistance and flows for agriculture,2
+578,2.b.1 - Agricultural export subsidies (millions of current United States dollars) - AG_PRD_XSUBDY,Agricultural export subsidies,2
+579,"2.c.1 - Indicator of Food Price Anomalies (IFPA), by Consumer Food Price Index - AG_FPA_CFPI",Indicator of food price anomalies,2
+580,Maternal mortality ratio (per 100 000 live births),Maternal mortality ratio,3
+581,Births attended by skilled health staff (% of total),Births attended by health staff,3
+582,"Child mortality rate of children aged under five years, per 100 live births",Child mortality rate,3
+583,"Neonatal mortality rate of babies aged less than 28 days, per 100 live birth",Neonatal mortality rate,3
+584,Rate of new tuberculosis cases,Rate of new tuberculosis cases,3
+585,"Incidence of malaria (per 1,000 population at risk)",Incidence of malaria,3
+586,3.3.4 - Prevalence of hepatitis B surface antigen (HBsAg) (%) - SH_HAP_HBSAG,Children with an active hepatitis B infection,3
+587,Reported number of people requiring interventions against NTDs,Deaths from non-communicable diseases,3
+588,Death rate from self-harm among both sexes,Suicide rate,3
+589,"3.5.1 - Alcohol use disorders, 12-month prevalence (%) - SH_SUD_ALCOL - Both sexes",Population with alcohol use disorders,3
+590,"4.2.1 - Proportion of children aged 36_59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning (% of children aged 36-59 months) - SE_DEV_ONTRK - 36 to 59 months old - Both sexes",Proportion of children developmentally on track,4
+591,Completion rate in primary education,Completion rate in primary education,4
+592,"4.2.2 - Participation rate in organized learning (one year before the official primary entry age), by sex (%) - SE_PRE_PARTN - Both sexes","Net enrolment rate, pre-primary",4
+593,"4.3.1 - Participation rate in formal and non-formal education and training, by sex (%) - SE_ADT_EDUCTRN - 15 to 64 years old - Both sexes",Participation in formal and non-formal education,4
+594,"4.4.1 - Proportion of youth and adults with information and communications technology (ICT) skills, by sex and type of skill (%) - SE_ADT_ACTS - 25 to 74 years old - All areas - Both sexes - Creating electronic presentations with presentation software",ICT skills in using presentation software,4
+595,"Completion rate in primary education, adjusted gender parity index (GPIA)",Completion rate in primary education,4
+596,"Literacy rate, youth female (% of females ages 15-24)",Literacy rate of young women,4
+597,"4.a.1 - Proportion of schools with access to electricity, by education level (%) - SE_ACS_ELECT - Primary",Schools access to electricity,4
+598,"4.b.1 - Total official flows for scholarships, by recipient countries (millions of constant 2022 United States dollars) - DC_TOF_SCHIPSL",Overseas development assistance,4
+599,"4.c.1 - Proportion of teachers with the minimum required qualifications, by education level and sex (%) - SE_TRA_GRDL - Pre-primary - Both sexes",Qualified teachers in pre-primary education,4
+600,"5.2.1 - Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months, by age (%) - VC_VAW_MARR - 15 years old and over",Women who experienced violence from partner,5
+601,5.3.1 - Proportion of women aged 20-24 years who were married or in a union before age 15 (%) - SP_DYN_MRBF15,Women who were married by 15,5
+602,"5.4.1 - Proportion of time spent on unpaid domestic chores and care work, by sex, age and location (%) - SL_DOM_TSPD - 15 years old and over - All areas - Female",Time women and men on unpaid domestic work,5
+603,Lower chamber female legislators (central estimate),Share of women in parliament,5
+604,"5.6.1 - Proportion of women who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women aged 15-49 years) - SH_FPL_INFM",Women with informed decisions on sexual issues,5
+605,"5.6.2 - Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education (%) - SH_LGR_ACSRHE",Access to sexual healthcare,5
+606,Share of the population using safely managed drinking water services,Share using safely managed drinking water,6
+607,6.3.1 - Proportion of safely treated domestic wastewater flows (%) - EN_WWT_WWDS,Domestic wastewater that is safely treated,6
+608,6.3.2 - Proportion of bodies of water with good ambient water quality (%) - EN_H2O_WBAMBQ,Water bodies with good ambient water quality,6
+609,"Water productivity, total (constant 2015 US$ GDP per cubic meter of total freshwater withdrawal)","Water productivity, GDP per m2 of freshwater withdrawal",6
+610,6.4.2 - Level of water stress: freshwater withdrawal as a proportion of available freshwater resources (%) - ER_H2O_STRESS - No breakdown,Freshwater withdrawals from internal resources,6
+611,6.5.1 - Degree of integrated water resources management implementation (%) - ER_H2O_IWRMD,Implementation of integrated water resource management,6
+612,6.5.2 - Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation (%) - EG_TBA_H2CO,Transboundary water basins for water cooperation,6
+613,"6.a.1 - Total official development assistance (gross disbursement) for water supply and sanitation, by recipient countries (millions of constant 2022 United States dollars) - DC_TOF_WASHL",Financial flows for water supply and sanitation,6
+614,Access to electricity (% of population),Access to electricity (% of population),7
+615,Proportion of population with primary reliance on clean fuels and technologies for cooking (%) - Residence area type: Total,Population with access to clean fuels for cooking,7
+616,7.2.1 - Renewable energy share in the total final energy consumption (%) - EG_FEC_RNEW,Final energy use from renewable sources,7
+617,Energy intensity level of primary energy (MJ/$2017 PPP GDP),Energy intensity,7
+618,"7.a.1 - International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems (millions of constant 2021 United States dollars) - EG_IFF_RANDN - All renewables",International finance received for clean energy,7
+619,7.b.1 - Installed renewable electricity-generating capacity (watts per capita) - EG_EGY_RNEW - All renewables,Renewable electricity-generating capacity,7
+620,GDP per capita growth (annual %),Growth of GDP per capita,8
+621,8.2.1 - Annual growth rate of real GDP per employed person (%) - SL_EMP_PCAP,Growth of GDP per employed person,8
+622,"8.3.1 - Proportion of informal employment, by sector and sex - 13th ICLS (%) - SL_ISV_IFEM - Non-agriculture - Both sexes",Workers informally employed in non-agricultural workplaces,8
+623,"12.2.2 - Domestic material consumption per capita, by type of raw material (tonnes) - EN_MAT_DOMCMPC - Total or no breakdown",Domestic material consumption,8
+624,Average hourly earnings of employees (constant 2011 PPP $),Average hourly earnings of employees,8
+625,"Unemployment, total (% of total labor force) (modeled ILO estimate)",Unemployment rate,8
+626,"8.6.1 - Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) - SL_TLF_NEET - Both sexes",Young people not in education or employment,8
+627,"8.7.1 - Proportion of children engaged in economic activity, by sex and age (%) - SL_TLF_CHLDEA - 5 to 17 years old - Both sexes",Children engaged in labor,8
+628,"8.8.1 - Fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees) - SL_EMP_FTLINJUR - No breakdown - Both sexes",Fatal occupational injury rates,8
+629,8.8.2 - Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation - SL_LBR_NTLCPL,Level of national compliance with labor rights,8
+630,"8.a.1 - Total official flows (commitments) for Aid for Trade, by recipient countries (millions of constant 2022 United States dollars) - DC_TOF_TRDCML",Flows commitments for aid for trade,8
+631,"Railways, passengers carried (million passenger-km)",Passenger-kilometers by rail,9
+632,"Manufacturing, value added (% of GDP)",Share of manufacturing in GDP,9
+633,9.2.2 - Manufacturing employment as a proportion of total employment - 13th ICLS (%) - SL_TLF_MANF,Manufacturing jobs as a share employment,9
+634,9.3.1 - Proportion of small-scale manufacturing industries in total manufacturing value added (%) - NV_IND_SSIS - Manufacturing,Small-scale manufacturing share,9
+635,9.3.2 - Proportion of small-scale industries with a loan or line of credit (%) - FC_ACC_SSID,Small-scale industries with a loan,9
+636,Research and development expenditure (% of GDP),Research expenditure (% of GDP),9
+637,Researchers in R&D (per million people),Researchers in R&D,9
+638,"9.a.1 - Total official flows for infrastructure, by recipient countries (millions of constant 2022 United States dollars) - DC_TOF_INFRAL",International financial support to infrastructure,9
+639,9.b.1 - Proportion of medium and high-tech manufacturing value added in total value added (%) - NV_IND_TECH - Manufacturing,Medium and high-tech manufacturing,9
+640,9.c.1 - Proportion of population covered by at least a 2G mobile network (%) - IT_MOB_2GNTWK,Share of population in range of mobile network,9
+641,"16.b.1 - Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%) - VC_VOV_GDSD - No breakdown by disability - All grounds or no breakdown - All areas - Both sexes",Adults discriminated against,10
+642,10.4.1 - Labour share of GDP (%) - SL_EMP_GTOTL,Labor share of GDP,10
+643,Population,World Population,10
+644,10.7.3 - Total deaths and disappearances recorded during migration (number) - SM_DTH_MIGR,Deaths and disappearances during migration,10
+645,10.a.1 - Proportion of tariff lines applied to imports with zero-tariff (%) - TM_TRF_ZERO - Total or no breakdown,No tariff products from least-developed countries,10
+646,10.c.1 - Average remittance costs of sending $200 for a sending country as a proportion of the amount remitted (%) - SI_RMT_COST_SND,Remittance costs,10
+647,11.1.1 - Proportion of urban population living in slums (%) - EN_LND_SLUM,Urban population living in slums,11
+648,Proportion of population that has convenient access to public transport,Urban populations access to public transport,11
+649,"11.4.1 - Total expenditure per capita spent on cultural and natural heritage, public and private (PPP, constant 2017 United States dollars) - GB_XPD_CULNAT_PBPV",Heritage spending per capita,11
+650,11.5.2 - Direct economic loss attributed to disasters relative to GDP (%) - VC_DSR_LSGP,Direct economic loss from disasters,11
+651,"11.6.1 - Municipal Solid Waste collection coverage, by cities (%) - EN_REF_WASCOL",Population served by municipal waste collection,11
+652,Concentrations of fine particulate matter (PM2.5) - Residence area type: Total,Exposure to particulate matter air pollution,11
+653,11.b.1 - Score of adoption and implementation of national DRR strategies in line with the Sendai Framework - SG_DSR_LGRGSR,Policies to reduce disaster risk,11
+654,"13.1.1 - Number of deaths and missing persons attributed to disasters per 100,000 population (number) - VC_DSR_MTMP",Deaths and missing persons due to natural disasters,11
+655,11.b.1 - Score of adoption and implementation of national DRR strategies in line with the Sendai Framework - SG_DSR_LGRGSR,Policies to reduce disaster risk,11
+656,13.1.3 - Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (%) - SG_DSR_SILS,Local governments with disaster risk reduction strategies,11
+657,"12.2.2 - Domestic material consumption per capita, by type of raw material (tonnes) - EN_MAT_DOMCMPC - Total or no breakdown",Domestic material consumption per capita,12
+658,"12.4.1 - Parties meeting their commitments and obligations in transmitting information as required by Basel Convention on hazardous waste, and other chemicals (%) - SG_HAZ_CMRBASEL",Required information submitted to ITAs,12
+659,"12.4.2 - Hazardous waste generated, per capita (Kg) - EN_HAZ_PCAP",,12
+660,12.5.1 - Municipal waste recycled (Tonnes) - EN_MWT_RCYV,Municipal waste recycled,12
+661,"12.6.1 - Number of companies publishing sustainability reports with disclosure by dimension, by level of requirement (Number) - EN_SCP_FRMN - No breakdown",Companies publishing sustainability reports,12
+662,7.b.1 - Installed renewable electricity-generating capacity (watts per capita) - EG_EGY_RNEW - All renewables,Renewable electricity-generating capacity,12
+663,12.c.1 - Fossil-fuel subsidies (consumption and production) as a proportion of total GDP (%) - ER_FFS_CMPT_GDP,Explicit fossil fuel subsidies,12
+664,total-ghg-emissions.csv,Greenhouse gas emissions,13
+665,Annual CO_ emissions per GDP (kg per international-$),Carbon intensity: CO_ emissions per GDP,13
+666,14.4.1 - Proportion of fish stocks within biologically sustainable levels (not overexploited) (%) - ER_H2O_FWTL,Sustainable fish stocks,14
+667,Marine protected areas (% of territorial waters),Marine protected areas,14
+668,14.7.1 - Sustainable fisheries as a proportion of GDP - EN_SCP_FSHGDP,Sustainable fisheries (%GDP),14
+669,14.a.1 - National ocean science expenditure as a share of total research and development funding (%) - ER_RDE_OSEX,Ocean research funding,14
+670,15.5.1 - Red List Index - ER_RSK_LST,Red List Index,15
+671,Share of land covered by forest,Share of land covered by forest,15
+672,Terrestrial protected areas (% of total land area),Terrestrial protected areas,15
+673,15.2.1 - Annual forest area change rate (%) - AG_LND_FRSTCHG,Annual change in forest area,15
+674,15.3.1 - Proportion of land that is degraded over total land area (%) - AG_LND_DGRD,Share of degraded land,15
+675,15.4.1 - Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas (%) - ER_PTD_MTN,Coverage of mountain key biodiversity,15
+676,15.4.2 - Mountain Green Cover Index - ER_MTN_GRNCVI - Total - Mountain Green Cover Index (MGCI),Mountain Green Cover Index,15
+677,"15.a.1 - Total official development assistance for biodiversity, by recipient countries (millions of constant 2022 United States dollars) - DC_ODA_BDVL",Donations for biodiversity conservation,15
+678,"Homicide rate per 100,000 population - sex: Total - age: Total",Homicide rate,16
+679,Deaths in ongoing conflicts (best estimate) - Conflict type: all,Deaths in armed conflicts,16
+680,16.1.4 - Proportion of population that feel safe walking alone around the area they live after dark (%) - VC_SNS_WALN_DRK - Both sexes,Safe walking alone at night,16
+681,16.2.1 - Proportion of children aged 1-14 years who experienced physical punishment and/or psychological aggression by caregivers in last month (% of children aged 1-14 years) - VC_VAW_PHYPYV - 1 to 14 years old,Children who experienced violence,16
+682,"16.2.2 - Detected victims of human trafficking, by age and sex (number) - VC_HTF_DETV - under 18 years old - Female",Human trafficking victims,16
+683,"16.2.3 - Proportion of population aged 18-29 years who experienced sexual violence by age 18, by sex (% of population aged 18-29) - VC_VAW_SXVLN - 18 to 29 years old - Female",Young women experiencing sexual violence,16
+684,"16.3.1 - Police reporting rate for robbery in the previous 12 months, by sex (%) - VC_PRR_ROBB - Both sexes",Victims reporting crime to the police,16
+685,16.3.2 - Unsentenced detainees as a proportion of overall prison population (%) - VC_PRS_UNSNT - Both sexes,Unsentenced detainees,16
+686,"16.4.2 - Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments - VC_ARM_SZTRACE",Weapons with illicit origin,16
+687,Share of people who said they were recently asked for a bribe or paid one,Bribes in People,16
+688,Share of firms that were asked to pay a bribe,Bribes in Firms,16
+689,16.6.1 - Primary government expenditures as a proportion of original approved budget (%) - GF_XPD_GBPC,Primary government spending,16
+690,Completeness of birth registration (%),Share of births registered,16
+691,17.1.1 - Total government revenue as a proportion of GDP (%) - GR_G14_GDP,Government revenues as a share of GDP,17
+692,17.1.2 - Proportion of budgetary central government funded by domestic taxes (%) - GC_GOB_TAXD,Government spending funded by taxes,17
+693,ODA by donor (% of GNI) - Official estimate,ODA by donor (% of GNI),17
+694,"Foreign direct investment, net outflows (% of GDP)",Foreign direct investment (% of GDP),17
+695,total-number-of-emigrants.csv,total-number-of-emigrants,17
+696,17.4.1 - Debt service as a proportion of exports of goods and services (%) - DT_TDS_DECT,Debt service as a share of exports,17
+697,Fixed broadband subscriptions (per 100 people),Landline Internet subscriptions,17
+698,17.7.1 - Amount of tracked exported Environmentally Sound Technologies (current United States dollars) - DC_ENVTECH_EXP,Export of environmentally sound technologies,17
+699,Individuals using the Internet (% of population),Individuals using the Internet,17
+700,17.9.1 - Total official development assistance (gross disbursement) for technical cooperation (millions of 2022 United States dollars) - DC_FTA_TOTAL,Development assistance for technical co-operation,17
+701,17.11.1 - Developing countriesÕ and least developed countriesÕ share of global merchandise exports (%) - TX_EXP_GBMRCH,Share of global merchandise exports,17
+702,"Tariff rate, applied, weighted mean, all products (%), Tariff rate, applied, weighted mean, primary products (%), Tariff rate, applied, weighted mean, manufactured products (%)",Tariff rate for primary and manufactured products,17
+703,"Inflation, consumer prices (annual %)",Inflation of consumer prices,17
+704,"17.17.1 - Amount of United States dollars committed to public-private partnerships for infrastructure, million USD real - GF_COM_PPPI_KD",Funded public-private partnerships,17

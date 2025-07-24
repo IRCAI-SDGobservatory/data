@@ -41,7 +41,7 @@ The following table shows the main information fields available in the metadata 
 | INNOVATION  | title  | <none> | wikifier.concepts.name  | sentiment.compound | SDG  | SDGtopic  | country_code  | pilot | year |
  
 
-##SDG Terminology Aligned with Wikidata
+## SDG Terminology Aligned with Wikidata
 
 The terminology used to assigned the 17 SDG labelsto textual documents is based on 10 topics selected as representative and curated by the *mentor* of the SDG (usually the related IRCAI chair).
 The 10 Topics defined at each SDG is based on Wikidata keywords that allows a crosslingual approach with language coverage as indicated in Wikipedia.org.

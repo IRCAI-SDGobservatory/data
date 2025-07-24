@@ -21,22 +21,25 @@ The data is mostly public data often obtained in partnership as follows:
 
 The following are the structure files that are made available to understand the metadata of the 6 different data indices:
 
-* IRCAI-ELKdata: 
-* IRCAI-SDGObservatory-Indicators: 
-* IRCAI-SDGObservatory-Target Indicators: 
-* IRCAI-SDGontology: 
-* IRCAI-SDGtopics-oAlex: 
-* IRCAI-SDGtopics: 
-* IRCAI-ObsPilots: 
+* IRCAI-ELKdata: describes the metadata structure across all indices
+* IRCAI-SDGObservatory-Indicators: lists the indicators ingested into the system and their assignment to SDGs 
+* IRCAI-SDGObservatory-Target Indicators: lists the indicators chosen to drive the causality analysis at each SDG 
+* IRCAI-SDGontology: describes the 3-level ontology of wikidata terms used to assign SDG topics and build BERT-based classification
+* IRCAI-SDGtopics-oAlex: lists the original concepts labelling the Open Alex data on published scientific knowledge 
+* IRCAI-SDGtopics: lists the 10 SDG topics per SDG
+* IRCAI-ObsPilots: describes the observatories as data products generated from the SDG data infrastructure
 
-	NAME	AUTHOR	CONCEPTS	SENTIMENT	SDG	SDG-topic	COUNTRY	PILOT	YEAR
-INDICATORS	Indicator Name	/	/	/	SDG	/	country_code	pilot	year
-MEDIA	title	authors.name	wikifier.concepts.name	sentiment.compound	SDG	SDGtopic	location.country	pilot	year
-SCIENCE	display_name	authorships.author.display_name	wikifier.concepts.name	sentiment.compound	SDG	SDGtopic	authorships.institutions.country_code	pilot	publication_year
-POLICY	title	/	wikifier.concepts.name	sentiment.compound	SDG	SDGtopic	country_code	pilot	year
-EDUCATION	title	authors.name	wikifier.concepts.name	sentiment.compound	SDG	SDGtopic	country_code	pilot	year
-INNOVATION	title	/	wikifier.concepts.name	sentiment.compound	SDG	SDGtopic	country_code	pilot	year
+The following table shows the main information fields available in the metadata at each of the 6 data indices, both in the description of the content (through titles, authors, location and year), as well as in the concepts, sentiments and SDG topics computed from the data.
 
+| INDEX | TITLE  | AUTHOR | CONCEPTS  | SENTIMENT | SDG | SDG-topic | COUNTRY | PILOT | YEAR |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |  ------------- |  ------------- | 
+| INDICATORS  | Indicator Name  | <none> | <none> | <none> | SDG | <none> | country_code  | pilot  | year |
+| MEDIA  | title | authors.name  | wikifier.concepts.name  | sentiment.compound  | SDG  | SDGtopic  | location.country | pilot  | year |
+| SCIENCE  | display_name  | authorships.author.display_name  | wikifier.concepts.name  | sentiment.compound  |  SDG  | SDGtopic | authorships.institutions.country_code  | pilot  | publication_year |
+| POLICY  | title  | <none> | wikifier.concepts.name  | sentiment.compound | SDG  | SDGtopic  | country_code  | pilot | year |
+| EDUCATION | title  | authors.name  | wikifier.concepts.name  | sentiment.compound | SDG  | SDGtopic  | country_code  | pilot | year |
+| INNOVATION  | title  | <none> | wikifier.concepts.name  | sentiment.compound | SDG  | SDGtopic  | country_code  | pilot | year |
+ 
 
 ##SDG Terminology Aligned with Wikidata
 

@@ -21,13 +21,13 @@ The data is mostly public data often obtained in partnership as follows:
 
 The following are the structure files that are made available to understand the metadata of the 6 different data indices:
 
-* IRCAI-ELKdata: describes the metadata structure across all indices
-* IRCAI-SDGObservatory-Indicators: lists the indicators ingested into the system and their assignment to SDGs 
-* IRCAI-SDGObservatory-Target Indicators: lists the indicators chosen to drive the causality analysis at each SDG 
-* IRCAI-SDGontology: describes the 3-level ontology of wikidata terms used to assign SDG topics and build BERT-based classification
-* IRCAI-SDGtopics-oAlex: lists the original concepts labelling the Open Alex data on published scientific knowledge 
-* IRCAI-SDGtopics: lists the 10 SDG topics per SDG
-* IRCAI-ObsPilots: describes the observatories as data products generated from the SDG data infrastructure
+* [IRCAI-ELKdata](https://github.com/IRCAI-SDGobservatory/data/blob/main/IRCAI-ELKdata.csv): describes the metadata structure across all indices
+* [IRCAI-SDGObservatory-Indicators](https://github.com/IRCAI-SDGobservatory/data/blob/main/IRCAI-SDGObservatory-Indicators.csv): lists the indicators ingested into the system and their assignment to SDGs 
+* [IRCAI-SDGObservatory-Target Indicators](https://github.com/IRCAI-SDGobservatory/data/blob/main/IRCAI-SDGObservatory-Target_Indicators.csv): lists the indicators chosen to drive the causality analysis at each SDG 
+* [IRCAI-SDGontology](https://github.com/IRCAI-SDGobservatory/data/blob/main/IRCAI-SDGontology.csv): describes the 3-level ontology of wikidata terms used to assign SDG topics and build BERT-based classification
+* [IRCAI-SDGtopics-oAlex](https://github.com/IRCAI-SDGobservatory/data/blob/main/IRCAI-SDGtopics-oAlex.csv): lists the original concepts labelling the Open Alex data on published scientific knowledge 
+* [IRCAI-SDGtopics](https://github.com/IRCAI-SDGobservatory/data/blob/main/IRCAI-SDGtopics.csv): lists the 10 SDG topics per SDG
+* [IRCAI-ObsPilots](https://github.com/IRCAI-SDGobservatory/data/blob/main/IRCAI-ObsPilots.csv): describes the observatories as data products generated from the SDG data infrastructure
 
 The following table shows the main information fields available in the metadata at each of the 6 data indices, both in the description of the content (through titles, authors, location and year), as well as in the concepts, sentiments and SDG topics computed from the data.
 

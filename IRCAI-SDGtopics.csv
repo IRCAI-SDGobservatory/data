@@ -1,7 +1,7 @@
 TOPIC-id,SDG,TOPIC,Keywords,ER
 SDGt001,1,SDG 1,"Extreme poverty, Poverty, Poverty reduction, Poverty threshold, Poverty Reduction Strategies, Microfinance, Microcredit, Small business, Child labour, Child Labor Law, Child Support Grant, Child Welfare, Child Labor Regulation, Social protection, Social safety net, Welfare, Welfare spending, Social Exclusion, Financial inclusion, Conditional Cash Transfer, Poverty Alleviation, Economic Resource AND Access, Inclusive Growth, Third World, Low Income, Low Income Population, Third World, Development Assistance Committee, Development Aid, Official Development Assistance, International Development, Human Development Index, Economic inequality, Income inequality metrics, Multidimensional Poverty Index, Cost of poverty, Social insurance, Social inequality, Poverty reduction, Poverty Line, Gini index, Universal Basic Income, Global Poverty Line", Sustainable Development Goal 1",132a0b27-3a0d-4cfc-ae1a-a3bf391b4f48
 SDGt002,1,Extreme Poverty,"Poverty, Poverty reduction, Poverty threshold, Extreme poverty, Poverty Reduction Strategies",
-SDGt003,1,Microfinance,"Microfinance, Microcredit, Small business",,,
+SDGt003,1,Microfinance,"Microfinance, Microcredit, Small business",
 SDGt004,1,Child Labour,"Child labour, Child Labor Law, Child Support Grant, Child Welfare, Child Labor Regulations",
 SDGt005,1,Social Protection,"Social protection, Social safety net, Welfare, Welfare spending, Social Exclusion",
 SDGt006,1,Financial Inclusion,"Financial inclusion, Conditional Cash Transfer, Poverty Alleviation, Economic Resource AND Access, Inclusive Growth",
@@ -184,6 +184,7 @@ SDGt184,17,International Partnerships,"Global Partnerships, International develo
 SDGt185,17,Policy Coherence,"Policy coherence for development, Global governance,International law",
 SDGt186,17,Resource Mobilization,"Resource mobilization, Mass mobilization, Social movement organization",
 SDGt187,17,Multilateral Agreements,"Partnerships for Goals, Multilateralism, Multilateral treaty",
+
 
 
 

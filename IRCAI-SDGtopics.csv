@@ -26,7 +26,7 @@ SDGt024,3,Rare Diseases,"Biomedical sciences, Rare disease, Orphan drugs, Orphan
 SDGt025,3,Communicable Diseases,"Epidemiology, AIDS, Infection, Infectious diseases (medical specialty), COVID-19, Ebola, Influenza, Hepatitis, Mpox, Tuberculosis",
 SDGt026,3,Non-communicable Diseases,"Diabetes, Asthma, Arthritis, Cardiovascular disease, Osteoporosis, Cancer, Alzheimer's disease, Non-communicable Diseases",
 SDGt027,3,Maternal Health,"Maternal health, preconception, pregnancy, childbirth, Reproductive health, Complications of pregnancy",
-SDGt028,3,Vaccination,"Vaccination, Vaccination policy, Vaccination schedule" ,"Vaccination policy, Vaccination schedule, Vaccine trial",
+SDGt028,3,Vaccination,"Vaccination, Vaccination policy, Vaccination schedule",
 SDGt029,3,Public Healthcare,"MEDLINE, Health system, Health care, Health equity, Health human resources, Health insurance, Primary care, Universal Healthcare, Access to Medicine",
 SDGt030,3,Cancer Research,"Cancer, Cancer screening, Cancer treatment, Epidemiology of cancer, Oncology, Cancer research",
 SDGt031,3,Mental Health,"Mental health, Mental disorder, Mental environment, Emotional resilience, Social stigma",
@@ -184,6 +184,7 @@ SDGt184,17,International Partnerships,"Global Partnerships, International develo
 SDGt185,17,Policy Coherence,"Policy coherence for development, Global governance,International law",
 SDGt186,17,Resource Mobilization,"Resource mobilization, Mass mobilization, Social movement organization",
 SDGt187,17,Multilateral Agreements,"Partnerships for Goals, Multilateralism, Multilateral treaty",
+
 
 
 

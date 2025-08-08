@@ -53,6 +53,6 @@ Salvatori A. and Ho C. (2022) Measuring Corporate SDG Alignment. TruValue Labs
 
 
 
-#### Country Codes
+#### Country Codes and World Regions
 
-Taken from https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes/tree/master
+We are using the ISO country codes available at https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes/tree/master and the world regions according to the UN SDGs https://unstats.un.org/sdgs/indicators/regional-groups/ made available by Our World in Data at https://ourworldindata.org/world-region-map-definitions

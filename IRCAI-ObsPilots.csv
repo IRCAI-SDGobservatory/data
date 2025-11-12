@@ -9,11 +9,14 @@ PILOT003,COP30,"Amazon rainforest,Indigenous peoples, Artificial intelligence, S
 PILOT004,ELIAS,"Human migration, European migrant crisis,Refugee crisis,Climate migrant,Economic migrant,Migrant",71299589-2ba9-48af-9408-da0d3f704d5f,,,
 PILOT005,AImov,"Artificial Intelligence,Gender",48b13409-cc9a-49f2-abb9-ad2f50db8915,,,
 PILOT006,RaD,"Rare disease, Orphanet,9q34.3 deletion syndrome, Angelman syndrome, Dravet syndrome, Cornelia de Lange syndrome, Fragile X syndrome, Rett syndrome, Kabuki syndrome, Prader–Willi syndrome",e5ad292d-4cd9-460e-ac82-6e8fe0c650cc,,,
-PILOT007,OBIA,"Brasil, Artificial intelligence, Education, Healthcare",99f967a0-20fa-40aa-888f-67b203554d42,,,
-PILOT008,AIQuantum,"Quantum machine learning, Quantum neural network, Quantum natural language processing, Quantum computing, Quantum cognition",17cf7add-5fca-466e-be39-b080b96c57ef,,,
-PILOT009,RAM,"Ethics of artificial intelligence, Regulation of artificial intelligence, AI safety, Sustainable innovation",8e64227b-c75f-4324-9852-1db235564a16,,,
-PILOT010,SANDWATCH,"Small Island Developing States,Sustainable Development Goal 11,Alliance of Small Island States",e130bedd-96f8-4aab-a393-bf98813185c3,,,
-PILOT011,LACeduc,"Artificial Intelligence,Latin America and the Caribbean, Education, Open educational resources,Education policy",6d612231-ffb0-4603-9e4a-5f3f3b8bc554,,,
+PILOT007,OBIA 1,"Brasil, Artificial intelligence, Data center, High-performance computing, Sustainability measurement,Energy",99f967a0-20fa-40aa-888f-67b203554d42,,,
+PILOT008,OBIA 2,"Brasil, Artificial intelligence, Data center, High-performance computing, Sustainability measurement,Water",3b90568b-8d96-46bc-ae29-4b409e5a07df,,,
+PILOT009,OBIA 3,"Brasil, Artificial intelligence, Data center, High-performance computing, Sustainability measurement,Waste",ad8bfbf3-98ce-472d-8db3-42243ff610b5,,,
+PILOT010,AIQuantum,"Quantum machine learning, Quantum neural network, Quantum natural language processing, Quantum computing, Quantum cognition",17cf7add-5fca-466e-be39-b080b96c57ef,,,
+PILOT011,RAM,"Ethics of artificial intelligence, Regulation of artificial intelligence, AI safety, Sustainable innovation",8e64227b-c75f-4324-9852-1db235564a16,,,
+PILOT012,SANDWATCH,"Small Island Developing States,Sustainable Development Goal 11,Alliance of Small Island States",e130bedd-96f8-4aab-a393-bf98813185c3,,,
+PILOT013,LACeduc,"Artificial Intelligence,Latin America and the Caribbean, Education, Open educational resources,Education policy",6d612231-ffb0-4603-9e4a-5f3f3b8bc554,,,
+
 
 
 

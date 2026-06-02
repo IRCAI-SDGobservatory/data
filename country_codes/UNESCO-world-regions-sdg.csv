@@ -14,22 +14,22 @@ Aruba,ABW,2024,Latin America and the Caribbean,Latin America and the Caribbean
 Australia,AUS,2024,Australia and New Zealand,Asia and the Pacific
 Austria,AUT,2024,Asia and the Pacific,Europe
 Azerbaijan,AZE,2024,Northern Africa and Western Asia,Asia and the Pacific
-Bahamas,BHS,2024,Latin America and the Caribbean
+Bahamas,BHS,2024,Latin America and the Caribbean,Latin America and the Caribbean
 Bahrain,BHR,2024,Northern Africa and Western Asia,Arab States
 Bangladesh,BGD,2024,Central and Southern Asia,Asia and the Pacific
 Barbados,BRB,2024,Latin America and the Caribbean,Latin America and the Caribbean
 Belarus,BLR,2024,Europe and Northern America,Europe
 Belgium,BEL,2024,Europe and Northern America,Europe
 Belize,BLZ,2024,Latin America and the Caribbean,Latin America and the Caribbean
-Benin,BEN,2024,Sub-Saharan Africa, Africa
+Benin,BEN,2024,Sub-Saharan Africa,Africa
 Bermuda,BMU,2024,Europe and Northern America,North America
 Bhutan,BTN,2024,Central and Southern Asia,Asia and the Pacific
 Bolivia,BOL,2024,Latin America and the Caribbean,Latin America and the Caribbean
 Bonaire Sint Eustatius and Saba,BES,2024,Latin America and the Caribbean
 Bosnia and Herzegovina,BIH,2024,Europe and Northern America,Europe
 Botswana,BWA,2024,Sub-Saharan Africa,Africa
-Bouvet Island,BVT,2024,Latin America and the Caribbean
-Brazil,BRA,2024,Latin America and the Caribbean
+Bouvet Island,BVT,2024,Latin America and the Caribbean,Latin America and the Caribbean
+Brazil,BRA,2024,Latin America and the Caribbean,Latin America and the Caribbean
 British Indian Ocean Territory,IOT,2024,Sub-Saharan Africa,Africa
 British Virgin Islands,VGB,2024,Latin America and the Caribbean,Latin America and the Caribbean
 Brunei,BRN,2024,Eastern and South-Eastern Asia,Asia and the Pacific
@@ -40,18 +40,18 @@ Cambodia,KHM,2024,Eastern and South-Eastern Asia,Asia and the Pacific
 Cameroon,CMR,2024,Sub-Saharan Africa,Africa
 Canada,CAN,2024,Europe and Northern America,Europe
 Cape Verde,CPV,2024,Sub-Saharan Africa,Africa
-Cayman Islands,CYM,2024,Latin America and the Caribbean
+Cayman Islands,CYM,2024,Latin America and the Caribbean,Latin America and the Caribbean
 Central African Republic,CAF,2024,Sub-Saharan Africa,Africa
 Chad,TCD,2024,Sub-Saharan Africa,Africa
 Chile,CHL,2024,Latin America and the Caribbean,Latin America and the Caribbean
 China,CHN,2024,Eastern and South-Eastern Asia,Asia and the Pacific
-Christmas Island,CXR,2024,Australia and New Zealand
-Cocos Islands,CCK,2024,Australia and New Zealand
+Christmas Island,CXR,2024,Australia and New Zealand,Asia and the Pacific
+Cocos Islands,CCK,2024,Australia and New Zealand,Asia and the Pacific
 Colombia,COL,2024,Latin America and the Caribbean,Latin America and the Caribbean
 Comoros,COM,2024,Sub-Saharan Africa,Africa
 Congo,COG,2024,Sub-Saharan Africa,Africa
 Cook Islands,COK,2024,Oceania,Asia and the Pacific
-Costa Rica,CRI,2024,Latin America and the Caribbean
+Costa Rica,CRI,2024,Latin America and the Caribbean,Latin America and the Caribbean
 Cote d'Ivoire,CIV,2024,Sub-Saharan Africa,Africa
 Croatia,HRV,2024,Europe and Northern America,Europe
 Cuba,CUB,2024,Latin America and the Caribbean,Latin America and the Caribbean
@@ -72,14 +72,14 @@ Eritrea,ERI,2024,Sub-Saharan Africa,Africa
 Estonia,EST,2024,Europe and Northern America,Europe
 Eswatini,SWZ,2024,Sub-Saharan Africa,Africa
 Ethiopia,ETH,2024,Sub-Saharan Africa,Africa
-Falkland Islands,FLK,2024,Latin America and the Caribbean
+Falkland Islands,FLK,2024,Latin America and the Caribbean,Latin America and the Caribbean
 Faroe Islands,FRO,2024,Europe and Northern America,Europe
 Fiji,FJI,2024,Oceania,Asia and the Pacific
 Finland,FIN,2024,Europe and Northern America,Europe
 France,FRA,2024,Europe and Northern America,Europe
-French Guiana,GUF,2024,Latin America and the Caribbean
+French Guiana,GUF,2024,Latin America and the Caribbean,Latin America and the Caribbean
 French Polynesia,PYF,2024,Oceania,Asia and the Pacific
-French Southern Territories,ATF,2024,Sub-Saharan Africa
+French Southern Territories,ATF,2024,Sub-Saharan Africa,Africa
 Gabon,GAB,2024,Sub-Saharan Africa,Africa
 Gambia,GMB,2024,Sub-Saharan Africa,Africa
 Georgia,GEO,2024,Northern Africa and Western Asia,Europe
@@ -97,7 +97,7 @@ Guinea,GIN,2024,Sub-Saharan Africa,Africa
 Guinea-Bissau,GNB,2024,Sub-Saharan Africa,Africa
 Guyana,GUY,2024,Latin America and the Caribbean,Latin America and the Caribbean
 Haiti,HTI,2024,Latin America and the Caribbean,Latin America and the Caribbean
-Heard Island and McDonald Islands,HMD,2024,Australia and New Zealand
+Heard Island and McDonald Islands,HMD,2024,Australia and New Zealand,Asia and the Pacific
 Honduras,HND,2024,Latin America and the Caribbean,Latin America and the Caribbean
 Hong Kong,HKG,2024,Eastern and South-Eastern Asia,Asia and the Pacific
 Hungary,HUN,2024,Europe and Northern America,Europe
@@ -160,7 +160,7 @@ Nicaragua,NIC,2024,Latin America and the Caribbean,Latin America and the Caribbe
 Niger,NER,2024,Sub-Saharan Africa,Africa
 Nigeria,NGA,2024,Sub-Saharan Africa,Africa
 Niue,NIU,2024,Oceania,Asia and the Pacific
-Norfolk Island,NFK,2024,Australia and New Zealand
+Norfolk Island,NFK,2024,Australia and New Zealand,Asia and the Pacific
 North Korea,PRK,2024,Eastern and South-Eastern Asia,Asia and the Pacific
 North Macedonia,MKD,2024,Europe and Northern America,Europe
 Northern Mariana Islands,MNP,2024,Oceania,Asia and the Pacific
@@ -179,7 +179,7 @@ Poland,POL,2024,Europe and Northern America,Europe
 Portugal,PRT,2024,Europe and Northern America,Europe
 Puerto Rico,PRI,2024,Latin America and the Caribbean
 Qatar,QAT,2024,Northern Africa and Western Asia,Arab States
-Reunion,REU,2024,Sub-Saharan Africa
+Reunion,REU,2024,Sub-Saharan Africa,Africa
 Romania,ROU,2024,Europe and Northern America,Europe
 Russia,RUS,2024,Europe and Northern America,Europe
 Rwanda,RWA,2024,Sub-Saharan Africa,Africa
@@ -199,19 +199,19 @@ Serbia,SRB,2024,Europe and Northern America,Europe
 Seychelles,SYC,2024,Sub-Saharan Africa,Africa
 Sierra Leone,SLE,2024,Sub-Saharan Africa,Africa
 Singapore,SGP,2024,Eastern and South-Eastern Asia,Asia and the Pacific
-Sint Maarten (Dutch part),SXM,2024,Latin America and the Caribbean
+Sint Maarten (Dutch part),SXM,2024,Latin America and the Caribbean,Latin America and the Caribbean
 Slovakia,SVK,2024,Europe and Northern America,Europe
 Slovenia,SVN,2024,Europe and Northern America,Europe
 Solomon Islands,SLB,2024,Oceania,Asia and the Pacific
 Somalia,SOM,2024,Sub-Saharan Africa,Africa,Arab States
 South Africa,ZAF,2024,Sub-Saharan Africa,Africa
-South Georgia and the South Sandwich Islands,SGS,2024,Latin America and the Caribbean
+South Georgia and the South Sandwich Islands,SGS,2024,Latin America and the Caribbean,Latin America and the Caribbean
 South Korea,KOR,2024,Eastern and South-Eastern Asia,Asia and the Pacific
 South Sudan,SSD,2024,Sub-Saharan Africa,Africa,Arab States
 Spain,ESP,2024,Europe and Northern America,Europe
 Sri Lanka,LKA,2024,Central and Southern Asia,Asia and the Pacific
 Sudan,SDN,2024,Northern Africa and Western Asia,Arab States
-Suriname,SUR,2024,Latin America and the Caribbean
+Suriname,SUR,2024,Latin America and the Caribbean,Latin America and the Caribbean
 Svalbard and Jan Mayen,SJM,2024,Europe and Northern America,Europe
 Sweden,SWE,2024,Europe and Northern America,Europe
 Switzerland,CHE,2024,Europe and Northern America,Europe
@@ -226,7 +226,7 @@ Trinidad and Tobago,TTO,2024,Latin America and the Caribbean,Latin America and t
 Tunisia,TUN,2024,Northern Africa and Western Asia,Arab States
 Turkey,TUR,2024,Northern Africa and Western Asia,Asia and the Pacific
 Turkmenistan,TKM,2024,Central and Southern Asia,Asia and the Pacific
-Turks and Caicos Islands,TCA,2024,Latin America and the Caribbean
+Turks and Caicos Islands,TCA,2024,Latin America and the Caribbean,Latin America and the Caribbean
 Tuvalu,TUV,2024,Oceania,Asia and the Pacific
 Uganda,UGA,2024,Sub-Saharan Africa,Africa
 Ukraine,UKR,2024,Europe and Northern America,Europe
@@ -236,13 +236,13 @@ United States,USA,2024,Europe and Northern America,North America
 United States Minor Outlying Islands,UMI,2024,Oceania,Asia and the Pacific
 United States Virgin Islands,VIR,2024,Latin America and the Caribbean
 Uruguay,URY,2024,Latin America and the Caribbean,Latin America and the Caribbean
-Uzbekistan,UZB,2024,Central and Southern Asia
+Uzbekistan,UZB,2024,Central and Southern Asia,Asia and the Pacific
 Vanuatu,VUT,2024,Oceania,Asia and the Pacific
 Vatican,VAT,2024,Europe and Northern America,Europe
 Venezuela,VEN,2024,Latin America and the Caribbean,Latin America and the Caribbean
 Vietnam,VNM,2024,Eastern and South-Eastern Asia,Asia and the Pacific
 Wallis and Futuna,WLF,2024,Oceania,Asia and the Pacific
-Western Sahara,ESH,2024,Northern Africa and Western Asia
+Western Sahara,ESH,2024,Northern Africa and Western Asia,Arab States
 Yemen,YEM,2024,Northern Africa and Western Asia,Arab States
 Zambia,ZMB,2024,Sub-Saharan Africa,Africa
 Zimbabwe,ZWE,2024,Sub-Saharan Africa,Africa
